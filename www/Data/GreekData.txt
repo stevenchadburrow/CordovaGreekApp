@@ -1,0 +1,5627 @@
+$ 0 0 * -
+$ 1 3 * Alpha
+$ 2 5 * Aaron
+$ 3 1 * Abaddon
+$ 4 1 * from being burdensome
+$ 5 3 * Abba
+$ 6 4 * Abel
+$ 7 3 * Abia
+$ 8 1 * Abiathar
+$ 9 1 * Abilene
+$ 10 2 * Abiud
+$ 11 73 >Abra'am Abraham
+$ 12 9 * deep ; (bottomless) pit
+$ 13 2 * Agabus
+$ 14 1 * do good
+$ 15 11 >agajopoi'ew do good ; do well
+$ 16 1 * well-doing
+$ 17 1 * them that do well
+$ 18 102 >agaj'os good ; benefit ; good (things) ; well
+$ 19 4 * goodness
+$ 20 5 * gladness ; (exceeding) joy
+$ 21 11 >agalli'aw rejoice (greatly) ; be (exceedingly) glad ; with exceeding joy
+$ 22 4 * unmarried
+$ 23 7 * have indignation ; be much displeased
+$ 24 1 * indignation
+$ 25 142 >agap'aw love ; beloved
+$ 26 116 >ag'aph love ; affection ; benevolence ; charity
+$ 27 62 >agapht'os beloved ; dear
+$ 28 2 * Hagar
+$ 29 3 * compel (to go)
+$ 30 2 * vessel
+$ 31 2 * message
+$ 32 179 '>aggelos messenger ; angel
+$ 33 0 * go to
+$ 34 8 * herd
+$ 35 1 * without descent
+$ 36 1 * base things
+$ 37 29 <agi'azw be holy ; hallow ; sanctify
+$ 38 10 * holiness ; sanctification
+$ 39 0 * holiest (of all) ; holy place ; sanctuary
+$ 40 240 '<agios holy ; (most) holy ; saint
+$ 41 1 * holiness
+$ 42 3 * holiness
+$ 43 1 * arm
+$ 44 1 * hook
+$ 45 4 * anchor
+$ 46 2 * new
+$ 47 2 * purify
+$ 48 7 * purify (self)
+$ 49 1 * purification
+$ 50 22 >agno'ew be ignorant ; not know ; not understand ; unknown
+$ 51 1 * error
+$ 52 4 * ignorance
+$ 53 8 * pure ; chaste ; clean
+$ 54 1 * pureness
+$ 55 1 * sincerely
+$ 56 2 * ignorance ; not the knowledge
+$ 57 1 * unknown
+$ 58 11 >agor'a market ; marketplace ; street
+$ 59 31 >agor'azw buy ; redeem
+$ 60 2 * base ; baser sort ; low
+$ 61 2 * draught
+$ 62 1 * unlearned
+$ 63 1 * abide to the field
+$ 64 1 * catch
+$ 65 2 * wild olive tree
+$ 66 3 * wild ; raging
+$ 67 12 >Agr'ippas Agrippa
+$ 68 35 >agr'os field ; country ; farm ; land ; piece of ground
+$ 69 4 * watch
+$ 70 2 * watch
+$ 71 76 '>agw lead ; (let) go ; be ; be open ; bring (forth) ; carry ; keep ; lead away
+$ 72 1 * manner of life
+$ 73 6 * fight ; conflict ; contention ; race
+$ 74 1 * agony
+$ 75 7 * fight ; labor fervently ; strive
+$ 76 9 * Adam
+$ 77 1 * without expense
+$ 78 1 * Addi
+$ 79 25 >adelf'h sister
+$ 80 345 >adelf'os brother
+$ 81 2 * brethen ; brotherhood
+$ 82 2 * uncertain ; appear not
+$ 83 1 * uncertain
+$ 84 1 * uncertainly
+$ 85 3 * be very heavy ; be full of heaviness
+$ 86 11 '<a|dhs hell ; grave
+$ 87 1 * without partiality
+$ 88 2 * without ceasing ; continual
+$ 89 4 * without ceasing
+$ 90 1 * uncorruptness
+$ 91 27 >adik'ew injure ; (do) wrong ; be an offender ; be unjust ; hurt
+$ 92 3 * iniquity ; evil doing ; matter of wrong
+$ 93 26 >adik'ia iniquity ; unjust ; unrighteousness ; wrong
+$ 94 12 '>adikos unjust ; unrighteous
+$ 95 1 * wrongfully
+$ 96 8 * rejected ; castaway ; reprobate
+$ 97 1 * sincere
+$ 98 1 * of Adramyttium
+$ 99 1 * Adria
+$ 100 1 * abundance
+$ 101 2 * be impossible
+$ 102 10 * not possible ; could not do ; impossible ; impotent ; weak
+$ 103 5 * to sing
+$ 104 8 * always ; ever
+$ 105 5 * eagle
+$ 106 9 * unleavened
+$ 107 2 * Azor
+$ 108 1 * Azotus
+$ 109 7 * air
+$ 110 3 * immortality
+$ 111 2 * abominable ; unlawful thing
+$ 112 1 * without God
+$ 113 2 * wicked
+$ 114 16 >ajet'ew reject ; bring to nought ; cast off ; despise ; disannul ; frustrate
+$ 115 2 * put away ; disannulling
+$ 116 4 * Athens
+$ 117 2 * Athenian
+$ 118 2 * strive
+$ 119 1 * fight
+$ 120 1 * be dismayed
+$ 121 2 * innocent
+$ 122 1 * goat
+$ 123 6 * shore
+$ 124 5 * Egyptian
+$ 125 24 A'>iguptos Egypt
+$ 126 2 * eternal ; everlasting
+$ 127 2 * reverence ; shamefacedness
+$ 128 2 * Ethiopian
+$ 129 98 a\~<ima blood
+$ 130 1 * shedding of blood
+$ 131 1 * diseased with an issue blood
+$ 132 2 * Aeneas
+$ 133 1 * praise
+$ 134 9 * praise
+$ 135 1 * darkly
+$ 136 2 * praise
+$ 137 1 * Aenon
+$ 138 3 * choose
+$ 139 9 * heresy ; sect
+$ 140 1 * choose
+$ 141 1 * heretic
+$ 142 102 a'>irw lift ; away with ; bear (up) ; carry ; lift up ; loose ; make to doubt ; put away ; remove ; take (away)
+$ 143 1 * perceive
+$ 144 1 * judgment
+$ 145 1 * senses
+$ 146 3 * given to filthy lucre
+$ 147 1 * for filthy lucre's sake
+$ 148 1 * filthy communication
+$ 149 0 * shame
+$ 150 4 * filthy
+$ 151 1 * filthiness
+$ 152 6 * shame ; dishonesty
+$ 153 5 * be ashamed
+$ 154 71 a>it'ew ask ; beg ; call for ; crave ; desire ; require
+$ 155 3 * petition ; request ; required
+$ 156 20 a>it'ia cause ; accusation ; case ; crime ; fault
+$ 157 1 * complaint
+$ 158 0 * cause ; fault
+$ 159 5 * author
+$ 160 2 * sudden ; unawares
+$ 161 2 * captivity
+$ 162 2 * lead captive
+$ 163 3 * lead away captive ; bring into captivity
+$ 164 1 * captive
+$ 165 126 a>i'wn age ; (for) ever (-more) ; beginning of the world ; course ; eternal ; world without end
+$ 166 71 a>i'wnios eternal ; everlasting ; for ever ; world (began)
+$ 167 10 * uncleanness
+$ 168 0 * filthiness
+$ 169 31 >ak'ajartos unclean ; foul
+$ 170 1 * lack ; opportunity
+$ 171 1 * out of season
+$ 172 2 * harmless ; simple
+$ 173 14 '>akanja thorn
+$ 174 2 * of thorns
+$ 175 7 * unfruitful ; without fruit
+$ 176 1 * that cannot be condemnded
+$ 177 2 * uncovered
+$ 178 2 * uncondemned
+$ 179 1 * endless
+$ 180 1 * that cannot cease
+$ 181 5 * commotion ; confusion ; tumult
+$ 182 1 * unstable
+$ 183 1 * unruly
+$ 184 1 * Aceldama
+$ 185 3 * harmless ; simple
+$ 186 1 * without wavering
+$ 187 1 * be fully ripe
+$ 188 1 * yet
+$ 189 24 >ako'h report ; audience ; ear ; fame ; hearing ; preached ; rumor ; which ye heard
+$ 190 92 >akolouj'ew follow ; reach
+$ 191 436 >ako'uw hear ; be noised ; be reported ; come (to the ears) ; give audience ; hearken ; understand
+$ 192 1 * incontinency ; excess
+$ 193 1 * incontient
+$ 194 1 * without mixture
+$ 195 1 * perfect manner
+$ 196 1 * most straitest
+$ 197 0 * more perfect
+$ 198 2 * enquire diligently
+$ 199 9 * diligently ; circumspectly ; perfectly
+$ 200 4 * locust
+$ 201 1 * place of hearing
+$ 202 4 * hearer
+$ 203 20 >akrobust'ia uncircumcised ; not circumcised ; uncircumcision
+$ 204 2 * chief corner
+$ 205 1 * spoils
+$ 206 6 * uttermost part ; one end ... other ; tip ; top
+$ 207 6 * Aquila
+$ 208 3 * disannul ; make of none effect
+$ 209 1 * no man forbidding him
+$ 210 1 * against the will
+$ 211 4 * (alabaster) box
+$ 212 2 * boasting ; pride
+$ 213 2 * boaster
+$ 214 2 * wail ; tinkle
+$ 215 1 * unutterable ; which cannot be uttered
+$ 216 3 * dumb
+$ 217 8 * salt
+$ 218 9 * anoint
+$ 219 1 * cockcrowing
+$ 220 12 >al'ektwr cock
+$ 221 2 * of Alexandria
+$ 222 2 * of Alexandria
+$ 223 6 * Alexander
+$ 224 2 * meal
+$ 225 110 >al'hjeia truth ; true ; truly ; verity
+$ 226 2 * speak the truth
+$ 227 25 >alhj'hs truth ; true ; truly
+$ 228 27 >alhjin'os true
+$ 229 2 * grind
+$ 230 21 >alhj\~ws indeed ; of a surety ; of a truth ; surely ; truly ; verily ; very
+$ 231 5 * fisher ; fisherman
+$ 232 1 * go fishing
+$ 233 3 * salt
+$ 234 1 * pollution
+$ 235 639 >all'a but ; and ; howbeit ; indeed ; nay ; nevertheless ; no ; notwithstanding ; save ; therefore ; yea ; yet
+$ 236 6 * change
+$ 237 1 * some other way
+$ 238 1 * be an allegory
+$ 239 4 * alleluiah
+$ 240 99 >all'hlwn one another ; -selves together ; each other ; mutual
+$ 241 1 * stranger
+$ 242 3 * leap ; spring up
+$ 243 159 '>allos another ; more ; one (another) ; other ; otherwise
+$ 244 1 * busybody in other men's matters
+$ 245 14 >all'otrios alien ; another (man's) ; strange
+$ 246 1 * one of another nation
+$ 247 1 * otherwise
+$ 248 3 * thresh ; tread out the corn
+$ 249 3 * brute ; unreasonable
+$ 250 1 * aloes
+$ 251 1 * salt
+$ 252 1 * salt
+$ 253 1 * less sorrowful
+$ 254 11 '<alusis bonds ; chains
+$ 255 1 * unprofitable
+$ 256 5 * Alpheus
+$ 257 2 * floor
+$ 258 3 * fox
+$ 259 1 * be taken
+$ 260 10 * also ; and ; together ; withal
+$ 261 1 * unlearned
+$ 262 1 * that fadeth not away
+$ 263 1 * that fadeth not away
+$ 264 43 <amart'anw sin ; for your faults ; offend ; trespass
+$ 265 4 * sin
+$ 266 174 <amart'ia sin ; offence
+$ 267 1 * without witness
+$ 268 48 <amartwl'os sinful ; sinner
+$ 269 2 * not a brawler
+$ 270 1 * reap down
+$ 271 1 * amethyst
+$ 272 5 * not regard ; be negligent ; make light of ; neglect
+$ 273 5 * blameless ; faultless ; unblamable
+$ 274 2 * blameless ; unblameable
+$ 275 2 * secure ; without care
+$ 276 2 * immutable
+$ 277 1 * unmovable
+$ 278 2 * without repentance ; not to be repented of
+$ 279 1 * impenitent
+$ 280 2 * (thing) without measure
+$ 281 152 >am'hn amen ; verily
+$ 282 1 * without mother
+$ 283 4 * undefiled
+$ 284 3 * Aminadab
+$ 285 5 * sand
+$ 286 4 * lamb
+$ 287 1 * requite
+$ 288 9 * vine
+$ 289 1 * vine-dresser
+$ 290 23 >ampel'wn vineyard
+$ 291 1 * Amplias
+$ 292 1 * defend
+$ 293 2 * net
+$ 294 4 * clothe
+$ 295 1 * Amphipolis
+$ 296 1 * where two ways meet
+$ 297 14 >amf'oteros both
+$ 298 2 * blameless
+$ 299 7 * without blame ; faultless ; unblameable ; without fault ; without blemish
+$ 300 2 * Anion
+$ 301 1 * Amos
+$ 302 174 >an -ever ; whatsoever ; wheresoever ; whithersoever ; whomsoever
+$ 303 15 >an'a and ; apiece ; by ; each ; every (man) ; in ; through
+$ 304 2 * stairs
+$ 305 80 >anaba'inw ascend ; arise ; ascend (up) ; climb up ; come (up)
+$ 306 1 * defer
+$ 307 1 * draw
+$ 308 26 >anabl'epw look (up) ; receive sight ; see
+$ 309 1 * recovering of sight
+$ 310 3 * cry (out) ; cry (aloud)
+$ 311 1 * delay
+$ 312 18 >anagg'ellw declare ; rehearse ; report ; show ; speak ; tell
+$ 313 2 * beget ; (bear) again
+$ 314 32 >anagin'wskw read
+$ 315 9 * constrain ; compel
+$ 316 8 * necessary ; near ; necessity ; needful
+$ 317 1 * by constraint
+$ 318 18 >an'agkh needful ; (of) necessity ; distress ; must needs ; needeth
+$ 319 1 * be made known
+$ 320 3 * reading
+$ 321 23 >an'agw depart ; bring (again) ; launch (forth) ; lead (up) ; loose ; offer ; sail ; set forth ; take up
+$ 322 2 * shew ; appoint
+$ 323 1 * shewing
+$ 324 2 * receive
+$ 325 1 * deliver
+$ 326 3 * revive ; live again
+$ 327 2 * seek
+$ 328 1 * gird up
+$ 329 1 * stir up
+$ 330 1 * flourish again
+$ 331 6 * accursed ; anathema ; curse ; great
+$ 332 4 * bind with an oath ; (bind under a) curse
+$ 333 2 * behold ; consider
+$ 334 1 * gift
+$ 335 1 * importunity
+$ 336 2 * death
+$ 337 23 >anair'ew kill ; put to death ; slay ; take away ; take up
+$ 338 2 * blameless ; guiltless
+$ 339 2 * sit up
+$ 340 1 * renew
+$ 341 2 * renew
+$ 342 2 * renewing
+$ 343 2 * open ; taken away
+$ 344 4 * (re-) turn
+$ 345 15 >anake\~imai recline ; at the table ; guest ; lean ; lie ; sit (at meat) ; sit (down)
+$ 346 2 * briefly comprehend ; gather together in one
+$ 347 8 * (make) sit down ; lay
+$ 348 0 * hinder
+$ 349 5 * cry out
+$ 350 16 >anakr'inw examine ; ask ; discern ; judge ; question ; search
+$ 351 1 * examination
+$ 352 4 * lift up ; look up
+$ 353 13 >analamb'anw receive up ; take (in)
+$ 354 1 * taking up
+$ 355 3 * consume
+$ 356 1 * proportion
+$ 357 1 * consider
+$ 358 1 * lose saltness
+$ 359 1 * departure
+$ 360 2 * depart ; return
+$ 361 1 * that is without sin
+$ 362 1 * wait for
+$ 363 6 * remember ; (bring to) remembrance ; call to mind
+$ 364 4 * remembrance (again)
+$ 365 1 * renew
+$ 366 1 * recover self
+$ 367 11 >Anan'ias Anaias
+$ 368 1 * cannot be spoken against
+$ 369 1 * without gain-saying
+$ 370 1 * unworthy
+$ 371 2 * unworthily
+$ 372 5 * rest
+$ 373 12 >anapa'uw refresh ; (give) rest ; take ease
+$ 374 1 * persuade
+$ 375 4 * send (again)
+$ 376 2 * maimed
+$ 377 11 >anap'iptw lean ; sit down (to meat)
+$ 378 6 * fulfil ; fill up ; occupy ; supply
+$ 379 2 * inexcusable ; without excuse
+$ 380 1 * open
+$ 381 3 * light ; kindle
+$ 382 1 * innumerable
+$ 383 2 * stir up ; move
+$ 384 1 * subvert
+$ 385 2 * draw up ; pull out
+$ 386 42 >an'astasis resurrection ; raised to life again ; rise from the dead ; rising again ; that should rise
+$ 387 3 * trouble ; make an uproar ; turn upside down
+$ 388 1 * crucify afresh
+$ 389 1 * sigh deeply
+$ 390 11 >anastr'efw abide ; be used ; behave self ; have conversation ; live ; overthrow ; pass ; return
+$ 391 13 >anastrof'h conversation
+$ 392 1 * set in order
+$ 393 9 * spring (up) ; at the rising of ; be up ; make rise
+$ 394 2 * declare ; communicate
+$ 395 10 * dayspring ; east ; rising
+$ 396 2 * overthrow ; subvert
+$ 397 3 * bring up ; nourish (up)
+$ 398 2 * discover ; (should) appear
+$ 399 10 * bring up ; bear ; offer (up)
+$ 400 1 * speak out
+$ 401 1 * excess
+$ 402 14 >anaqwr'ew depart ; give place ; go (turn) aside ; withdraw self
+$ 403 1 * revival
+$ 404 1 * refresh
+$ 405 1 * men-stealer
+$ 406 13 >Andr'eas Andrew
+$ 407 1 * quit like men
+$ 408 1 * Andronicus
+$ 409 1 * manslayer
+$ 410 5 * blameless
+$ 411 1 * unspeakable
+$ 412 1 * unspeakable
+$ 413 1 * that faileth not
+$ 414 6 * more tolerable
+$ 415 1 * unmerciful
+$ 416 1 * drive with the wind
+$ 417 31 '>anemos wind
+$ 418 1 * impossible
+$ 419 1 * unsearchable
+$ 420 1 * patient
+$ 421 2 * unsearchable ; past finding out
+$ 422 1 * that needeth not to be ashamed
+$ 423 3 * blameless ; unrebukeable
+$ 424 3 * go up
+$ 425 5 * eased ; liberty ; rest
+$ 426 2 * examine ; (should have) examined
+$ 427 3 * without
+$ 428 1 * non commodious
+$ 429 2 * find
+$ 430 15 >an'eqomai forbear ; bear with ; endure ; suffer
+$ 431 1 * sister's son
+$ 432 1 * anise
+$ 433 3 * be fit ; convenient
+$ 434 1 * fierce
+$ 435 214 >an'hr man
+$ 436 14 >anj'isthmi resist ; withstand
+$ 437 1 * give thanks
+$ 438 4 * flower
+$ 439 2 * fire of coals
+$ 440 1 * coal of fire
+$ 441 2 * men-pleaser
+$ 442 7 * human ; after the manner of men ; common to man ; man ; mankind ; men's
+$ 443 3 * murderer
+$ 444 559 '>anjrwpos human ; certain ; man
+$ 445 1 * be the deputy
+$ 446 4 * deputy
+$ 447 4 * loose ; forbear ; leave
+$ 448 1 * without mercy
+$ 449 3 * unwashen
+$ 450 113 >an'isthmi arise ; lift up ; raise up (again) ; rise (again) ; stand up (right)
+$ 451 1 * Anna
+$ 452 4 * Annas
+$ 453 6 * foolish ; fool ; unwise
+$ 454 2 * folly ; madness
+$ 455 78 >ano'igw open
+$ 456 2 * build again
+$ 457 1 * open
+$ 458 15 >anom'ia unrighteousness ; iniquity ; transgress the law
+$ 459 10 * lawless ; transgressor ; unlawful ; wicked ; without law
+$ 460 2 * without law
+$ 461 3 * make straight ; lift up
+$ 462 2 * unholy
+$ 463 2 * forbearance
+$ 464 1 * strive against
+$ 465 2 * in exchange
+$ 466 1 * fill up
+$ 467 7 * recompense ; render ; repay
+$ 468 2 * recompense
+$ 469 1 * reward
+$ 470 2 * reply against ; answer again
+$ 471 2 * say against ; gainsay
+$ 472 4 * hold fast ; hold to ; support
+$ 473 22 >ant'i opposite ; for ; in the room of
+$ 474 1 * have
+$ 475 1 * that oppose themselves
+$ 476 5 * adversary
+$ 477 1 * opposition
+$ 478 1 * resist
+$ 479 1 * bid again
+$ 480 8 * be contrary ; adversary ; oppose
+$ 481 1 * over against
+$ 482 3 * support ; help ; partaker
+$ 483 10 * gainsay ; answer again ; contradict ; deny ; speak against
+$ 484 1 * help
+$ 485 4 * gainsaying ; contradiction ; strife
+$ 486 1 * revile again
+$ 487 1 * ransom
+$ 488 1 * measure again
+$ 489 2 * recompense
+$ 490 18 >Anti'oqeia Antioch
+$ 491 1 * of Antioch
+$ 492 2 * pass by on the other side
+$ 493 1 * Antipas
+$ 494 1 * Antipatris
+$ 495 1 * over against
+$ 496 1 * resist
+$ 497 1 * war against
+$ 498 5 * resist ; oppose themselves
+$ 499 2 * (like) figure (whereunto)
+$ 500 5 * antichrist
+$ 501 4 * draw (out)
+$ 502 1 * thing to draw with
+$ 503 1 * bear up into
+$ 504 4 * dry ; without water
+$ 505 6 * unfeigned ; without dissimulation ; without hypocrisy
+$ 506 4 * disobedient ; that is not put under ; unruly
+$ 507 10 * above ; brim ; high ; up
+$ 508 2 * upper room
+$ 509 13 '>anwjen from above/beginning ; again ; from the very first ; the top
+$ 510 1 * upper
+$ 511 2 * above ; higher
+$ 512 2 * unprofitable
+$ 513 2 * axe
+$ 514 41 '>axios worthy ; due reward ; meet ; worthy/unworthy
+$ 515 7 * count worthy ; desire ; think good ; think worthy
+$ 516 6 * worthily ; after a godly sort ; as becometh
+$ 517 5 * invisible
+$ 518 44 >apagg'ellw report ; bring word (again) ; declare ; shew (again) ; tell
+$ 519 1 * hang himself
+$ 520 14 >ap'agw take away ; bring ; carry away ; lead (away) ; put to death
+$ 521 1 * unlearned
+$ 522 3 * take (away)
+$ 523 2 * require ; ask again
+$ 524 1 * be past feeling
+$ 525 3 * depart ; deliver
+$ 526 3 * alienate ; be alien
+$ 527 2 * tender
+$ 528 7 * meet
+$ 529 4 * meet
+$ 530 14 '<apax once
+$ 531 1 * unchangable
+$ 532 1 * unprepared
+$ 533 13 >aparn'eomai deny
+$ 534 0 * from henceforth
+$ 535 1 * finishing
+$ 536 8 * first-fruits
+$ 537 39 '<apas all ; all (things) ; every (one) ; whole
+$ 538 4 * deceive
+$ 539 7 * deceit ; deceivableness
+$ 540 1 * without father
+$ 541 1 * brightness
+$ 542 0 * see
+$ 543 7 * unbelief ; disobedience
+$ 544 16 >apeij'ew unbelieving ; disobedient ; not believe ; obey not
+$ 545 6 * disobedient
+$ 546 2 * threaten
+$ 547 4 * threatening ; straightly
+$ 548 7 * be absent
+$ 549 1 * go
+$ 550 1 * renounce
+$ 551 1 * not to be tempted
+$ 552 1 * unskillful
+$ 553 8 * look for ; wait for
+$ 554 2 * put off ; spoil
+$ 555 1 * putting off
+$ 556 1 * drive
+$ 557 1 * nought
+$ 558 1 * freeman
+$ 559 1 * Apelles
+$ 560 1 * hope for again
+$ 561 6 * over against ; before ; contrary ; in the presence of
+$ 562 1 * endless
+$ 563 1 * without distraction
+$ 564 1 * uncircumcised
+$ 565 119 >ap'erqomai depart ; be past ; come ; go aside ; go away ; go back ; go out ; pass away
+$ 566 0 * it is enough
+$ 567 6 * abstain
+$ 568 12 >ap'eqw receive ; be ; have
+$ 569 7 * believe not
+$ 570 12 >apist'ia unbelief
+$ 571 23 '>apistos faithless ; incredible thing ; infidel ; that believeth not ; unbeliever
+$ 572 8 * singleness ; bountifulness ; liberal ; simplicity
+$ 573 2 * single
+$ 574 1 * liberally
+$ 575 655 >ap'o from ; (here) after ; (out) of ; (up-) on ; ago ; at ; because of ; before ; by (the space of) ; for (-th) ; from ; in ; off ; since ; with
+$ 576 4 * go out ; become ; turn
+$ 577 3 * cast away
+$ 578 1 * have respect
+$ 579 1 * be refused
+$ 580 2 * casting away ; loss
+$ 581 1 * being dead
+$ 582 2 * taxing
+$ 583 4 * tax ; write
+$ 584 4 * shew ; approve ; prove ; set forth
+$ 585 1 * demonstration
+$ 586 4 * tithe ; give tithe ; pay tithe ; take tithe
+$ 587 2 * acceptable
+$ 588 6 * accept ; receive (gladly)
+$ 589 6 * journey ; travel into a far country
+$ 590 1 * taking a far journey
+$ 591 47 >apod'idwmi restore ; (re-) pay ; deliver (again) ; give (again) ; perform ; recompense ; render ; requite ; reward ; sell yield
+$ 592 1 * separate
+$ 593 9 * reject ; disallow
+$ 594 2 * acceptation
+$ 595 2 * putting away ; putting off
+$ 596 6 * barn ; garner
+$ 597 1 * lay up in store
+$ 598 1 * press
+$ 599 111 >apojn'hskw die ; be dead ; be slain ; death ; lie dead
+$ 600 8 * restore (again)
+$ 601 26 >apokal'uptw reveal
+$ 602 18 >apok'aluyis revelation ; appearing ; be revealed ; coming ; lighten ; manifestation
+$ 603 2 * earnest expectation
+$ 604 3 * reconcile
+$ 605 1 * restitution
+$ 606 4 * be appointed
+$ 607 4 * behead
+$ 608 1 * shut up
+$ 609 6 * cut off
+$ 610 1 * sentence
+$ 611 248 >apokr'inomai answer
+$ 612 4 * answer
+$ 613 6 * hide
+$ 614 3 * hid ; kept secret
+$ 615 76 >apokte'inw kill ; put to death ; slay
+$ 616 2 * beget ; bring forth
+$ 617 4 * roll away ; roll back
+$ 618 11 >apolamb'anw take ; receive
+$ 619 2 * enjoy ; enjoyment
+$ 620 6 * leave ; remain
+$ 621 1 * lick
+$ 622 91 >ap'ollumi destroy ; die ; lose ; mar ; perish
+$ 623 1 * Apollyon
+$ 624 1 * Apollonia
+$ 625 10 * Apollos
+$ 626 10 * make defence ; answer (for self) ; excuse (self) ; speak for self
+$ 627 8 * defence ; answer (for self) ; clearing of self
+$ 628 2 * wash (away)
+$ 629 10 * redemption ; deliverance
+$ 630 69 >apol'uw release ; (let) depart ; dismiss ; divorce ; forgive ; let go ; loose ; put away ; send away ; set at liberty
+$ 631 1 * wipe off
+$ 632 1 * give
+$ 633 1 * wash
+$ 634 1 * fall
+$ 635 2 * err ; seduce
+$ 636 4 * sail away
+$ 637 1 * wash
+$ 638 3 * choke
+$ 639 4 * be perplexed ; (stand in) doubt
+$ 640 1 * perplexity
+$ 641 1 * cast
+$ 642 1 * take
+$ 643 1 * take up ... carriages
+$ 644 1 * shadow
+$ 645 4 * draw (away) ; after we were gotten from ; withdraw (away)
+$ 646 2 * forsake ; falling away
+$ 647 3 * (writing of) divorcement
+$ 648 1 * uncover
+$ 649 132 >apost'ellw send ; put in ; send (away) ; send (forth) ; send (out)
+$ 650 6 * defraud ; destitute ; kept back by fraud
+$ 651 4 * apostleship
+$ 652 81 >ap'ostolos apostle ; he that is sent ; messenger
+$ 653 1 * provoke to speak
+$ 654 10 * turn away ; bring again ; pervert ; turn from
+$ 655 1 * abhor
+$ 656 3 * (put) out of the synagogue
+$ 657 6 * take leave ; bid farewell ; forsake ; send away
+$ 658 1 * finish
+$ 659 8 * put away ; cast off ; lay apart ; lay aside ; lay down ; put off
+$ 660 2 * shake off
+$ 661 1 * repay
+$ 662 1 * be very bold
+$ 663 2 * severity
+$ 664 2 * sharply
+$ 665 1 * turn away
+$ 666 1 * absence
+$ 667 5 * bring ; carry (away)
+$ 668 3 * escape
+$ 669 3 * speak forth ; say ; utterance
+$ 670 1 * unlade
+$ 671 1 * using
+$ 672 3 * depart
+$ 673 2 * depart (asunder)
+$ 674 1 * hearts failing
+$ 675 1 * Appii
+$ 676 1 * which no man can approach
+$ 677 3 * none offence ; void of offence ; without offence
+$ 678 1 * without respect of persons
+$ 679 1 * from falling
+$ 680 36 '<aptomai touch ; cling ; kindle
+$ 681 4 * kindle
+$ 682 1 * Apphia
+$ 683 6 * cast away ; put away (from) ; thrust away (from)
+$ 684 19 >ap'wleia perish ; damnable ; destruction ; die ; perdition ; pernicious ways ; waste
+$ 685 1 * curse
+$ 686 35 '>ara then ; (what) manner (of man) ; haply ; no doubt ; perhaps ; so be ; therefore ; truly ; wherefore
+$ 687 19 \~>ara therefore
+$ 688 2 * Arabia
+$ 689 3 * Aram
+$ 690 1 * Arabian
+$ 691 1 * linger
+$ 692 8 * idle ; barren ; slow
+$ 693 3 * (of) silver
+$ 694 20 >arg'urion silver (piece) ; money
+$ 695 1 * silversmith
+$ 696 5 * silver
+$ 697 4 * Areopagus ; Mars' Hill
+$ 698 1 * Areopagite
+$ 699 1 * pleasing
+$ 700 17 >ar'eskw please
+$ 701 4 * pleasing
+$ 702 1 * Aretas
+$ 703 5 * virtue ; praise
+$ 704 1 * lamb
+$ 705 3 * number
+$ 706 19 >arijm'os number
+$ 707 4 * Arimathaea
+$ 708 5 * Aristarchus
+$ 709 3 * dine
+$ 710 3 * left (hand)
+$ 711 1 * Aristobulus
+$ 712 4 * dinner
+$ 713 3 * sufficient ; enough ; suffice
+$ 714 8 * suffice ; be content ; be enough ; be sufficient
+$ 715 1 * bear
+$ 716 4 * chariot
+$ 717 1 * Armageddon
+$ 718 1 * espouse
+$ 719 1 * joint
+$ 720 31 >arn'eomai deny ; refuse
+$ 721 31 >arn'ion lamb
+$ 722 3 * plow
+$ 723 1 * plow
+$ 724 3 * spoiling ; extortion ; ravening
+$ 725 1 * robbery
+$ 726 13 <arp'azw take (by force) ; catch ; pluck ; pull
+$ 727 5 * ravening ; extortion
+$ 728 3 * earnest
+$ 729 1 * without seam
+$ 730 9 * male ; man
+$ 731 1 * unspeakable
+$ 732 5 * sickly ; sick (folk)
+$ 733 2 * abuser of self with mankind ; that defile self with mankind
+$ 734 1 * Artemas
+$ 735 5 * Diana
+$ 736 1 * main-sail
+$ 737 37 '>arti now ; (even) now ; (this) present ; hence (forth) ; here (-after) ; hither (-to) ; this day ; this hour
+$ 738 1 * new born
+$ 739 1 * perfect
+$ 740 98 '>artos bread ; loaf ; shew-bread
+$ 741 3 * season
+$ 742 1 * Arphaxad
+$ 743 2 * archangel
+$ 744 11 >arqa\~ios (them of) old (time)
+$ 745 1 * Archelaus
+$ 746 57 >arq'h principle ; (at the) first (estate) ; beginning ; corner ; magistrate ; power ; principality ; rule
+$ 747 4 * captain ; author ; prince
+$ 748 1 * of the high-priest
+$ 749 122 >arqiere'us chief prist ; chief of the priests ; high priest
+$ 750 1 * chief shepherd
+$ 751 2 * Archippus
+$ 752 9 * (chief) ruler of the synagogue
+$ 753 1 * masterbuilder
+$ 754 1 * chief among the publicans
+$ 755 3 * governor of the feast
+$ 756 84 '>arqomai first ; beginning
+$ 757 2 * rule over ; reign over
+$ 758 37 '>arqwn ruler ; chief ; chief ruler ; magistrate ; prince
+$ 759 4 * (sweet) spice
+$ 760 2 * Asa
+$ 761 2 * unmovable ; that which cannot be moved
+$ 762 4 * unquenchable ; not to be quenched
+$ 763 6 * ungodly ; ungodliness
+$ 764 2 * live ungodly ; that after should live ungodly
+$ 765 9 * ungodly (man)
+$ 766 10 * lasciviousness ; filthy ; wantonness
+$ 767 1 * mean
+$ 768 2 * Aser
+$ 769 24 >asj'eneia sickness ; disease ; infirmity ; weakness
+$ 770 36 >asjen'ew sick ; (be made) weak ; (be) sick ; (be) weak ; be diseased ; impotent folk
+$ 771 1 * infirmity
+$ 772 25 >asjen'hs weak ; impotent ; more feeble ; sick ; weakness ; without strength
+$ 773 18 >As'ia Asia
+$ 774 1 * of Asia
+$ 775 1 * chief of Asia
+$ 776 1 * abstinence
+$ 777 1 * fasting
+$ 778 1 * exercise
+$ 779 12 >ask'os bottle
+$ 780 2 * gladly
+$ 781 1 * fool
+$ 782 60 >asp'azomai greet ; embrace ; salute ; take leave
+$ 783 10 * greeting ; salutation
+$ 784 4 * without spot ; unspotted
+$ 785 1 * asp
+$ 786 2 * implacable ; truce-breaker
+$ 787 2 * farthing
+$ 788 1 * close
+$ 789 2 * Assos
+$ 790 1 * have no certain dwelling-place
+$ 791 2 * fair
+$ 792 24 >ast'hr star
+$ 793 2 * unstable
+$ 794 2 * without natural affection
+$ 795 3 * err ; swerve
+$ 796 9 * lightning ; bright shining
+$ 797 2 * lighten ; shine
+$ 798 4 * star
+$ 799 1 * Asyncritus
+$ 800 1 * agree not
+$ 801 5 * foolish
+$ 802 1 * covenant-breaker
+$ 803 3 * certainty ; safety
+$ 804 5 * certain ; safe ; sure
+$ 805 4 * make sure ; make fast
+$ 806 3 * assuredly ; safely
+$ 807 2 * behave self unseemly ; behave self uncomely
+$ 808 2 * that which is unseemly ; shame
+$ 809 1 * uncomely
+$ 810 3 * riot ; excess
+$ 811 1 * riotous
+$ 812 1 * behave self disorderly
+$ 813 1 * unruly
+$ 814 2 * disorderly
+$ 815 3 * childless ; without children
+$ 816 14 >aten'izw fasten (eyes) ; behold earnestly ; behold stedfastly ; look earnestly ; look stedfastly ; set eyes
+$ 817 2 * without ; in the absence of
+$ 818 6 * dishonour ; despise ; entreat shamefully ; suffer shame
+$ 819 7 * dishonour ; reproach ; shame ; vile
+$ 820 4 * without honour ; despised ; less honourable
+$ 821 1 * handle shamefully
+$ 822 2 * vapour
+$ 823 1 * moment
+$ 824 3 * amiss ; harm ; unreasonable
+$ 825 1 * Attalia
+$ 826 1 * shine
+$ 827 1 * break of day
+$ 828 1 * Augustus
+$ 829 2 * self-willed
+$ 830 2 * of own accord
+$ 831 1 * usurp authority over
+$ 832 3 * pipe
+$ 833 12 a>ul'h court ; (sheep) fold ; hall ; palace
+$ 834 2 * minstrel ; piper
+$ 835 2 * lodge ; abide
+$ 836 1 * pipe
+$ 837 23 a>ux'anw (give the) increase ; grow (up)
+$ 838 2 * increase
+$ 839 15 a'>uxhsis (to-) morrow ; next day
+$ 840 2 * austere
+$ 841 2 * contentment ; sufficiency
+$ 842 1 * content
+$ 843 1 * condemned of self
+$ 844 2 * of self ; of own accord
+$ 845 1 * eye-witness
+$ 846 5753 a>ut'os he/she ; (mine) own ; (self-) same ; (these) things ; him/her/them ; it (-self) ; of her ; of him ; of them ; one ; the other ; thereby ; therein ; thereof ; this (man) ; together ; which
+$ 847 4 * there ; here
+$ 848 0 * him/her/them (-selves) ; his/her/their (own) ; of it ; thee ; they
+$ 849 1 * with ... own hands
+$ 850 1 * dark
+$ 851 10 * take away ; cut off ; smite off
+$ 852 1 * that is not manifest
+$ 853 5 * vanish away ; corrupt ; disfigure ; perish
+$ 854 1 * vanish away
+$ 855 1 * vanished out of sight
+$ 856 2 * draught
+$ 857 1 * neglecting
+$ 858 1 * singleness
+$ 859 17 '>afesis liberty ; deliverance ; forgiveness ; remission
+$ 860 2 * joint
+$ 861 8 * immortality ; incorruption ; sincerity
+$ 862 7 * immortal ; not corruptible
+$ 863 146 >af'ihmi put away ; cry ; forgive ; forsake ; lay aside ; leave ; let (alone) ; let (go) ; omit ; remit ; send away ; suffer ; yield up
+$ 864 1 * come abroad
+$ 865 1 * despiser of those that are good
+$ 866 2 * without covetousness ; not greedy of filthy lucre
+$ 867 1 * departing
+$ 868 15 >af'isthmi depart ; draw away ; fall away ; refrain ; withdraw self
+$ 869 3 * suddenly
+$ 870 4 * without fear
+$ 871 1 * make like
+$ 872 2 * look
+$ 873 10 * separate ; divide ; sever
+$ 874 7 * occasion
+$ 875 2 * foam
+$ 876 1 * foaming
+$ 877 4 * foolishly ; folly ; foolishness
+$ 878 11 '>afrwn foolish ; fool ; unwise
+$ 879 1 * fall asleep
+$ 880 4 * dumb ; without signification
+$ 881 2 * Achaz
+$ 882 11 >Aqa"'ia Achaia
+$ 883 1 * Achaicus
+$ 884 2 * unthankful
+$ 885 2 * Achim
+$ 886 3 * made without hands
+$ 887 1 * mist
+$ 888 2 * unprofitable
+$ 889 1 * become unprofitable
+$ 890 1 * unprofitable
+$ 891 50 '>aqri until ; (even) unto ; as far as ; for ; in (-to) ; till ; while
+$ 892 2 * chaff
+$ 893 1 * that cannot lie
+$ 894 2 * wormwood
+$ 895 1 * without life
+$ 896 1 * Baal
+$ 897 12 Babul'wn Babylon
+$ 898 1 * degree
+$ 899 8 * deep ; deep things ; deepness ; depth
+$ 900 1 * deep
+$ 901 4 * deep ; very early
+$ 902 1 * branch
+$ 903 3 * Balaam
+$ 904 1 * Balac
+$ 905 4 * bag ; purse
+$ 906 125 b'allw throw ; arise ; cast (out) ; dung ; lay ; lie ; pour ; put (up) ; send ; strike ; throw (down) ; thrust
+$ 907 80 bapt'izw baptize ; baptist ; wash
+$ 908 22 b'aptisma baptism
+$ 909 4 * baptism ; washing
+$ 910 14 Baptist'hs Baptist
+$ 911 3 * dip
+$ 912 11 Barabb\~as Barabbas
+$ 913 1 * Barak
+$ 914 1 * Barachias
+$ 915 6 * barbarian ; barbarous
+$ 916 7 * burden ; charge ; heavy ; press
+$ 917 2 * dull
+$ 918 4 * Bartholomeus
+$ 919 1 * Bar-jesus
+$ 920 1 * Bar-jona
+$ 921 29 Barn'abas Barnabas
+$ 922 6 * burden (-some) ; weight
+$ 923 2 * Barsabas
+$ 924 1 * Bartimajus
+$ 925 0 * overcharge
+$ 926 6 * heavy ; grievous ; weightier
+$ 927 1 * very precious
+$ 928 12 basan'izw torment ; pain ; toil ; toss ; vex
+$ 929 6 * torment
+$ 930 1 * tormentor
+$ 931 3 * torment
+$ 932 162 basile'ia kingdom ; reign
+$ 933 0 * king's court
+$ 934 3 * royal
+$ 935 116 basile'us king
+$ 936 21 basile'uw king ; reign
+$ 937 5 * king's ; nobleman ; royal
+$ 938 4 * queen
+$ 939 1 * foot
+$ 940 1 * bewitch
+$ 941 27 bast'azw carry ; bear ; take up
+$ 942 5 * bush ; bramble
+$ 943 1 * measure
+$ 944 1 * frog
+$ 945 1 * use vain repetitions
+$ 946 6 * abominable
+$ 947 1 * abominable
+$ 948 2 * abhor ; abominable
+$ 949 9 * stedfast ; firm ; of force ; sure
+$ 950 8 * confirm ; (e-) stablish
+$ 951 2 * confirmation
+$ 952 5 * profane (person)
+$ 953 2 * profane
+$ 954 7 * Beelzebub
+$ 955 1 * Belial
+$ 956 1 * dart
+$ 957 1 * very well
+$ 958 4 * Benjamin
+$ 959 3 * Bernice
+$ 960 2 * Berea
+$ 961 1 * of Berea
+$ 962 0 * Bethabara
+$ 963 12 Bhjan'ia Bethany
+$ 964 1 * Bethesda
+$ 965 8 * Bethlehem
+$ 966 7 * Bethsaida
+$ 967 3 * Bethphage
+$ 968 12 b\~hma throne ; judgment-seat ; set (foot) on
+$ 969 1 * beryl
+$ 970 3 * violence
+$ 971 2 * suffer violence ; press
+$ 972 1 * mighty
+$ 973 1 * violent
+$ 974 2 * little book
+$ 975 36 bibl'ion book ; bill ; scroll ; writing
+$ 976 9 * book
+$ 977 1 * eat
+$ 978 2 * Bithynia
+$ 979 11 b'ios living ; good ; life
+$ 980 1 * live
+$ 981 1 * manner of life
+$ 982 3 * of this life ; pertaining to this life ; things that pertain to this life
+$ 983 1 * hurtful
+$ 984 2 * hurt
+$ 985 4 * bud ; bring forth ; spring (up)
+$ 986 1 * Blastus
+$ 987 35 blasfhm'ew blasphemy ; (speak) blasphemy ; blasphemer ; defame ; rail on ; revile ; speak evil
+$ 988 19 blasfhm'ia blasphemy ; evil speaking ; railing
+$ 989 5 * blasphemer ; blasphemous ; railing
+$ 990 1 * seeing
+$ 991 132 bl'epw see ; behold ; beware ; he ; look (on) ; look (to) ; perceive ; regard ; sight ; take heed
+$ 992 2 * must be put
+$ 993 1 * Boanerges
+$ 994 11 bo'aw cry
+$ 995 1 * cry
+$ 996 2 * help
+$ 997 8 * help ; succour
+$ 998 1 * helper
+$ 999 3 * pit ; ditch
+$ 1000 1 * cast
+$ 1001 2 * sound
+$ 1002 0 * dart
+$ 1003 3 * Booz
+$ 1004 1 * mire
+$ 1005 2 * north
+$ 1006 9 * feed ; keep
+$ 1007 1 * Bosor
+$ 1008 1 * herb
+$ 1009 1 * (vine) cluster ; cluster (of the vine)
+$ 1010 2 * counsellor
+$ 1011 8 * take counsel ; be minded ; consult ; determine ; purpose
+$ 1012 12 boul'h counsel ; advise ; will
+$ 1013 2 * will ; purpose
+$ 1014 34 bo'ulomai willing ; (be) willing ; (of own) will ; be disposed ; intend ; list ; minded ; wish
+$ 1015 2 * hill
+$ 1016 8 * ox
+$ 1017 2 * prize
+$ 1018 1 * rule
+$ 1019 2 * tarry ; to slack
+$ 1020 1 * sail slowly
+$ 1021 3 * slow
+$ 1022 1 * slackness
+$ 1023 3 * arm
+$ 1024 7 * little ; few words ; little (space) ; little (time)
+$ 1025 8 * infant ; (young) child ; babe
+$ 1026 7 * rain ; (send) rain ; wash
+$ 1027 12 bront'h thunder ; thundering
+$ 1028 2 * rain
+$ 1029 1 * snare
+$ 1030 7 * gnashing
+$ 1031 1 * gnash
+$ 1032 1 * send forth
+$ 1033 17 br\~wma meat ; victuals
+$ 1034 1 * meat
+$ 1035 11 br\~wsis meat ; eating ; food
+$ 1036 2 * begin to sink ; drown
+$ 1037 1 * deep
+$ 1038 3 * tanner
+$ 1039 5 * fine linen
+$ 1040 1 * fine linen
+$ 1041 1 * altar
+$ 1042 1 * Gabbatha
+$ 1043 2 * Gabriel
+$ 1044 1 * canker
+$ 1045 1 * Gad
+$ 1046 3 * Gadarene
+$ 1047 1 * treasure
+$ 1048 1 * Gaza
+$ 1049 5 * treasury
+$ 1050 5 * Gaius
+$ 1051 5 * milk
+$ 1052 1 * Galatian
+$ 1053 4 * Galatia
+$ 1054 2 * of Galatia
+$ 1055 3 * calm
+$ 1056 63 Galila'ia Galilee
+$ 1057 11 Galila\~ios of Galilee ; Galilaean
+$ 1058 3 * Gallio
+$ 1059 2 * Gamaliel
+$ 1060 29 gam'ew marry (a wife)
+$ 1061 1 * give in marriage
+$ 1062 16 g'amos marriage ; wedding
+$ 1063 1063 g'ar for ; and ; as ; because (that) ; but ; even ; indeed ; no doubt ; seeing ; then ; therefore ; verily ; what ; why ; yet
+$ 1064 9 * belly ; with child ; womb
+$ 1065 15 g'e yet ; and besides ; at least ; doubtless
+$ 1066 1 * Gedeon
+$ 1067 12 g'eenna hell
+$ 1068 2 * Gethsemane
+$ 1069 4 * neighbor
+$ 1070 2 * laugh
+$ 1071 1 * laughter
+$ 1072 9 * fill ; (be) full
+$ 1073 11 g'emw be full
+$ 1074 42 gene'a generation ; age ; nation ; time
+$ 1075 1 * count by descent
+$ 1076 2 * genealogy
+$ 1077 2 * birthday
+$ 1078 3 * generation ; natural ; nature
+$ 1079 1 * birth
+$ 1080 97 genn'aw beget ; be born ; be delivered of ; bear ; bring forth ; conceive ; gender ; make ; spring
+$ 1081 9 * generation ; fruit
+$ 1082 3 * Gennesaret
+$ 1083 2 * birth
+$ 1084 2 * they that are born
+$ 1085 21 g'enos kindred ; born ; country (-man) ; diversity ; generation ; kind ; nation ; offspring ; stock
+$ 1086 1 * Gergesene
+$ 1087 1 * senate
+$ 1088 1 * old
+$ 1089 15 ge'uomai taste ; eat
+$ 1090 1 * dress
+$ 1091 1 * husbandry
+$ 1092 19 gewrg'os husbandman
+$ 1093 251 g\~h earth ; country ; earth (-ly) ; ground ; land ; world
+$ 1094 1 * old age
+$ 1095 2 * be old ; wax old
+$ 1096 675 g'inomai become ; arise ; be assembled ; be brought (to pass) ; be divided ; be done ; be ended ; be finished ; be found ; be fulfilled ; be kept ; be made ; be married ; be ordained to be ; be performed ; be published ; be showed ; be taken ; be turned ; be wrought ; befall ; behave self ; come to pass ; continue ; draw ; fall ; follow ; grow ; happen ; have ; partake ; pass ; require ; seem ; soon as it was ; sound ; use ; wax ; will ; would
+$ 1097 222 gin'wskw know ; (have) knowledge ; allow ; be aware (of) ; be resolved ; be sure ; can speak ; feel ; perceive ; understand
+$ 1098 1 * new wine
+$ 1099 4 * fresh ; sweet
+$ 1100 50 gl\~wssa tongue
+$ 1101 2 * bag
+$ 1102 1 * fuller
+$ 1103 4 * true ; own ; sincerity
+$ 1104 1 * naturally
+$ 1105 1 * blackness
+$ 1106 9 * mind ; advice ; agree ; judgment ; purpose ; will
+$ 1107 24 gnwr'izw make known ; certify ; declare ; do to wit ; give to understand ; wot
+$ 1108 29 gn\~wsis knowledge ; science
+$ 1109 1 * expert
+$ 1110 15 gnwst'os (which may be) known ; acquaintance ; notable
+$ 1111 8 * murmur
+$ 1112 4 * murmuring ; grudging
+$ 1113 1 * murmurer
+$ 1114 1 * seducer
+$ 1115 3 * Golgotha
+$ 1116 5 * Gomorrha
+$ 1117 3 * merchandise ; burden
+$ 1118 19 gone'us parent
+$ 1119 12 gon'u knee
+$ 1120 4 * kneel down ; bow the knee
+$ 1121 15 gr'amma writing ; bill ; learning ; letter ; scripture ; written
+$ 1122 67 grammate'us scribe ; town-clerk
+$ 1123 1 * written
+$ 1124 51 graf'h writing ; scripture
+$ 1125 195 gr'afw write ; describe ; written
+$ 1126 1 * old wives'
+$ 1127 23 grhgor'ew watch ; (be) watchful ; be vigilant ; wake
+$ 1128 4 * exercise
+$ 1129 1 * exercise
+$ 1130 1 * be naked
+$ 1131 15 gumn'os naked
+$ 1132 3 * nakedness
+$ 1133 1 * silly woman
+$ 1134 1 * wife
+$ 1135 220 gun'h woman ; wife
+$ 1136 1 * Gog
+$ 1137 9 * corner ; quarter
+$ 1138 59 Dab'id David
+$ 1139 13 daimon'izomai have a devil ; be possessed with devils ; be vexed with devils
+$ 1140 61 daim'onion devil ; demon ; god
+$ 1141 1 * devilish
+$ 1142 4 * devil
+$ 1143 1 * bite
+$ 1144 11 d'akru tear
+$ 1145 1 * weep
+$ 1146 1 * ring
+$ 1147 8 * finger
+$ 1148 1 * Dalmanutha
+$ 1149 1 * Dalmatia
+$ 1150 4 * tame
+$ 1151 1 * heifer
+$ 1152 1 * Damans
+$ 1153 1 * Damascene
+$ 1154 15 Damask'os Damascus
+$ 1155 4 * borrow ; lend
+$ 1156 1 * debt
+$ 1157 1 * creditor
+$ 1158 2 * Daniel
+$ 1159 5 * spend ; be at charges ; consume
+$ 1160 1 * cost
+$ 1161 2866 d'e but ; also ; and ; moreover ; now
+$ 1162 19 d'ehsis request ; prayer ; supplication
+$ 1163 104 de\~i necessary ; (be) needful ; be meet ; behoved ; must (needs) ; need ; ought ; should
+$ 1164 1 * example
+$ 1165 1 * make a shew
+$ 1166 31 deikn'uw show ; shew
+$ 1167 1 * fear
+$ 1168 1 * be afraid
+$ 1169 3 * fearful
+$ 1170 1 * such a man
+$ 1171 2 * vehemently ; grievously
+$ 1172 4 * supper ; sup
+$ 1173 16 de\~ipnon supper ; feast
+$ 1174 1 * too superstitious
+$ 1175 1 * superstition
+$ 1176 27 d'eka ten
+$ 1177 2 * twelve
+$ 1178 3 * fifteen
+$ 1179 3 * Decapolis
+$ 1180 5 * fourteen
+$ 1181 4 * tenth (part) ; tithe
+$ 1182 3 * tenth
+$ 1183 2 * pay tithes ; receive tithes
+$ 1184 5 * accepted ; acceptable
+$ 1185 3 * entice ; allure ; beguile
+$ 1186 26 d'endron tree
+$ 1187 1 * spearman
+$ 1188 54 dexi'os right ; right (hand) ; right side
+$ 1189 22 d'eomai beseech ; make request ; pray (to)
+$ 1190 1 * of Derbe
+$ 1191 3 * Derbe
+$ 1192 1 * skin
+$ 1193 2 * leathern ; of a skin
+$ 1194 15 d'erw beat ; smite
+$ 1195 2 * bind
+$ 1196 1 * bind
+$ 1197 1 * bundle
+$ 1198 16 d'esmios in bonds ; prisoner
+$ 1199 20 desm'on bond ; band ; chain ; string
+$ 1200 3 * jailor ; keeper of the prison
+$ 1201 4 * prison
+$ 1202 2 * prisoner
+$ 1203 10 * master ; Lord
+$ 1204 9 * hither ; come (hither) ; hitherto
+$ 1205 13 de\~ute come ; follow
+$ 1206 1 * next day
+$ 1207 1 * second ... after the first
+$ 1208 44 de'uteros second ; afterward ; again ; second (time) ; secondarily
+$ 1209 58 d'eqomai take ; accept ; receive
+$ 1210 44 d'ew bind ; be in bonds ; knit ; tie ; wind
+$ 1211 7 * now ; also ; and ; doubtless ; therefore
+$ 1212 4 * evident ; bewray ; certain ; manifest
+$ 1213 7 * shew ; declare ; signify
+$ 1214 3 * Demas
+$ 1215 1 * make an oration
+$ 1216 3 * Demetrius
+$ 1217 1 * maker
+$ 1218 4 * people
+$ 1219 4 * publickly ; common ; openly
+$ 1220 16 dhn'arion penny ; pence ; penny-worth
+$ 1221 1 * (what-) soever
+$ 1222 1 * verily
+$ 1223 671 di'a through ; after ; always ; among ; at ; because of (that) ; briefly ; by ; by occasion of ; by reason of ; for ; for sake ; from ; in ; of ; that ; thereby ; therefore ; though ; through out ; to ; to avoid ; wherefore ; with (in)
+$ 1224 3 * pass (through) ; come over
+$ 1225 1 * accuse
+$ 1226 2 * affirm constantly
+$ 1227 2 * see clearly
+$ 1228 38 di'abolos slanderer ; devil ; false accuser
+$ 1229 3 * declare ; preach ; signify
+$ 1230 3 * be past ; after ; be spent
+$ 1231 2 * know the uttermost ;  (would) enquire
+$ 1232 1 * make known
+$ 1233 1 * hearing
+$ 1234 2 * murmur
+$ 1235 1 * be awake
+$ 1236 2 * living ; lead life
+$ 1237 1 * come after
+$ 1238 3 * crown
+$ 1239 4 * distribute ; (make) distribution ; divide ; give
+$ 1240 1 * room
+$ 1241 3 * gird
+$ 1242 33 diaj'hkh covenant ; testament
+$ 1243 3 * diversity ; difference
+$ 1244 2 * divide
+$ 1245 2 * throughly purge
+$ 1246 1 * convince
+$ 1247 37 diakon'ew serve ; administor ; minister (unto) ; use the office of a deacon
+$ 1248 34 diakon'ia service ; administration ; minister ; office ; relief ; servicing
+$ 1249 30 di'akonos servant ; deacon ; minister
+$ 1250 8 * two hundred
+$ 1251 1 * hear
+$ 1252 19 diakr'inw discern ; be partial ; contend ; doubt ; judge ; make difference ; stagger ; to differ ; waver
+$ 1253 3 * discern (-ing) ; disputation
+$ 1254 1 * forbid
+$ 1255 2 * commune ; noise abroad
+$ 1256 13 dial'egomai discuss ; dispute ; preach (unto) ; reason (with) ; speak
+$ 1257 1 * cease
+$ 1258 6 * language ; tongue
+$ 1259 1 * reconcile
+$ 1260 16 dialog'izomai reason ; cast in mind ; consider ; dispute ; muse ; think
+$ 1261 14 dialogism'os reasoning ; dispute ; doubtful ; doubting ; imagination ; thought
+$ 1262 1 * scatter
+$ 1263 15 diamart'uromai testify (unto) ; charge ; witness
+$ 1264 1 * strive
+$ 1265 5 * continue ; remain
+$ 1266 11 diamer'izw divide ; cloven ; part
+$ 1267 1 * division
+$ 1268 1 * spread
+$ 1269 1 * beckon
+$ 1270 1 * thought
+$ 1271 12 di'anoia understanding ; imagination ; mind
+$ 1272 8 * open
+$ 1273 1 * continue all night
+$ 1274 1 * finish
+$ 1275 0 * always ; alway ; continually
+$ 1276 6 * pass (over) ; go over ; sail over
+$ 1277 1 * sail over
+$ 1278 2 * be grieved
+$ 1279 5 * go through ; journey in ; pass by
+$ 1280 5 * be (much) purplexed ; (be in) doubt
+$ 1281 1 * gain by trading
+$ 1282 2 * cut (to the heart)
+$ 1283 4 * spoil
+$ 1284 5 * rend ; break
+$ 1285 1 * tell unto
+$ 1286 1 * do violence to
+$ 1287 9 * scatter (abroad) ; disperse ; strew ; waste
+$ 1288 2 * pull in pieces ; pluck asunder
+$ 1289 3 * scatter abroad
+$ 1290 3 * (which are) scattered (abroad)
+$ 1291 8 * charge ; (give) commandment ; that which was commanded
+$ 1292 1 * space
+$ 1293 3 * difference ; distinction
+$ 1294 7 * pervert ; perverse ; turn away
+$ 1295 8 * save ; bring safe ; escape (safe) ; heal ; make perfectly whole
+$ 1296 2 * instrumentality
+$ 1297 1 * commandment
+$ 1298 1 * trouble
+$ 1299 15 diat'assw (set at) order ; appoint ; command ; give ; ordain
+$ 1300 1 * continue
+$ 1301 2 * keep
+$ 1302 0 * why ; wherefore
+$ 1303 7 * appoint ; make ; testator
+$ 1304 10 * abide ; be ; continue ; tarry
+$ 1305 1 * food
+$ 1306 1 * dawn
+$ 1307 1 * transparent
+$ 1308 13 diaf'erw carry through ; be (more) excellent ; be better ; be of more value ; carry ; differ from ; drive up and down ; make matter ; publish
+$ 1309 1 * escape
+$ 1310 3 * spread abroad ; blaze abroad ; commonly report ; fame
+$ 1311 7 * corrupt ; destroy ; perish
+$ 1312 6 * corruption
+$ 1313 4 * divers ; differing ; more excellent
+$ 1314 1 * keep
+$ 1315 2 * kill ; slay
+$ 1316 1 * depart
+$ 1317 2 * apt to teach
+$ 1318 3 * taught ; which ... teacheth
+$ 1319 21 didaskal'ia teaching ; doctrine ; learning
+$ 1320 58 did'askalos teacher ; doctor ; master
+$ 1321 97 did'askw teach
+$ 1322 30 didaq'h hath been taught ; doctrine
+$ 1323 2 * tribute
+$ 1324 3 * Didymus
+$ 1325 416 d'idwmi give ; adventure ; bestow ; bring forth ; commit ; deliver (up) ; grant ; have power ; hinder ; make ; minister ; number ; offer ; put ; receive ; set ; shew ; smite (with the hand) ; strke (with the palm of the hand) ; suffer ; take ; utter ; yield
+$ 1326 7 * awake ; arise; raise ; stir up
+$ 1327 1 * highway
+$ 1328 1 * interpreter
+$ 1329 6 * interpret ; expound ; interpretation
+$ 1330 42 di'erqomai go through ; come ; depart ; go about ; go abroad ; go every where ; go over; go throughout ; pass (through) ; pass by ; pass over ; pass throughout ; pierce through ; travel ; walk through
+$ 1331 1 * make enquiry for
+$ 1332 1 * two years ago
+$ 1333 2 * two years
+$ 1334 8 * declare ; shew ; tell
+$ 1335 1 * declaration
+$ 1336 4 * continually ; for ever
+$ 1337 1 * where two seas met
+$ 1338 1 * pierce
+$ 1339 3 * be parted ; after the space of ; go further
+$ 1340 2 * confidently affirm ; constantly affirm
+$ 1341 1 * righteous judgment
+$ 1342 81 d'ikaios righteous ; just ; meet ; right (-eous)
+$ 1343 93 dikaios'unh righteousness
+$ 1344 39 dikai'ow justify ; be righteous ; free ; justifier
+$ 1345 10 * judgment ; justification ; ordinance ; righteousness
+$ 1346 5 * justly ; (to) righteousness ; righteously
+$ 1347 2 * justification
+$ 1348 3 * judge
+$ 1349 4 * judgment ; punish ; vengeance
+$ 1350 12 d'iktuon net
+$ 1351 1 * double tongued
+$ 1352 51 di'o therefore ; to which cause ; wherefore
+$ 1353 2 * pass through ; go throughout
+$ 1354 1 * Dionysius
+$ 1355 3 * wherefore
+$ 1356 1 * which fell down from Jupiter
+$ 1357 1 * reformation
+$ 1358 4 * break through ; break up
+$ 1359 1 * Castor and Pollux
+$ 1360 24 di'oti because (that) ; for ; therefore
+$ 1361 1 * Diotrephes
+$ 1362 4 * double ; two-fold more
+$ 1363 1 * double
+$ 1364 6 * twice ; ; again
+$ 1365 2 * doubt
+$ 1366 4 * two-edged ; with two edges
+$ 1367 1 * two thousand
+$ 1368 1 * strain out ; filter ; strain at
+$ 1369 1 * set at variance
+$ 1370 3 * division ; sedition
+$ 1371 2 * cut asunder
+$ 1372 16 diy'aw thirst ; (be) thirsty
+$ 1373 1 * thirst
+$ 1374 2 * double minded
+$ 1375 10 * persecution
+$ 1376 1 * persecutor
+$ 1377 44 di'wkw persecute ; (suffer) persecution ; ensue ; follow (after) ; given to ; press towards
+$ 1378 5 * ordinance ; decree
+$ 1379 1 * be subject to ordinances
+$ 1380 62 dok'ew think ; (of own) pleasure ; be accounted ; be of reputation ; please ; seem (good) ; suppose ; trow
+$ 1381 23 dokim'azw (ap-) prove ; allow ; discern ; examine ; like ; try
+$ 1382 7 * proof ; experience ; experiment ; trial
+$ 1383 2 * trying ; trial
+$ 1384 7 * tried ; approved
+$ 1385 6 * beam
+$ 1386 1 * deceitful
+$ 1387 1 * use deceit
+$ 1388 11 d'olos deceit ; craft ; guile ; subtilty
+$ 1389 1 * handle deceitfully
+$ 1390 4 * gift
+$ 1391 168 d'oxa glory ; dignity ; glorious ; honour ; praise ; worship
+$ 1392 62 dox'azw glorify ; (make) glorious ; full of glory ; have glory ; honour ; magnify
+$ 1393 2 * Dorcas
+$ 1394 2 * giving ; gift
+$ 1395 1 * giver
+$ 1396 1 * bring into subjection
+$ 1397 5 * bondage
+$ 1398 25 doule'uw be in bondage ; (do) service ; serve
+$ 1399 3 * handmaid (-en)
+$ 1400 0 * servant
+$ 1401 127 do\~ulos slave ; bond (-man) ; servant
+$ 1402 8 * bring into bondage ; be under bondage ; become servant ; make servant
+$ 1403 2 * feast
+$ 1404 13 dr'akwn dragon
+$ 1405 1 * take
+$ 1406 3 * piece (of silver)
+$ 1407 8 * sickle
+$ 1408 3 * course
+$ 1409 1 * Drusilla
+$ 1410 208 d'unamai able ; be able ; be of power ; be possible ; can (do) ; could ; may ; might
+$ 1411 120 d'unamis power ; (worker of) miracles ; ability ; abundance ; meaning ; mighty ; mighty deed ; mighty work ; miracle ; strength ; violence ; wonderful work
+$ 1412 1 * strengthen
+$ 1413 3 * mighty ; of great authority ; potentate
+$ 1414 1 * be mighty
+$ 1415 36 dunat'os mighty ; able ; could ; possible ; power ; powerful ; strong
+$ 1416 2 * set
+$ 1417 132 d'uo two ; both ; twain
+$ 1418 0 * grievous ; hard
+$ 1419 2 * grievous to be borne
+$ 1420 1 * bloody flux
+$ 1421 1 * hard to be uttered
+$ 1422 1 * hard
+$ 1423 3 * hardly
+$ 1424 5 * west
+$ 1425 1 * west
+$ 1426 1 * hard to be understood
+$ 1427 74 d'wdeka twelve
+$ 1428 1 * twelfth
+$ 1429 1 * twelve tribes
+$ 1430 7 * housetop
+$ 1431 11 dwre'a gift
+$ 1432 9 * freely ; for naught ; in vain ; without a cause
+$ 1433 3 * give
+$ 1434 2 * gift
+$ 1435 19 d\~wron gift ; offering
+$ 1436 2 * let alone
+$ 1437 349 >e'an if ; (if) so ; (who-) so (-ever) ; and if ; before ; but ; except ; though ; to whom ; whatsoever ; when (-soever) ; whether (or) ; whithersoever
+$ 1438 331 <eauto\~u him/her-self ; (he/her/they) (himself/herself/themselves) ; alone ; him/her/them (-selves) ; his/her/their (own) ; itself ; one (to) another ; our own (-selves) ; thine own (-selves)
+$ 1439 12 >e'aw let (alone) ; commit ; leave ; suffer
+$ 1440 5 * seventy ; three score and ten
+$ 1441 1 * seventy times
+$ 1442 9 * seventh
+$ 1443 1 * Eber
+$ 1444 1 * Hebrew
+$ 1445 4 * Hebrew
+$ 1446 3 * Hebrew
+$ 1447 6 * in (the) Hebrew (tongue)
+$ 1448 43 >egg'izw come near ; approach ; be (-come) nigh ; be at hand ; draw near ; draw nigh
+$ 1449 2 * write (in)
+$ 1450 1 * surety
+$ 1451 30 >egg'us near ; at hand ; from ; near ; nigh (at hand) ; nigh unto ; ready
+$ 1452 1 * nearer
+$ 1453 138 >ege'irw raise ; arise ; awake ; lift (up) ; raise again ; raise up ; rear up ; stand ; take up
+$ 1454 1 * resurrection
+$ 1455 1 * spy
+$ 1456 1 * dedication
+$ 1457 2 * dedicate ; consecrate
+$ 1458 7 * lay to the charge ; accuse ; call in question ; implead
+$ 1459 9 * leave ; forsake
+$ 1460 1 * dwell among
+$ 1461 6 * graft in (-to)
+$ 1462 2 * laid to charge ; crime laid against
+$ 1463 1 * be clothed with
+$ 1464 1 * hinder
+$ 1465 5 * hinder ; be tedious unto
+$ 1466 4 * temperance
+$ 1467 2 * be temperate ; can (-not) contain
+$ 1468 1 * temperate
+$ 1469 1 * make of the number
+$ 1470 1 * hid in
+$ 1471 1 * great with child
+$ 1472 1 * anoint
+$ 1473 2670 >eg'w I ; I/me/we
+$ 1474 1 * lay even with the ground
+$ 1475 1 * ground
+$ 1476 3 * settled ; stedfast
+$ 1477 1 * ground
+$ 1478 2 * Ezekias
+$ 1479 1 * will worship
+$ 1480 1 * custom
+$ 1481 1 * ethnarch
+$ 1482 2 * heathen (man)
+$ 1483 1 * after the manner of Gentiles
+$ 1484 166 '>ejnos nation ; Gentile ; heathen ; people
+$ 1485 11 '>ejos custom ; be wont ; manner
+$ 1486 4 * be custom ; be manner ; be wont
+$ 1487 503 e>i if ; (al-) though ; forasmuch as ; that ; whether
+$ 1488 0 * be ; art
+$ 1489 5 * if so be that ; if yet
+$ 1490 8 * if not ; (if) otherwise ; (or) else
+$ 1491 5 * shape ; appearance ; fashion ; sight
+$ 1492 320 e'>idw know ; be aware ; be sure ; behold ; consider; have knowledge ; look (on) ; perceive ; see ; tell ; understand ; wist ; wot
+$ 1493 1 * idol's temple
+$ 1494 10 * offered to idols ; (meat) offered (in sacrifice) unto idols ; thing that is sacrificed to idols
+$ 1495 4 * idolatry
+$ 1496 7 * idolater
+$ 1497 11 e'>idwlon idol
+$ 1498 0 * should be ; mean ; perish ; was ; were
+$ 1499 0 * if (that) ; though
+$ 1500 7 * (in) vain ; vainly ; without a cause
+$ 1501 11 e'>ikosi twenty
+$ 1502 1 * give place
+$ 1503 2 * be like
+$ 1504 23 e>ik'wn image
+$ 1505 3 * sincerity
+$ 1506 2 * pure ; sincere
+$ 1507 0 * roll together
+$ 1508 0 * if not ; but ; except (that) ; more than ; save (only) that ; saving ; till
+$ 1509 0 * except
+$ 1510 2500 e>im'i am ; have been ; it is I ; was
+$ 1511 0 * to be ; am ; are ; come ; is ; lust after ; please well ; there is ; was
+$ 1512 6 * if so be (that) ; seeing ; though
+$ 1513 0 * if by any means
+$ 1514 4 * live peaceably ; be at peace ; have peace ; live in peace
+$ 1515 92 e>ir'hnh peace ; one ; quietness ; rest ; set at one again
+$ 1516 2 * peaceable
+$ 1517 1 * make peace
+$ 1518 1 * peacemaker
+$ 1519 1774 e>is into ; (back-) ward ; (so) that ; (where-) fore ; abundant (-ly) ; against ; among ; as ; at ; before ; by ; concering ; continual ; far more exceeding ; for ; fore ; forth ; here unto ; in among ; perish ; set at one again ; so much that ; therefore ; throughout ; till ; to ; to be ; to the end ; toward ; until ; unto ; upon ; with
+$ 1520 346 e\~<is one ; abundantly ; man ; one another ; only ; other ; some
+$ 1521 10 * lead into ; bring in (-to) ; was to lead into
+$ 1522 5 * hear
+$ 1523 1 * receive
+$ 1524 4 * enter into ; go into
+$ 1525 196 e>is'erqomai enter ; arise ; come in (-to) ; enter in (-to) ; go in ; go through
+$ 1526 0 * be ; agree ; are ; dure ; is ; were
+$ 1527 0 * one by one
+$ 1528 1 * call in
+$ 1529 5 * enter in ; coming ; entering into
+$ 1530 2 * run in ; spring in
+$ 1531 17 e>ispore'uomai enter in ; come in ; go into
+$ 1532 1 * run in
+$ 1533 7 * bring (in) ; lead into
+$ 1534 16 e\~>ita then ; after that ; afterward ; furthermore
+$ 1535 65 e'>ite if ; or ; whether
+$ 1536 0 * if any ; he that ; if a man ; if any man's ; if any thing ; if from any ; whether any ; whosoever
+$ 1537 910 >ek from ; after among ; are ; at ; because of ; betwixt ; beyond ; by (the means of) ; by reason of ; exccedingly ; for (-th) ; from among ; from forth ; from up ; grudgingly ; off (from) ; on ; out among ; out from ; out of ; over ; since ; thenceforth ; through ; unto ; vehemently ; with (-out)
+$ 1538 83 '<ekastos each ; any ; both ; each (one) ; every man ; every one ; every woman ; particuarly
+$ 1539 1 * always
+$ 1540 17 <ekat'on hundred
+$ 1541 1 * hundred years old
+$ 1542 3 * hundredfold
+$ 1543 21 <ekatont'arqhs centurion
+$ 1544 82 >ekb'allw cast out ; bring forth ; cast forth ; drive (out) ; expel ; leave ; pluck out ; pull out ; put forth (out) ; send away send forth ; send out ; take out ; thrust out
+$ 1545 2 * way to escape ; end
+$ 1546 1 * lighten the ship
+$ 1547 6 * give in marriage
+$ 1548 1 * give in marriage
+$ 1549 1 * nephew
+$ 1550 1 * spend
+$ 1551 7 * wait (for) ; expect ; look for ; tarry for
+$ 1552 1 * manifest
+$ 1553 3 * be absent
+$ 1554 4 * let forth ; let out
+$ 1555 2 * decleare
+$ 1556 6 * revenge ; avenge
+$ 1557 9 * revenge ; avenge ; punishment ; vengeance
+$ 1558 2 * revenger ; avenger
+$ 1559 2 * persecute
+$ 1560 1 * delivered
+$ 1561 1 * looking for
+$ 1562 5 * unclothe ; strip ; take off from
+$ 1563 103 >eke\~i there ; (to) yonder (place) ; thitherward ; thither
+$ 1564 28 >eke\~ijen (from) thence ; from that place ; there
+$ 1565 254 >eke\~inos that (same) ; he ; it ; selfsame ; she ; that very ; the other ; the same ; their ; them ; they ; this ; those
+$ 1566 2 * there
+$ 1567 7 * seek after ; (re-) quire ; seek after carefully ; seek after diligently
+$ 1568 4 * greatly amaze ; affright ; sore amaze
+$ 1569 1 * greatly wondering
+$ 1570 1 * cast out
+$ 1571 2 * purge (out)
+$ 1572 1 * burn
+$ 1573 6 * be weary ; faint
+$ 1574 2 * pierce
+$ 1575 3 * break off
+$ 1576 2 * exclude
+$ 1577 115 >ekklhs'ia assembly ; church
+$ 1578 3 * avoid ; eschew ; go out of the way
+$ 1579 1 * swim out
+$ 1580 1 * carry out
+$ 1581 10 * cut down ; cut down off ; cut down out ; hew down ; hinder
+$ 1582 1 * be very attentive
+$ 1583 1 * tell
+$ 1584 1 * shine forth
+$ 1585 1 * forget
+$ 1586 21 >ekl'egomai chosen ; choose (out) ; make choice
+$ 1587 3 * fail
+$ 1588 24 >eklekt'os chosen ; elect
+$ 1589 7 * chosen ; election
+$ 1590 5 * faint
+$ 1591 5 * wipe
+$ 1592 2 * deride
+$ 1593 1 * convey self away
+$ 1594 1 * awake
+$ 1595 1 * willingly
+$ 1596 2 * willingly ; wilfully
+$ 1597 2 * of old ; of a long time
+$ 1598 4 * tempt
+$ 1599 2 * send away ; send forth
+$ 1600 1 * stretch forth
+$ 1601 12 >ekp'iptw fall away ; be cast ; fail ; fall off ; take none effect
+$ 1602 3 * sail (away) ; sail thence
+$ 1603 1 * fulfill
+$ 1604 1 * accomplishment
+$ 1605 13 >ekpl'hssw astonish ; amaze
+$ 1606 3 * give up the ghost
+$ 1607 32 >ekpore'uomai go out ; come forth ; come out of ; depart ; go forth ; issue ; proceed (out of)
+$ 1608 1 * give self over to fornication
+$ 1609 1 * reject
+$ 1610 4 * root up ; pluck up by the root
+$ 1611 7 * astonishment ; amazement ; be amazed ; trance
+$ 1612 1 * subvert
+$ 1613 1 * exceedingly trouble
+$ 1614 16 >ekte'inw stretch forth ; cast ; put forth ; stretch out
+$ 1615 2 * finish
+$ 1616 1 * instantly
+$ 1617 1 * more earnestly
+$ 1618 2 * fervent ; without ceasing
+$ 1619 1 * fervently
+$ 1620 4 * expound ; cast out
+$ 1621 4 * shake (off)
+$ 1622 9 * other than ; but ; except ; excepted ; out of ; outside ; unless ; without
+$ 1623 14 '<ektos sixth
+$ 1624 5 * turn aside ; avoid ; turn (out of the way)
+$ 1625 3 * nourish ; bring up
+$ 1626 1 * born out of due time
+$ 1627 7 * bring forth ; bear ; carry forth ; carry out
+$ 1628 7 * flee ; escape
+$ 1629 1 * terrify
+$ 1630 2 * exceedingly fear ; sore afraid
+$ 1631 2 * put forth
+$ 1632 28 >ekq'ew pour out ; gush out ; run greedily (out) ; shed aboard ; shed forth ; spill
+$ 1633 1 * depart out
+$ 1634 3 * give up the ghost ; yield up the ghost
+$ 1635 2 * willingly
+$ 1636 15 >ela'ia olive ; olive berry ; olive tree
+$ 1637 11 '>elaion oil
+$ 1638 1 * Olivet
+$ 1639 1 * Elamite
+$ 1640 4 * less ; under ; worse ; younger
+$ 1641 1 * have luck
+$ 1642 3 * decrease ; make lower
+$ 1643 5 * drive ; carry ; row
+$ 1644 1 * lightness
+$ 1645 2 * light
+$ 1646 13 >el'aqistos least ; smallest ; very little ; very small
+$ 1647 1 * less than the least
+$ 1648 2 * Eleazar
+$ 1649 1 * rebuke
+$ 1650 2 * reproof ; evidence
+$ 1651 18 >el'egqw reprove ; convict ; convince ; rebuke ; tell a fault
+$ 1652 2 * miserable
+$ 1653 31 >ele'ew pity ; have compassion ; have pity on ; obtain mercy ; receive mercy ; shew mercy (on)
+$ 1654 14 >elehmos'unh alms ; almsdeeds
+$ 1655 2 * merciful
+$ 1656 28 '>eleos (tender) mercy
+$ 1657 11 >eleujer'ia liberty
+$ 1658 23 >ele'ujeros free (-man) ; at liberty ; free (-woman)
+$ 1659 7 * make free ; deliver
+$ 1660 1 * coming
+$ 1661 1 * of ivory
+$ 1662 3 * Eliakim
+$ 1663 1 * Eliezer
+$ 1664 2 * Eliud
+$ 1665 9 * Elisabeth
+$ 1666 1 * Elissaeus
+$ 1667 2 * fold up
+$ 1668 3 * sore
+$ 1669 1 * full of sores
+$ 1670 8 * draw
+$ 1671 1 * Greece
+$ 1672 27 '<Ellhn Greek ; Gentile
+$ 1673 2 * Greek
+$ 1674 2 * Greek ;
+$ 1675 3 * Grecian
+$ 1676 2 * Greek
+$ 1677 2 * impute ; put on account
+$ 1678 1 * Elmodam
+$ 1679 31 >elp'izw hope ; (have) hope ; thing hoped for ; trust
+$ 1680 54 >elp'is hope ; faith
+$ 1681 1 * Elymas
+$ 1682 2 * Eloi
+$ 1683 37 >emauto\~u myself ; me ; mine own (self)
+$ 1684 19 >emba'inw go (up) into ; come into ; enter (into) ; get into ; step in ; take ship
+$ 1685 1 * cast into
+$ 1686 3 * dip
+$ 1687 1 * intrude into
+$ 1688 1 * put in
+$ 1689 12 >embl'epw behold ; (could) see ; gaze up ; look upon
+$ 1690 5 * groan ; murmur against ; straitly charge
+$ 1691 0 * me ; I ; my (-self)
+$ 1692 1 * (will) spue
+$ 1693 1 * be mad against
+$ 1694 1 * Emmaneul
+$ 1695 1 * Emmaus
+$ 1696 3 * continue
+$ 1697 1 * Emmoral
+$ 1698 0 * me ; I ; mine ; my
+$ 1699 72 >em'os my ; mine (own) ; of me
+$ 1700 0 * mine ; me ; my
+$ 1701 1 * mocking
+$ 1702 13 >empa'izw mock
+$ 1703 2 * mocker ; scoffer
+$ 1704 1 * walk in
+$ 1705 5 * fill
+$ 1706 7 * fall among ; fall into
+$ 1707 2 * entangle (self with) ; entangle in
+$ 1708 1 * plaiting
+$ 1709 1 * breathe
+$ 1710 2 * make merchandise ; buy and sell
+$ 1711 1 * merchandise
+$ 1712 1 * merchandise
+$ 1713 5 * merchant
+$ 1714 1 * burn up
+$ 1715 48 '>emprosjen before ; against ; at ; in presence of ; sight of
+$ 1716 6 * spit (upon)
+$ 1717 2 * manifest ; openly
+$ 1718 10 * manifest ; (will) manifest ; appear ; declare (plainly) ; inform ; shew ; signify
+$ 1719 6 * afraid ; affrighted ; tremble
+$ 1720 1 * breathe on
+$ 1721 1 * engrafted
+$ 1722 2789 >en in ; (because) of ; (here) in ; (here-) by (all means) ; (up-) on ; about ; after ; against ; almost ; altogether ; among ; as ; at ; before ; between ; for (... sake of) ; give self wholly to ; into ; inwardly ; mightily ; one ; openly ; outwardly ; quickly ; shortly ; speedily ; that ; there ; therein ; thereon ; through (out) ; toward ; under ; when ; where (-with) ; while ; with (in)
+$ 1723 2 * take up in arms
+$ 1724 1 * thing in the sea
+$ 1725 1 * before
+$ 1726 5 * in the presence of ; before
+$ 1727 8 * (over) against ; contrary
+$ 1728 2 * commence on ; rule
+$ 1729 1 * lacking
+$ 1730 1 * manifest token
+$ 1731 11 >ende'iknumi show (forth) ; do
+$ 1732 4 * proof ; declare ; evident token
+$ 1733 6 * eleven
+$ 1734 3 * eleventh
+$ 1735 1 * can (-not) be
+$ 1736 3 * be at home ; be present
+$ 1737 2 * wear ; clothe in
+$ 1738 2 * just
+$ 1739 1 * building
+$ 1740 2 * glorify
+$ 1741 4 * glorious ; gorgeous (-ly) ; honourable
+$ 1742 8 * clothing ; garment ; raiment
+$ 1743 8 * strengthen ; (increase in) strength ; be strong ; enable ; make strong
+$ 1744 1 * creep
+$ 1745 1 * putting on
+$ 1746 28 >end'uw clothe (with) ; array ; endue ; have on ; put on
+$ 1747 1 * lay wait
+$ 1748 2 * lay wait for
+$ 1749 1 * lying in wait
+$ 1750 1 * wrap in
+$ 1751 1 * such things as ... have
+$ 1752 26 '<eneka because ; (where) fore ; by reason of ; for ; that
+$ 1753 8 * (effectual) working ; operation ; strong
+$ 1754 21 >energ'ew (be) effectual ; be fervent ; be mighty in ; do ; shew forth self ; work (effectually in)
+$ 1755 2 * working ; operation
+$ 1756 3 * effectual ; powerful
+$ 1757 2 * bless
+$ 1758 3 * entangle with ; have a quarrel against ; urge
+$ 1759 9 * hither ; here ; there
+$ 1760 3 * think
+$ 1761 4 * thought ; device
+$ 1762 6 * (there) is ; be
+$ 1763 14 >eniaut'os year
+$ 1764 7 * be at hand ; come ; present
+$ 1765 2 * strengthen
+$ 1766 10 * ninth
+$ 1767 5 * nine
+$ 1768 4 * ninety (and nine)
+$ 1769 1 * speechless
+$ 1770 1 * make signs
+$ 1771 2 * intent ; mind
+$ 1772 2 * under law ; lawful
+$ 1773 1 * before day
+$ 1774 5 * dwell in
+$ 1775 2 * unity
+$ 1776 1 * trouble
+$ 1777 10 * subject to ; guilty of ; in danger of
+$ 1778 3 * commandment
+$ 1779 2 * bury
+$ 1780 2 * burying
+$ 1781 17 >ent'ellomai injoin ; (give) charge ; (give) commandments ; command
+$ 1782 11 >ente'ujen (from) hence ; on either side
+$ 1783 2 * intercession ; prayer
+$ 1784 5 * precious ; dear ; in reputation ; more honourable
+$ 1785 71 >entol'h commandment ; precept
+$ 1786 1 * of that place
+$ 1787 2 * within
+$ 1788 9 * regard ; (give) reverence ; shame
+$ 1789 1 * nourish up in
+$ 1790 3 * trembled ; quake
+$ 1791 2 * shame
+$ 1792 1 * sporting selves
+$ 1793 5 * make intercession ; deal with
+$ 1794 3 * wrap in ; wrap together
+$ 1795 1 * engrave
+$ 1796 1 * do despite unto
+$ 1797 2 * dream (-er)
+$ 1798 1 * dream
+$ 1799 96 >en'wpion in the presence of ; before ; in the sight of ; to
+$ 1800 1 * Enos
+$ 1801 1 * hearken
+$ 1802 3 * Enoch
+$ 1803 13 '<ex six
+$ 1804 1 * shew forth
+$ 1805 4 * redeem
+$ 1806 13 >ex'agw bring forth ; bring out ; fetch out ; lead out
+$ 1807 8 * deliver ; pluck out ; rescue
+$ 1808 2 * put away ; take away
+$ 1809 1 * desire
+$ 1810 5 * suddenly
+$ 1811 3 * follow
+$ 1812 2 * six hundred
+$ 1813 5 * wipe away ; blot out
+$ 1814 1 * leap up
+$ 1815 1 * resurrection
+$ 1816 2 * spring up
+$ 1817 3 * raise up ; rise up
+$ 1818 5 * beguile ; deceive
+$ 1819 1 * suddenly
+$ 1820 2 * (in) despair
+$ 1821 11 >exapost'ellw send forth ; send away ; send out
+$ 1822 2 * thoroughly furnish ; accomplish
+$ 1823 1 * glistening
+$ 1824 6 * immediately ; by and by ; presently ; straightway
+$ 1825 2 * raise up
+$ 1826 4 * go out ; depart ; get (to land)
+$ 1827 0 * convince
+$ 1828 1 * draw-away
+$ 1829 1 * vomit
+$ 1830 1 * search diligently
+$ 1831 223 >ex'erqomai go out ; come forth ; come out ; depart (out of) ; escape ; get out ; go abroad ; go away ; go forth ; go out ; go thence ; proceed (forth) ; spread aboard
+$ 1832 31 '>exesti permitted ; be lawful ; let ; may ; mayest
+$ 1833 3 * ask ; enquire ; search
+$ 1834 6 * declare ; tell
+$ 1835 9 * sixty ; sixty-fold ; threescore
+$ 1836 5 * next ; after ; following ; morrow
+$ 1837 1 * sound forth
+$ 1838 1 * use
+$ 1839 17 >ex'isthmi be astonished ; amaze ; be beside self ; bewitch ; make astonished ; wonder
+$ 1840 1 * be able
+$ 1841 3 * decrease ; departing
+$ 1842 1 * destroy
+$ 1843 10 * acknowledge ; confess ; profess ; promise
+$ 1844 1 * adjure
+$ 1845 1 * exorcist
+$ 1846 2 * remove ; break up ; pluck out
+$ 1847 1 * set at nought
+$ 1848 11 >exoujen'ew set at nought ; contemptible ; despise ; least esteemed
+$ 1849 103 >exous'ia authority ; jurisdiction ; liberty ; power ; right ; strength
+$ 1850 4 * exercise authority upon ; bring under the power of ; have power of
+$ 1851 1 * principal
+$ 1852 1 * awake out of sleep
+$ 1853 1 * out of sleep
+$ 1854 63 '>exw out ; away ; forth ; out of ; outward ; strange ; without
+$ 1855 13 '>exwjen outside ; (from) without ; outwardly ; outward
+$ 1856 2 * drive out ; thrust in
+$ 1857 3 * outer
+$ 1858 1 * keep the feast
+$ 1859 27 <eort'h feast ; holy-day
+$ 1860 52 >epaggel'ia promise ; message
+$ 1861 15 >epagg'ellw (make) promise ; profess
+$ 1862 2 * promise
+$ 1863 3 * bring upon
+$ 1864 1 * earnestly content for
+$ 1865 1 * gather thick together
+$ 1866 1 * Epenetus
+$ 1867 6 * praise ; commend ; laud
+$ 1868 11 '>epainos praise
+$ 1869 19 >epa'irw lift up ; exalt self ; poise up ; take up
+$ 1870 11 >epaisq'unomai be ashamed
+$ 1871 1 * beg
+$ 1872 4 * follow (after)
+$ 1873 1 * hear
+$ 1874 1 * hear
+$ 1875 3 * when
+$ 1876 1 * necessary
+$ 1877 3 * launch out ; return ; thrust out
+$ 1878 1 * put in mind
+$ 1879 2 * rest in ; rest upon
+$ 1880 2 * return ; come again
+$ 1881 2 * rise up against
+$ 1882 1 * correction
+$ 1883 20 >ep'anw above ; (up-) on ; more than ; over
+$ 1884 3 * relieve
+$ 1885 2 * province
+$ 1886 1 * habitation
+$ 1887 17 >epa'urion morrow ; day following ; next day (after)
+$ 1888 1 * in the very act
+$ 1889 3 * Epaphras
+$ 1890 1 * foam out
+$ 1891 2 * Epaphroditus
+$ 1892 2 * stir up ; raise
+$ 1893 27 >epe'i since ; because ; else ; for that then ; forasmuch as ; otherwise ; seeing that ; when
+$ 1894 10 * since ; after that ; because ; for that ; forasmuch as ; seeing
+$ 1895 1 * forasmuch
+$ 1896 2 * look upon ; behold
+$ 1897 1 * seeing
+$ 1898 1 * bringing in
+$ 1899 16 '>epeita after that ; afterward ; then
+$ 1900 1 * beyond
+$ 1901 1 * reach forth
+$ 1902 2 * be clothed upon
+$ 1903 1 * fisher's coat
+$ 1904 10 * come upon ; come in
+$ 1905 59 >eperwt'aw ask ; ask after ; ask questions ; demand ; desire ; question
+$ 1906 1 * answer
+$ 1907 5 * hold forth ; give head unto ; mark ; stay ; take heed unto
+$ 1908 3 * use despitefully ; falsely accuse
+$ 1909 900 >ep'i on ; (because) of ; (un-) to (-ward) ; about (the times) ; above after ; against ; among ; as long as ; as touching ; at ; before ; beside ; by the space of ; for the space of ; have charge of ; in a place ; in as much as ; in the time of ; into ; on behalf of ; over ; through (-out) ; upon ; wherefore ; with
+$ 1910 6 * come (into) ; enter into ; go abroad ; sit upon ; take ship
+$ 1911 18 >epib'allw cast upon ; beat into ; cast on ; fall ; lay (on) ; put (unto) ; stretch forth ; think on
+$ 1912 3 * be chargeable to ; overcharge
+$ 1913 3 * set on
+$ 1914 3 * regard ; have respect to ; look upon
+$ 1915 3 * piece
+$ 1916 1 * cry
+$ 1917 4 * laying in wait ; lying in wait
+$ 1918 1 * marry
+$ 1919 7 * earthly ; in earth ; terrestrial
+$ 1920 1 * blow
+$ 1921 42 >epigin'wskw acknowledge ; have knowledge ; know well ; perceive ; take knowledge
+$ 1922 20 >ep'ignwsis acknowledgment ; acknowledge ; acknowledging
+$ 1923 5 * superscription
+$ 1924 5 * inscription ; write in ; write over ; write thereon
+$ 1925 9 * shew
+$ 1926 2 * receive
+$ 1927 2 * (be) dwelling there ; stranger
+$ 1928 1 * add to
+$ 1929 11 >epid'idwmi deliver unto ; give ; let drive ; offer
+$ 1930 1 * set in order
+$ 1931 1 * go down
+$ 1932 2 * gentleness ; clemency
+$ 1933 5 * gentle ; moderation ; patient
+$ 1934 15 >epizht'ew seek after ; desire ; enquire ; seek for
+$ 1935 1 * appointed to death
+$ 1936 4 * laying on ; putting on
+$ 1937 16 >epijum'ew lust (after) ; covet ; desire ; would fain
+$ 1938 1 * lust after
+$ 1939 38 >epijum'ia lust (after) ; concupiscence ; desire
+$ 1940 1 * set on
+$ 1941 32 >epikal'eomai call ; appeal (unto) ; call on ; call upon ; surname
+$ 1942 1 * cloke
+$ 1943 1 * cover
+$ 1944 3 * accursed
+$ 1945 7 * (be) laid upon ; (be) laid thereupon ; be instant ; impose ; lay (on) ; lie (on) ; press upon
+$ 1946 1 * Epicurean
+$ 1947 1 * help
+$ 1948 1 * give sentence
+$ 1949 19 >epilamb'anomai take hold of ; catch ; lay hold (up-) on ; take by ; take on
+$ 1950 8 * forget ; be forgetful of
+$ 1951 2 * choose ; call
+$ 1952 1 * fail
+$ 1953 1 * forgetful
+$ 1954 1 * rest
+$ 1955 1 * interpretation
+$ 1956 2 * expound ; determine
+$ 1957 1 * testify
+$ 1958 1 * refresh self
+$ 1959 3 * take care of
+$ 1960 1 * diligently
+$ 1961 17 >epim'enw tarry ; abide (in) ; continue (in)
+$ 1962 1 * consent
+$ 1963 1 * thought
+$ 1964 1 * forswear self
+$ 1965 1 * perjured person
+$ 1966 5 * next ; following
+$ 1967 2 * daily
+$ 1968 13 >epip'iptw fall on ; fall into ; fall on ; fall upon ; lie on ; press upon
+$ 1969 1 * rebuke
+$ 1970 0 * choke
+$ 1971 9 * desire (greatly) ; (earnestly) desire ; (greatly) long (after) ; lust
+$ 1972 2 * earnest desire ; vehement desire
+$ 1973 1 * longed for
+$ 1974 1 * great desire
+$ 1975 1 * come
+$ 1976 1 * sew on
+$ 1977 2 * cast upon
+$ 1978 2 * notable ; of note
+$ 1979 1 * victuals
+$ 1980 11 >episk'eptomai visit ; look out
+$ 1981 1 * rest upon
+$ 1982 5 * overshadow
+$ 1983 2 * take the oversight ; look diligently
+$ 1984 4 * bishoprick ; office of a bishop ; visitation
+$ 1985 5 * bishop ; overseer
+$ 1986 1 * be uncircumcised
+$ 1987 14 >ep'istamai know ; understand
+$ 1988 7 * master
+$ 1989 3 * write (a letter) ; write unto
+$ 1990 1 * endued with knowledge
+$ 1991 4 * strengthen ; confirm
+$ 1992 24 >epistol'h letter ; epistle
+$ 1993 1 * stop mouths
+$ 1994 37 >epistr'efw return ; come again ; convert ; go again ; turn about ; turn around
+$ 1995 1 * conversion
+$ 1996 7 * gather (together)
+$ 1997 2 * assembling together ; gathering together
+$ 1998 1 * come running together
+$ 1999 2 * that which cometh upon ; raising up
+$ 2000 1 * dangerous
+$ 2001 1 * be the more fierce
+$ 2002 1 * heap
+$ 2003 7 * commandment ; authority
+$ 2004 10 * command ; charge ; injoin
+$ 2005 11 >epitel'ew finish ; accomplish ; do ; finish ; make perfect ; perform (-ance)
+$ 2006 1 * things which are needful
+$ 2007 41 >epit'ijhmi put upon ; add unto ; lade ; lay upon ; put (up) on ; set on ; set up ; surname ; wound
+$ 2008 29 >epitim'aw rebuke ; (straitly) charge
+$ 2009 1 * punishment
+$ 2010 19 >epitr'epw permit ; give leave ; give liberty ; give license ; let ; suffer
+$ 2011 1 * commission
+$ 2012 3 * steward ; tutor
+$ 2013 5 * obtain
+$ 2014 4 * appear ; give light
+$ 2015 6 * appearing ; brightness
+$ 2016 1 * notable
+$ 2017 1 * give light
+$ 2018 5 * add ; bring (against) ; take
+$ 2019 3 * give a shout ; cry (against)
+$ 2020 2 * begin to dawn ; draw on
+$ 2021 3 * take in hand ; go about ; take upon
+$ 2022 1 * pour in
+$ 2023 5 * fully supply ; add ; minister (nourishment) ; minister unto
+$ 2024 2 * supply
+$ 2025 2 * anoint
+$ 2026 8 * build thereon ; build on ; build thereupon ; build upon
+$ 2027 1 * run aground
+$ 2028 1 * call
+$ 2029 2 * behold
+$ 2030 1 * eye-witness
+$ 2031 1 * say
+$ 2032 20 >epour'anios (in) heaven ; celestial ; heavenly ; high
+$ 2033 89 <ept'a seven
+$ 2034 4 * seven times
+$ 2035 1 * seven thousand
+$ 2036 0 * speak ; answer; bid ; bring word ; call ; command ; grant ; say (on) ; speak ; tell
+$ 2037 3 * Erastus
+$ 2038 39 >erg'azomai work ; commit ; do ; labor for ; minister about ; trade (by) ; work
+$ 2039 6 * work ; craft ; diligence ; gain
+$ 2040 16 >erg'aths worker ; labourer ; workmen
+$ 2041 174 '>ergon work ; deed ; doing ; labour
+$ 2042 2 * provoke
+$ 2043 1 * stick fast
+$ 2044 1 * utter
+$ 2045 6 * search
+$ 2046 95 >er'ew speak ; call ; say ; speak (of) ; tell
+$ 2047 4 * desert ; wilderness
+$ 2048 50 '>erhmos desert ; desolate ; solitary ; wilderness
+$ 2049 5 * make desolate ; bring to desolation ; come to nought
+$ 2050 3 * desolation
+$ 2051 1 * strive
+$ 2052 7 * contention ; contentious ; strife
+$ 2053 2 * wool
+$ 2054 9 * contention ; debate ; strife ; variance
+$ 2055 1 * goat
+$ 2056 2 * goat ; kid
+$ 2057 1 * Hernias
+$ 2058 2 * interpretation
+$ 2059 4 * interpret
+$ 2060 2 * Hermes ; Mercury
+$ 2061 1 * Hermogenes
+$ 2062 4 * creeping thing ; serpent
+$ 2063 2 * red
+$ 2064 641 '>erqomai come ; accompany ; appear ; be set ; bring ; enter ; fall out ; go ; grow ; light ; next ; pass ; resort
+$ 2065 58 >erwt'aw ask ; beseech ; desire ; intreat ; pray
+$ 2066 7 * clothing ; apparel ; raiment ; robe
+$ 2067 1 * garment
+$ 2068 65 >esj'iw eat ; devour ; live
+$ 2069 1 * Esli
+$ 2070 0 * be ; (the gospel) was (preached unto) us ; are ; have hope ; have our being
+$ 2071 0 * (shall) come (to pass) ; fall ; live long ; may have ; shall be ; should have ; sojourn ; what would follow
+$ 2072 2 * glass
+$ 2073 3 * evening (-tide)
+$ 2074 3 * Esrom
+$ 2075 0 * be ; belong ; have been
+$ 2076 0 * be ; (that) is (to say) ; are ; belong ; call ; can (-not) ; come ; consisteth ; dure for awhile ; follow ; have ; make ; meaneth ; must needs ; profit ; remaineth ; wrestle
+$ 2077 0 * be
+$ 2078 52 '>esqatos last ; ends of ; latter end ; lowest ; uttermost
+$ 2079 1 * point of death
+$ 2080 8 * in ; inner ; into ; inward ; within
+$ 2081 13 '>eswjen (from) within ; inward ; inwardly ; without
+$ 2082 2 * inner ; within
+$ 2083 4 * fellow ; friend
+$ 2084 1 * man of other tongue
+$ 2085 2 * teach otherwise ; teach other doctrine
+$ 2086 1 * unequally yoke together with
+$ 2087 98 '<eteros other ; altered; another ; else ; next (day) ; one ; strange
+$ 2088 1 * otherwise
+$ 2089 92 '>eti yet ; (any) further ; (any) longer ; (any) more ; (more) ; (t-) henceforth ; after that ; also ; ever ; hearafter ; now ; still
+$ 2090 40 <etoim'azw prepare ; make ready ; provide
+$ 2091 1 * preparation
+$ 2092 17 '<etoimos prepared ; made ready ; readiness ; ready to our hand
+$ 2093 3 * ready
+$ 2094 49 '>etos year
+$ 2095 6 * good ; well (done)
+$ 2096 2 * Eve
+$ 2097 55 e>uaggel'izw announce gospel ; bring glad tidings ; declare ; preach (the gospel) ; show good tidings
+$ 2098 77 e>uagg'elion gospel
+$ 2099 3 * evangelist
+$ 2100 3 * please (well)
+$ 2101 9 * wellpleasing ; acceptable ; accepted
+$ 2102 1 * please well ; acceptably
+$ 2103 1 * Eubulus
+$ 2104 3 * nobleman ; more noble
+$ 2105 1 * fair weather
+$ 2106 21 e>udok'ew think good ; (be well) pleased ; be the good pleasure ; be willing ; have pleasure ; pleased ; take pleasure
+$ 2107 9 * seem good ; desire ; good pleasure ; good will
+$ 2108 2 * good deed done ; benefit
+$ 2109 1 * do good
+$ 2110 1 * benefactor
+$ 2111 3 * meet ; at
+$ 2112 88 e>uj'ews immediately ; anon ; as soon as ; forthwith ; shortly ; straightway
+$ 2113 2 * (come) with a straight course
+$ 2114 3 * be of good cheer ; be merry
+$ 2115 2 * of good cheer ; the more cheerfully
+$ 2116 2 * make straight ; governor
+$ 2117 8 * straightway ; anon ; by and by ; forthwith ; immediately
+$ 2118 1 * righteousness
+$ 2119 3 * have leisure ; have convenient time ; spend time
+$ 2120 2 * opportunity
+$ 2121 2 * convenient ; in time of need
+$ 2122 2 * convenient ; in season
+$ 2123 7 * easier
+$ 2124 2 * fear (-ed)
+$ 2125 2 * (moved with) fear
+$ 2126 3 * devout
+$ 2127 43 e>ulog'ew bless ; praise
+$ 2128 8 * blessed
+$ 2129 16 e>ulog'ia blessing ; blessing a matter of bounty ; bountifully ; fair speech
+$ 2130 1 * ready to distribute
+$ 2131 1 * Eunice
+$ 2132 1 * agree
+$ 2133 2 * good will ; benevolence
+$ 2134 2 * make ... eunuch
+$ 2135 8 * eunuch
+$ 2136 1 * Euodias
+$ 2137 4 * prosper ; (have a) prosperous (journey)
+$ 2138 1 * easy to be intreated
+$ 2139 1 * which doth so easily beset
+$ 2140 1 * to do good
+$ 2141 1 * ability
+$ 2142 1 * wealth
+$ 2143 1 * grace
+$ 2144 5 * acceptable ; accepted
+$ 2145 1 * attend upon
+$ 2146 1 * make a fair show
+$ 2147 177 e<ur'iskw find ; get ; obtain ; perceive ; see
+$ 2148 1 * Euroklydon
+$ 2149 1 * broad
+$ 2150 15 e>us'ebeia godliness ; holiness
+$ 2151 2 * worship ; show piety
+$ 2152 4 * godly ; devout
+$ 2153 2 * godly
+$ 2154 1 * easy to be understood
+$ 2155 2 * tender-hearted ; pitiful
+$ 2156 3 * decently ; honestly
+$ 2157 1 * comeliness
+$ 2158 5 * honourable ; comely
+$ 2159 2 * vehemently ; mightily
+$ 2160 1 * jesting
+$ 2161 1 * Eutychus
+$ 2162 1 * good report
+$ 2163 1 * of good report
+$ 2164 1 * bring forth abundantly
+$ 2165 14 e>ufra'inw rejoice ; be merry ; fare ; make glad ; make merry
+$ 2166 2 * Euphrates
+$ 2167 2 * joy ; gladness
+$ 2168 40 e>uqarist'ew (give) thanks ; thank ; thankful
+$ 2169 15 e>uqarist'ia thankfulness ; (giving of) thanks ; thanksgiving
+$ 2170 1 * thankful
+$ 2171 3 * prayer ; vow
+$ 2172 7 * pray ; will ; wish
+$ 2173 3 * meet for use ; profitable
+$ 2174 1 * be of good comfort
+$ 2175 3 * sweet smell ; sweet savour ; sweet smelling
+$ 2176 10 * (on the) left
+$ 2177 1 * leap on
+$ 2178 5 * (at) once (for all)
+$ 2179 0 * of Ephesus
+$ 2180 5 * Ephesian, of Ephesus
+$ 2181 16 '>Efesos Ephesus
+$ 2182 1 * inventor
+$ 2183 2 * course
+$ 2184 1 * daily
+$ 2185 2 * reach
+$ 2186 21 >ef'isthmi stand before ; assault ; be at hand ; be instant ; come in ; come to ; come unto ; come upon ; present ; stand by ; stand over
+$ 2187 1 * Ephraim
+$ 2188 1 * Ephphatha
+$ 2189 6 * enmity ; hatred
+$ 2190 32 >eqjr'os enemy ; foe
+$ 2191 5 * viper
+$ 2192 710 '>eqw have ; accompany ; be able ; be possessed with ; begin at ament ; behold ; can (-not) ; conceive ; count ; diseased ; do ; eat ; enjoy ; fear ; following ; go to law ; hold ; keep ; lack ; lie ; must needs ; need ; next ; of necessity ; recover ; reign ; rest ; return ; sick ; take for ; tremble ; uncircumcised ; use
+$ 2193 146 '<ews until ; as far as ; even unto ; even until ; hitherto ; how long ; till ; unto ; up to ; while
+$ 2194 3 * Zabulon
+$ 2195 3 * Zacchseus
+$ 2196 1 * Zara
+$ 2197 11 Zaqar'ias Zacharias
+$ 2198 142 z'aw live ; alive ; life ; lifetime ; lively ; quick
+$ 2199 12 Zebeda\~ios Zebedee
+$ 2200 3 * hot
+$ 2201 2 * couple ; pair ; yoke
+$ 2202 1 * band
+$ 2203 2 * Zeus ; Jupiter
+$ 2204 2 * be fervent
+$ 2205 17 z\~hlos zeal ; emulation ; envying ; evny ; fervent mind ; indignation ; jealously
+$ 2206 11 zhl'ow zealous ; (have) desire ; (move with) envy ; affect ; be jealous over ; be zealously affect ; covet
+$ 2207 7 * zealous
+$ 2208 0 * Zelotes
+$ 2209 4 * damage ; loss
+$ 2210 6 * receive damage ; be cast away ; lose ; suffer loss
+$ 2211 1 * Zenas
+$ 2212 118 zht'ew seek (after) ; be about ; desire ; endeavour ; enquire (for) ; go about ; require ; will seek for ; will seek means
+$ 2213 5 * question
+$ 2214 7 * question
+$ 2215 8 * tares
+$ 2216 3 * Zorobabel
+$ 2217 4 * darkness ; blackness ; mist
+$ 2218 6 * coupling ; pair of balances ; yoke
+$ 2219 13 z'umh leaven
+$ 2220 4 * leaven
+$ 2221 2 * take captive ; catch
+$ 2222 135 zw'h life ; lifetime
+$ 2223 8 * girdle ; purse
+$ 2224 2 * gird
+$ 2225 2 * preserve ; live
+$ 2226 23 z\~won beast
+$ 2227 12 zwopoi'ew make alive ; give life ; quicken
+$ 2228 354 '>h or ; (n-) either ; and ; but (either) ; else ; expect it be ; nor ; rather ; save ; than ; that ; what ; yea
+$ 2229 1 * sorely
+$ 2230 2 * be governor
+$ 2231 1 * reign
+$ 2232 22 <hgem'wn ruler ; governor ; prince
+$ 2233 28 <hg'eomai chief ; account ; be chief ; count ; esteem ; governor ; have the rule over ; judge ; suppose; think
+$ 2234 3 * gladly
+$ 2235 59 '>hdh now ; already ; by this time ; even now ; now already
+$ 2236 2 * most gladly ; very gladly
+$ 2237 5 * pleasure ; lust
+$ 2238 2 * mint
+$ 2239 2 * manners
+$ 2240 27 '<hkw come
+$ 2241 2 * Eli
+$ 2242 1 * Heli
+$ 2243 30 >Hl'ias Elias
+$ 2244 8 * stature ; age
+$ 2245 2 * how great ; what great
+$ 2246 32 '<hlios sun ; east
+$ 2247 2 * nail
+$ 2248 0 * us ; our ; we
+$ 2249 0 * we ; us ; we ourselves
+$ 2250 389 <hm'era day ; (day) time ; age ; alway ; daily ; day by day ; for ever ; judgment ; midday ; while ; years
+$ 2251 7 * our ; your
+$ 2252 0 * be ; was
+$ 2253 1 * half dead
+$ 2254 0 * (for) us ; our ; we
+$ 2255 5 * half
+$ 2256 1 * half an hour
+$ 2257 0 * us ; our (company) ; we
+$ 2258 0 * be ; agree ; be ; have (charge of) ; hold ; use ; was ; wast ; were
+$ 2259 2 * when
+$ 2260 1 * than
+$ 2261 2 * gentle
+$ 2262 1 * Er
+$ 2263 1 * quiet
+$ 2264 44 <Hr'wdhs Herod
+$ 2265 3 * Herodians
+$ 2266 6 * Herodias
+$ 2267 1 * Herodion
+$ 2268 21 >Hsa"'ias Esaias
+$ 2269 3 * Esau
+$ 2270 5 * be quiet ; cease ; hold peace ; rest
+$ 2271 4 * quietness ; silence
+$ 2272 2 * quiet ; peaceable
+$ 2273 1 * whether
+$ 2274 3 * be inferior ; overcome
+$ 2275 2 * diminishing ; fault
+$ 2276 2 * worse ; less
+$ 2277 0 * let ... be
+$ 2278 2 * roar ; sound
+$ 2279 3 * sound ; fame
+$ 2280 2 * Thaddaeus
+$ 2281 92 j'alassa sea
+$ 2282 2 * cherish
+$ 2283 1 * Thamar
+$ 2284 3 * astonish
+$ 2285 3 * astonished ; amazed ; wonder
+$ 2286 1 * deadly
+$ 2287 1 * deadly
+$ 2288 119 j'anatos death ; be ... death ; deadly
+$ 2289 11 janat'ow become dead ; (cause to be) put to death ; kill ; mortify
+$ 2290 11 j'aptw bury
+$ 2291 1 * Thara
+$ 2292 6 * be bold ; be confident ; bodly ; have confidence
+$ 2293 8 * be of good cheer ; be of good comfort
+$ 2294 1 * courage
+$ 2295 1 * admiration
+$ 2296 46 jaum'azw wonder ; admire ; have in admiration ; marvel
+$ 2297 1 * wonderful thing
+$ 2298 7 * marvel (-ous)
+$ 2299 2 * goddess
+$ 2300 24 je'aomai look (upon) ; behold
+$ 2301 1 * make a gazing stock
+$ 2302 3 * theatre ; spectacle
+$ 2303 7 * brimstone
+$ 2304 3 * divine ; godhead
+$ 2305 1 * divinity ; godhead
+$ 2306 1 * brimstone
+$ 2307 64 j'elhma will ; desire ; pleasure
+$ 2308 1 * will
+$ 2309 209 j'elw will ; be disposed (forward) ; be willing ; desire ; have rather ; intend ; list ; love ; mean ; please ; will (have) ; willingly
+$ 2310 16 jem'elios foundation
+$ 2311 6 * taught of God
+$ 2312 1 * divine
+$ 2313 1 * fight against God
+$ 2314 1 * to fight against God
+$ 2315 1 * given by inspiration of God
+$ 2316 1339 je'os God ; exceedingly ; god ; godly ; godward
+$ 2317 1 * godliness
+$ 2318 1 * worshipper of God
+$ 2319 1 * hater of God
+$ 2320 1 * godhead
+$ 2321 2 * Theophilus
+$ 2322 4 * healing ; household
+$ 2323 44 jerape'uw heal ; cure ; worship
+$ 2324 1 * servant
+$ 2325 21 jer'izw reap
+$ 2326 13 jerism'os harvest
+$ 2327 2 * reaper
+$ 2328 6 * be warmed ; warm (self)
+$ 2329 1 * heat
+$ 2330 3 * summer
+$ 2331 4 * Thessalonian
+$ 2332 5 * Thessalonica
+$ 2333 1 * Theudas
+$ 2334 57 jewr'ew look ; behold ; consider ; look on ; perceive ; see
+$ 2335 1 * sight
+$ 2336 1 * sheath
+$ 2337 6 * (give) suck ; suckling
+$ 2338 5 * female ; woman
+$ 2339 1 * trap
+$ 2340 1 * catch
+$ 2341 1 * fight with wild beasts
+$ 2342 46 jhr'ion beast ; (wild) beast ; venomous beast
+$ 2343 8 * lay up (treasure) ; (heap) treasure together ; (keep) in store ; heap treasure up
+$ 2344 18 jhsaur'os treasure
+$ 2345 3 * handle ; touch
+$ 2346 10 * afflict ; narrow ; suffer tribulation ; throng ; trouble
+$ 2347 45 jl'iyis affliction ; afflicted ; anguish ; burdened ; persecution ; tribulation ; trouble
+$ 2348 13 jn'hskw die ; be dead
+$ 2349 6 * mortal (-ity)
+$ 2350 4 * set on an uproar ; make a noise ; make ado ; trouble self
+$ 2351 7 * uproar ; tumult
+$ 2352 1 * bruise
+$ 2353 1 * cattle
+$ 2354 4 * lament ; mourn
+$ 2355 1 * lamentation
+$ 2356 4 * religion ; worshipping
+$ 2357 1 * religious
+$ 2358 2 * (cause) to triumph (over)
+$ 2359 15 jr'ix hair
+$ 2360 3 * trouble
+$ 2361 1 * great drop
+$ 2362 62 jr'onos throne ; seat
+$ 2363 4 * Thyatira
+$ 2364 29 jug'athr daughter
+$ 2365 2 * young daughter ; little daughter
+$ 2366 1 * tempest
+$ 2367 1 * thyine
+$ 2368 6 * incense ; odour
+$ 2369 1 * censer
+$ 2370 1 * burn incense
+$ 2371 1 * by highly displeased
+$ 2372 18 jum'os wrath ; fierceness ; indignation
+$ 2373 1 * be wroth
+$ 2374 39 j'ura door ; gate
+$ 2375 1 * shield
+$ 2376 2 * window
+$ 2377 4 * porter ; that kept the door
+$ 2378 29 jus'ia sacrifice
+$ 2379 23 jusiast'hrion altar
+$ 2380 14 j'uw (do) sacrifice ; kill ; slay
+$ 2381 11 Jwm\~as Thomas
+$ 2382 5 * breastplate
+$ 2383 2 * Jairus
+$ 2384 27 >Iak'wb Jacob
+$ 2385 42 >I'akwbos James
+$ 2386 3 * healing
+$ 2387 1 * Jambres
+$ 2388 1 * Janna
+$ 2389 1 * Jannes
+$ 2390 28 >i'aomai heal ; make whole
+$ 2391 1 * Jared
+$ 2392 3 * heal (-ing) ; cure
+$ 2393 4 * jasper
+$ 2394 5 * Jason
+$ 2395 7 * physician
+$ 2396 0 * behold ; lo ; see
+$ 2397 1 * countenance
+$ 2398 113 '>idios own ; apart ; aside ; due ; her own business ; his aquaintance ; his own ; his proper ; his several ; home ; our own business ; private (-ly) ; proper ; severally ; their (own) ; thine own business ; when they were alone ; your own business
+$ 2399 5 * unlearned ; ignorant ; rude
+$ 2400 0 * behold ; lo ; see
+$ 2401 1 * Idumaea
+$ 2402 1 * sweat
+$ 2403 1 * Jezabel
+$ 2404 1 * Hierapolis
+$ 2405 2 * priest's office ; office of the priesthood
+$ 2406 2 * priesthood
+$ 2407 1 * execute the priest's office
+$ 2408 3 * Jeremiah
+$ 2409 33 <iere'us priest ; (high) priest
+$ 2410 7 * Jericho
+$ 2411 71 <ier'on temple
+$ 2412 1 * as becometh holiness
+$ 2413 2 * holy
+$ 2414 59 <Ieros'oluma Jerusalem
+$ 2415 2 * of Jerusalem
+$ 2416 1 * commit sacriledge
+$ 2417 1 * robber of churches
+$ 2418 1 * minister
+$ 2419 83 <Ierousal'hm Jerusalem
+$ 2420 4 * priesthood
+$ 2421 5 * Jesse
+$ 2422 1 * Jephthab
+$ 2423 2 * Jechonias
+$ 2424 972 >Ihso\~us Jesus
+$ 2425 41 <ikan'os sufficient ; able ; content ; enough ; good ; great ; large ; long (while) ; many ; meet ; much ; security ; sore ; sufficient ; worthy
+$ 2426 1 * sufficiency
+$ 2427 2 * make able ; make meet
+$ 2428 1 * supplication
+$ 2429 1 * moisture
+$ 2430 6 * Iconium
+$ 2431 1 * cheerful
+$ 2432 1 * cheerfulness
+$ 2433 2 * be merciful ; make reconciliation for
+$ 2434 2 * propitiation
+$ 2435 2 * mercyseat ; propitiation
+$ 2436 2 * merciful ; be it far
+$ 2437 1 * Myricum
+$ 2438 4 * strap ; latchet ; thong
+$ 2439 2 * clothe
+$ 2440 61 <im'ation clothes ; apparel ; cloke ; garment ; raiment ; robe ; vesture
+$ 2441 5 * apparel ; appareled ; array ; raiment ; vesture
+$ 2442 1 * be affectionately desirous
+$ 2443 670 '<ina that ; (for) to ; (so) that ; albeit ; because ; lest ; so as ; to the intent (that)
+$ 2444 0 * why ; wherefore
+$ 2445 10 * Joppa
+$ 2446 15 >Iord'anhs Jordan
+$ 2447 3 * poison/rust
+$ 2448 7 * Judah
+$ 2449 43 >Iouda'ia Judaea
+$ 2450 1 * live as the Jews
+$ 2451 1 * Jewish
+$ 2452 1 * as do the Jews
+$ 2453 197 >Iouda\~ios Jew ; Jewess ; of Judaea
+$ 2454 2 * Jews' religion
+$ 2455 38 >Ioud'as Judas ; Juda ; Judah ; Jude
+$ 2456 1 * Julia
+$ 2457 2 * Julius
+$ 2458 1 * Junias
+$ 2459 3 * Justus
+$ 2460 2 * horseman
+$ 2461 0 * horse (-men)
+$ 2462 18 '<ippos horse
+$ 2463 2 * rainbow
+$ 2464 20 >Isa'ak Isaac
+$ 2465 1 * equal unto the angels
+$ 2466 1 * Issachar
+$ 2467 0 * know
+$ 2468 0 * agree ; be ; give thyself wholly to
+$ 2469 11 >Iskari'wths Iscariot
+$ 2470 8 * equal ; agree ; as much ; like
+$ 2471 3 * equal (-ity)
+$ 2472 1 * like precious
+$ 2473 1 * likeminded
+$ 2474 69 >Isra'hl Israel
+$ 2475 9 * Israelite
+$ 2476 154 '<isthmi stand ; abide ; appoint ; bring ; continue ; convenant ; establish ; hold up ; lay ; present ; set (up) ; stanch ; stand by ; stand forth ; stand still ; stand up
+$ 2477 1 * see
+$ 2478 29 >isqur'os mighty ; boisterous ; mightier ; powerful ; strong (man) ; stronger ; valiant
+$ 2479 10 * might ; ability ; mightily ; power ; strength
+$ 2480 29 >isq'uw might ; avail ; be able ; be good ; be of strength ; be whole ; can do ; cannot do ; could ; might ; much work ; prevail
+$ 2481 1 * it may be
+$ 2482 4 * Italy
+$ 2483 1 * Italian
+$ 2484 1 * Ituraea
+$ 2485 2 * little fish ; small fish
+$ 2486 20 >iqj'us fish
+$ 2487 3 * step
+$ 2488 2 * Joatham
+$ 2489 2 * Joanna
+$ 2490 1 * Joannas
+$ 2491 131 >Iw'annhs John
+$ 2492 1 * Job
+$ 2493 1 * Joel
+$ 2494 1 * Jonan
+$ 2495 13 >Iwn\~as Jonas
+$ 2496 2 * Joram
+$ 2497 1 * Jorim
+$ 2498 2 * Josaphat
+$ 2499 0 * Jose
+$ 2500 7 * Joses
+$ 2501 35 >Iws'hf Joseph
+$ 2502 2 * Josias
+$ 2503 1 * jot
+$ 2504 71 k>ag'w and I ; I also ; I in like wise ; both me ; even I ; even so I ; me also ; so I
+$ 2505 1 * as
+$ 2506 3 * destruction ; pulling down
+$ 2507 9 * destroy ;  take down ; cast down ; pull down ; put down
+$ 2508 2 * purge
+$ 2509 13 kaj'aper as ; as well as ; even as
+$ 2510 1 * fasten on
+$ 2511 30 kajar'izw cleanse ; make clean ; purge ; purify
+$ 2512 7 * cleansing ; purge ; purification ; purifying
+$ 2513 28 kajar'os clean ; clear ; pure
+$ 2514 1 * purification
+$ 2515 3 * seat
+$ 2516 6 * sit
+$ 2517 5 * afterward ; after ; by order ; in order
+$ 2518 22 kaje'udw sleep ; be asleep
+$ 2519 3 * master
+$ 2520 2 * convenient ; fit
+$ 2521 89 k'ajhmai sit ; dwell ; sit by ; sit down
+$ 2522 1 * daily
+$ 2523 48 kaj'izw sit ; continue ; set ; sit (down) ; tarry
+$ 2524 4 * let down
+$ 2525 21 kaj'isthmi set ; appoint ; be ; conduct ; make ; ordain
+$ 2526 4 * according as ; (inasmuch) as ; according to that ; general
+$ 2527 1 * at all
+$ 2528 1 * arm
+$ 2529 1 * clearly see
+$ 2530 5 * according as ; because (that) ; forasmuch as
+$ 2531 182 kaj'ws even as ; according to ; according as ; how ; when
+$ 2532 9217 ka'i and ; also ; both ; but ; even ; for ; if ; indeed ; likewise ; moreover ; or ; so ; that ; then ; therefore ; when ; yea ; yet
+$ 2533 9 * Caiaphas
+$ 2534 0 * and at least
+$ 2535 3 * Cain
+$ 2536 2 * Cainan
+$ 2537 44 kain'os new ; fresh
+$ 2538 2 * newness
+$ 2539 5 * although ; and yet
+$ 2540 86 kair'os due time ; a while ; always ; convenient season ; due season ; opportunity ; short time ; while time
+$ 2541 30 Ka\~isar Ceasar
+$ 2542 17 Kais'areia Caesarea
+$ 2543 1 * although
+$ 2544 2 * though ; nevertheless
+$ 2545 14 ka'iw burn ; light
+$ 2546 8 * there also ; and there ; thither also
+$ 2547 9 * thence also ; and afterward (from) (thence)
+$ 2548 21 k>ake\~inos him/them also ; (and) they ; and him ; and other ; and them ; even he
+$ 2549 11 kak'ia evil ; malice ; maliciousness ; naightiness ; wickedness
+$ 2550 1 * malignity
+$ 2551 4 * speak evil of ; curse
+$ 2552 1 * suffering affliction
+$ 2553 4 * endure afflictions ; be afflicted ; endure hardness ; suffer trouble
+$ 2554 4 * do evil ; doing evil
+$ 2555 5 * evil-doer ; malefactor
+$ 2556 51 kak'os evil ; bad ; harm ; ill ; noisome ; wicked
+$ 2557 4 * evil-doer ; malefactor
+$ 2558 2 * torment ; which suffer adversity
+$ 2559 6 * harm ; entreat evil ; hurt ; make evil affected ; vex
+$ 2560 16 kak\~ws badly ; amiss ; diseased ; evil ; grievously ; miserably ; sick ; sore
+$ 2561 1 * afflection
+$ 2562 1 * stubble
+$ 2563 12 k'alamos reed ; pen
+$ 2564 146 kal'ew call ; bid ; call (forth) ; whose name was (called) ; whose surname was (called)
+$ 2565 1 * good olive tree
+$ 2566 1 * very well
+$ 2567 1 * teacher of good things
+$ 2568 0 * fair havens
+$ 2569 1 * well doing
+$ 2570 101 kal'os good ; better ; fair ; goodly ; honest ; meet ; well ; worthy
+$ 2571 4 * vail
+$ 2572 8 * cover ; hide
+$ 2573 36 kal\~ws well ; (full) well ; (in a) good (place) ; honestly ; recover
+$ 2574 6 * camel
+$ 2575 4 * furnace
+$ 2576 2 * close
+$ 2577 2 * be wearied ; faint ; sicken
+$ 2578 4 * bow
+$ 2579 13 k'>an and if ; also if ; at the least ; if but ; if so as much ; though ; yet
+$ 2580 4 * Cana
+$ 2581 2 * Cananites ; Canaanite ; zealous
+$ 2582 1 * Candace
+$ 2583 5 * rule ; line
+$ 2584 16 Kapernao'um Capernaum
+$ 2585 1 * corrupt
+$ 2586 13 kapn'os smoke
+$ 2587 2 * Cappadocia
+$ 2588 159 kard'ia heart ; broken hearted
+$ 2589 2 * which knowest the hearts
+$ 2590 66 karp'os fruit
+$ 2591 1 * Carpus
+$ 2592 8 * be fruitful ; bear fruit ; bring forth fruit
+$ 2593 1 * fruitful
+$ 2594 1 * endure
+$ 2595 6 * mote
+$ 2596 479 kat'a according to ; (far more) exceeding ; (when they were) alone ; (your) own ; ... by ; about ; according as ; after ; after the manner of ; against ; among ; and ; apart ; as concerning ; as pertaining to ; as touching ; aside ; at ; before ; beyond measure ; beyond ; by ; by any means ; charitably ; concerning ; covered ; daily ; down ; even as ; even like ; every ; for ; from ... to ; godly ; in divers ; in every ; in respect of ; inasmuch ; into ; mightily ; more ; more excellent ; natural ; of upon (part) ; out (of every) ; over against ; particularly ; so ; through ; throughout (every) ; thus ; to the charge of ; together ; towards ; unto ; uttermost ; where (-by) ; with
+$ 2597 80 kataba'inw descend ; come down ; come get down ; come go down ; come step down ; fall (down)
+$ 2598 2 * descend ; cast down ; fall (down)
+$ 2599 1 * burden
+$ 2600 1 * descent
+$ 2601 2 * bring down ; thrust down
+$ 2602 11 katabol'h foundation ; conceive
+$ 2603 1 * beguile of reward
+$ 2604 1 * setter forth
+$ 2605 18 katagg'ellw declare ; preach ; shew ; speak of ; teach
+$ 2606 3 * laugh to scorn
+$ 2607 3 * blame ; condemn
+$ 2608 4 * break
+$ 2609 10 * bring down ; (bring to) land ; bring forth ; touch
+$ 2610 1 * subdue
+$ 2611 1 * bind up
+$ 2612 1 * far more evident
+$ 2613 5 * condemn
+$ 2614 1 * follow after
+$ 2615 2 * bring into bondage
+$ 2616 2 * oppress
+$ 2617 13 kataisq'unw (make) ashamed ; be ashamed ; confound ; dishonour ; shame
+$ 2618 12 kataka'iw burn (utterly) ; burn up
+$ 2619 3 * cover ; hide
+$ 2620 4 * boast (against) ; glory ; rejoice against
+$ 2621 11 kat'akeimai lie (down) ; keep ; sit at meat
+$ 2622 2 * break
+$ 2623 2 * shut up
+$ 2624 1 * divide by lot
+$ 2625 3 * (make) sit down (at meat)
+$ 2626 1 * overflow
+$ 2627 4 * flood
+$ 2628 2 * follow (after)
+$ 2629 1 * cut
+$ 2630 1 * cast down headlong
+$ 2631 3 * condemnation
+$ 2632 17 katakr'inw condemn ; damn
+$ 2633 2 * condemn (-ation)
+$ 2634 4 * be lord over ; exercise dominion over ; exercise lordship ; overcome
+$ 2635 5 * speak against ; speak evil of
+$ 2636 2 * backbiting ; evil speaking
+$ 2637 1 * backbiter
+$ 2638 15 katalamb'anw obtain ; (over-) take ; apprehend ; attain ; come upon ; comprehend ; find ; perceive
+$ 2639 1 * take into number
+$ 2640 1 * remnant
+$ 2641 25 katale'ipw forsake ; leave ; reserve
+$ 2642 1 * stone (down)
+$ 2643 4 * reconciliation ; atonement
+$ 2644 6 * reconcile
+$ 2645 1 * residue
+$ 2646 3 * inn ; guestchamber
+$ 2647 17 katal'uw come to nought ; be guest ; destroy ; dissolve ; lodge ; overthrow ; throw down
+$ 2648 1 * consider
+$ 2649 4 * witness against
+$ 2650 1 * abide
+$ 2651 2 * alone
+$ 2652 1 * curse
+$ 2653 1 * curse
+$ 2654 1 * consume
+$ 2655 3 * be burdensome ; be chargeable
+$ 2656 1 * beckon
+$ 2657 14 katano'ew observe (fully) ; behold ; consider ; discover ; perceive
+$ 2658 13 katant'aw come ; attain
+$ 2659 1 * slumber
+$ 2660 1 * prick
+$ 2661 4 * (ac-) count worthy
+$ 2662 5 * trample ; tread down ; tread underfoot
+$ 2663 9 * rest
+$ 2664 4 * (give) rest ; cease ; restrain
+$ 2665 6 * vail
+$ 2666 7 * swallow ; devour ; drown ; swallow up
+$ 2667 2 * fall (down)
+$ 2668 1 * arrive
+$ 2669 2 * oppress ; vex
+$ 2670 2 * sink ; drown
+$ 2671 6 * curse ; cursed ; cursing
+$ 2672 6 * curse
+$ 2673 27 katarg'ew become of no effect ; abolish ; become without effect ; bring to nought ; cease ; come to nought ; cumber ; deliver ; destroy ; do away ; fail ; loose ; make of none effect ; make void ; put away ; put down ; vanish away
+$ 2674 1 * number with
+$ 2675 13 katart'izw (make) perfect ; fit ; frame ; mend ; perfectly join together ; prepare ; restore
+$ 2676 1 * perfection
+$ 2677 1 * perfecting
+$ 2678 4 * beckon
+$ 2679 2 * ruin ; dig down
+$ 2680 11 kataskeu'azw build ; make ; ordain ; prepare
+$ 2681 4 * lodge ; rest
+$ 2682 2 * nest
+$ 2683 1 * shadow
+$ 2684 1 * spy out
+$ 2685 1 * spy
+$ 2686 1 * deal subtilly with
+$ 2687 2 * quiet ; appease
+$ 2688 1 * behaviour
+$ 2689 1 * apparel
+$ 2690 2 * overthrow
+$ 2691 1 * begin to wax wanton against
+$ 2692 2 * overthrow ; subverting
+$ 2693 1 * overthrow
+$ 2694 1 * hale
+$ 2695 1 * slay
+$ 2696 1 * seal
+$ 2697 2 * possession
+$ 2698 3 * lay ; do ; shew
+$ 2699 1 * concision
+$ 2700 0 * thrust through
+$ 2701 1 * run down
+$ 2702 3 * sink down ; fall ; give
+$ 2703 2 * flee
+$ 2704 2 * corrupt ; utterly perish
+$ 2705 6 * kiss
+$ 2706 9 * despiser
+$ 2707 1 * despiser
+$ 2708 2 * pour
+$ 2709 1 * under the earth
+$ 2710 2 * abuse
+$ 2711 1 * cool
+$ 2712 1 * wholly given to idolatry
+$ 2713 5 * over against ; before
+$ 2714 5 * before (the presence of) ; in the sight of
+$ 2715 2 * exercise authority
+$ 2716 24 katerg'azomai perform ; cause ; do (deed) ; work (out)
+$ 2717 0 * ?
+$ 2718 13 kat'erqomai descend ; come (down) ; depart ; go down ; land
+$ 2719 15 katesj'iw devour
+$ 2720 3 * direct ; guide
+$ 2721 1 * make insurrection against
+$ 2722 19 kat'eqw hold (fast) ; have ; keep (in memory) ; let ; make toward ; possess ; retain ; seize on ; stay ; take ; withhold
+$ 2723 22 kathgor'ew accuse ; object
+$ 2724 4 * accusation
+$ 2725 6 * accuser
+$ 2726 1 * heaviness
+$ 2727 8 * instruct ; inform ; teach
+$ 2728 1 * canker
+$ 2729 2 * prevail (against)
+$ 2730 45 katoik'ew dwell ; dweller ; inhabitant ; inhabiter
+$ 2731 1 * dwelling
+$ 2732 2 * habitation
+$ 2733 1 * habitation
+$ 2734 1 * behold as in a glass
+$ 2735 1 * very worthy deed
+$ 2736 11 k'atw down ; beneath ; bottom ; under
+$ 2737 1 * lower
+$ 2738 2 * heat
+$ 2739 4 * scorch
+$ 2740 1 * be burned
+$ 2741 2 * with fervent heat
+$ 2742 3 * (burning) heat
+$ 2743 1 * sear with a hot iron
+$ 2744 38 kauq'aomai boast ; glory ; joy ; make boast ; rejoice
+$ 2745 11 ka'uqhma boasting ; (whereof) to glory (of) ; glorying ; rejoice ; rejoicing
+$ 2746 12 ka'uqhsis boasting ; glorying ; rejoicing ; whereof I may glory
+$ 2747 2 * Cenchrea
+$ 2748 1 * Cedron
+$ 2749 26 ke\~imai lay ; be appointed ; be laid up ; be made ; be set ; lie
+$ 2750 1 * graveclothes
+$ 2751 4 * shear (-er)
+$ 2752 1 * shout
+$ 2753 26 kele'uw bid ; at command ; give commandment
+$ 2754 1 * vain-glory
+$ 2755 1 * desirious of vain-glory
+$ 2756 18 ken'os (in) vain ; empty
+$ 2757 2 * vain
+$ 2758 5 * be in vain ; make of none effect ; make of no reputation ; make void
+$ 2759 4 * sting ; prick
+$ 2760 3 * centurion
+$ 2761 1 * in vain
+$ 2762 2 * tittle
+$ 2763 3 * potter
+$ 2764 1 * of a potter
+$ 2765 2 * pitcher
+$ 2766 1 * tiling
+$ 2767 3 * pour out ; fill
+$ 2768 11 k'eras horn
+$ 2769 1 * husk
+$ 2770 16 kerda'inw gain ; get gain ; win
+$ 2771 3 * gain ; lucre
+$ 2772 1 * money
+$ 2773 1 * changer of money
+$ 2774 2 * sum
+$ 2775 1 * wound in the head
+$ 2776 76 kefal'h head
+$ 2777 1 * volume
+$ 2778 4 * tribute
+$ 2779 5 * garden
+$ 2780 1 * gardener
+$ 2781 1 * (honey-) comb
+$ 2782 8 * preaching
+$ 2783 3 * preacher
+$ 2784 61 khr'ussw preach (-er) ; proclaim ; publish
+$ 2785 1 * whale
+$ 2786 6 * Cephas
+$ 2787 6 * ark
+$ 2788 4 * harp
+$ 2789 2 * harp
+$ 2790 2 * harper
+$ 2791 8 * Cilicia
+$ 2792 1 * cinnamon
+$ 2793 4 * be in danger ; be in jeopardy ; stand in jeopardy
+$ 2794 9 * peril
+$ 2795 8 * move ; mover ; remove ; way
+$ 2796 1 * moving
+$ 2797 1 * Cis
+$ 2798 11 kl'ados branch
+$ 2799 40 kla'iw weep ; bewail
+$ 2800 2 * breaking
+$ 2801 9 * broken ; fragment
+$ 2802 1 * Clauda
+$ 2803 1 * Claudia
+$ 2804 3 * Claudius
+$ 2805 9 * weeping ; wailing ; wept
+$ 2806 15 kl'aw break
+$ 2807 6 * key
+$ 2808 15 kle'iw shut (up)
+$ 2809 1 * theft
+$ 2810 1 * Cleopas
+$ 2811 1 * glory
+$ 2812 16 kl'epths thief
+$ 2813 13 kl'eptw steal
+$ 2814 4 * branch
+$ 2815 1 * Clement
+$ 2816 18 klhronom'ew inherit ; be hier ; obtain by inheritance
+$ 2817 14 klhronom'ia inheritance
+$ 2818 15 klhron'omos heir
+$ 2819 12 kl\~hros inheritance ; heritage ; lot ; part
+$ 2820 1 * obtain an inheritance
+$ 2821 11 kl\~hsis calling ; vocation
+$ 2822 12 klht'os called
+$ 2823 2 * oven
+$ 2824 3 * region ; part
+$ 2825 10 * bed ; table
+$ 2826 2 * bed
+$ 2827 7 * bow (down) ; be far spent ; lay ; turn to flight ; wear away
+$ 2828 1 * company
+$ 2829 2 * theft
+$ 2830 2 * wave ; raging
+$ 2831 1 * toss to and fro
+$ 2832 1 * Clopas
+$ 2833 1 * itching
+$ 2834 1 * Cnidus
+$ 2835 2 * farthing
+$ 2836 23 koil'ia belly ; womb
+$ 2837 18 koim'aw fall asleep ; be asleep ; be dead ; fall on sleep ; sleep
+$ 2838 1 * taking of rest
+$ 2839 13 koin'os defiled ; common ; unclean ; unholy
+$ 2840 14 koin'ow defile ; call common ; pollute ; unclean
+$ 2841 8 * distribute ; be partaker ; communicate
+$ 2842 19 koinwn'ia fellowship ; communication ; communion ; contribution ; distribution ; to communicate
+$ 2843 1 * willing to communicate
+$ 2844 11 koinwn'os fellowship ; companion ; partaker ; partner
+$ 2845 4 * chambering ; bed ; conceive
+$ 2846 1 * chamberlain
+$ 2847 6 * scarlet (colour) ; scarlet coloured
+$ 2848 7 * grain ; corn
+$ 2849 2 * punish
+$ 2850 1 * flattering
+$ 2851 2 * torment ; punishment
+$ 2852 5 * buffet
+$ 2853 11 koll'aw join (self) ; cleave ; keep company
+$ 2854 1 * eyesalve
+$ 2855 3 * (money-) changer
+$ 2856 4 * shorten
+$ 2857 1 * Colosse
+$ 2858 0 * Colossian
+$ 2859 6 * bosom ; creek
+$ 2860 1 * swim
+$ 2861 5 * pool
+$ 2862 1 * colony
+$ 2863 2 * have long hair
+$ 2864 1 * hair
+$ 2865 11 kom'izw bring ; receive
+$ 2866 1 * began to amend
+$ 2867 2 * whiten
+$ 2868 5 * dust
+$ 2869 3 * cease
+$ 2870 1 * lamentation
+$ 2871 1 * slaughter
+$ 2872 23 kopi'aw (bestow) labour ; be wearied ; toil
+$ 2873 19 k'opos labour ; trouble ; weariness
+$ 2874 2 * dung (-hill)
+$ 2875 8 * chop ; (be-) wail ; lament/cut (down) ; mourn
+$ 2876 1 * raven
+$ 2877 8 * damsel ; maid
+$ 2878 2 * Corban ; treasury
+$ 2879 1 * Core
+$ 2880 2 * eat enough ; full
+$ 2881 2 * Corinthian
+$ 2882 6 * Corinth
+$ 2883 9 * Cornelius
+$ 2884 1 * measure
+$ 2885 10 * adorn ; garnish ; trim
+$ 2886 2 * worldly
+$ 2887 2 * of good behaviour ; modest
+$ 2888 1 * ruler
+$ 2889 187 k'osmos adorning ; world
+$ 2890 1 * Quartos
+$ 2891 1 * cumi
+$ 2892 3 * watch
+$ 2893 1 * lighten
+$ 2894 6 * basket
+$ 2895 12 kr'abbatos bed
+$ 2896 60 kr'azw cry out ; cry (out)
+$ 2897 1 * surfeiting
+$ 2898 4 * skull ; Calvary
+$ 2899 5 * border ; hem
+$ 2900 1 * mighty
+$ 2901 4 * be strong ; straightened ; wax strong
+$ 2902 47 krat'ew hold ; hold by ; hold fast ; keep ; lay hand on ; lay hold on ; obtain ; retain ; take (by)
+$ 2903 4 * most excellent ; most noble
+$ 2904 12 kr'atos might ; dominion ; mightly ; power ; strength
+$ 2905 6 * cry out
+$ 2906 6 * clamour
+$ 2907 2 * flesh
+$ 2908 4 * better
+$ 2909 16 kre'ittwn better ; best
+$ 2910 7 * hang
+$ 2911 3 * steep place
+$ 2912 2 * Cretian ; Crete
+$ 2913 1 * Crescens
+$ 2914 5 * Crete
+$ 2915 1 * barley
+$ 2916 2 * barley
+$ 2917 28 kr'ima judgment ; avenge ; condemned ; condemnation ; damnation ; go to law
+$ 2918 2 * lily
+$ 2919 115 kr'inw judge ; avenge ; call in question ; conclude ; condemn ; damn ; decree ; determine ; esteem ; go to law ; ordain ; sentence to ; sue at the law ; think
+$ 2920 48 kr'isis judgment ; accusation ; condemnation ; damnation
+$ 2921 2 * Crispus
+$ 2922 3 * to judge ; judgment (seat)
+$ 2923 17 krit'hs judge
+$ 2924 1 * discerner
+$ 2925 9 * knock
+$ 2926 1 * secret
+$ 2927 19 krupt'os secret ; hid (-den) ; inward (-ly)
+$ 2928 17 kr'uptw keep secret ; hide (self) ; secret (-ly)
+$ 2929 1 * be clear as crystal
+$ 2930 2 * crystal
+$ 2931 1 * in secret
+$ 2932 7 * possess ; obtain ; provide ; purchase
+$ 2933 4 * possession
+$ 2934 4 * beast
+$ 2935 1 * possessor
+$ 2936 14 kr'izw create ; Creator ; make
+$ 2937 19 kr'isis creation ; building ; creature ; ordinance
+$ 2938 4 * creature
+$ 2939 1 * Creator
+$ 2940 1 * sleight
+$ 2941 1 * government
+$ 2942 2 * (ship) master
+$ 2943 3 * (round) about
+$ 2944 5 * come round about ; compass (about) ; stand round about
+$ 2945 8 * round about
+$ 2946 1 * wallowing
+$ 2947 1 * wallow
+$ 2948 4 * maimed
+$ 2949 5 * wave
+$ 2950 1 * cymbal
+$ 2951 1 * cummin
+$ 2952 4 * dog
+$ 2953 3 * of Cyprus
+$ 2954 5 * Cyprus
+$ 2955 3 * stoop (down)
+$ 2956 6 * of Cyrene ; Cyrenian
+$ 2957 1 * Cyrene
+$ 2958 1 * Cyrenius
+$ 2959 2 * lady
+$ 2960 2 * Lord's
+$ 2961 7 * exercise lordship over ; be lord of ; have dominion over ; lord
+$ 2962 747 k'urios Lord ; God ; Sir ; master
+$ 2963 4 * dominion ; government
+$ 2964 2 * confirm
+$ 2965 5 * dog
+$ 2966 1 * carcase
+$ 2967 23 kwl'uw forbid ; hinder ; keep from ; let ; not suffer ; withstand
+$ 2968 28 k'wmh town ; village
+$ 2969 1 * town
+$ 2970 3 * revelling ; rioting
+$ 2971 1 * gnat
+$ 2972 1 * Cos
+$ 2973 1 * Cosam
+$ 2974 14 kwf'os deaf/dumb ; speechless
+$ 2975 4 * cast lots ; his lot be ; obtain
+$ 2976 15 L'azaros Lazarus
+$ 2977 4 * privily ; secretly
+$ 2978 3 * tempest ; storm
+$ 2979 1 * kick
+$ 2980 294 lal'ew speak ; preach ; say ; speak (after) ; talk ; tell ; utter
+$ 2981 4 * saying ; speech
+$ 2982 2 * lama
+$ 2983 263 lamb'anw take ; accept ; assay ; attain ; be amazed ; bring ; catch ; come on ; come unto ; forget ; have ; hold ; obtain ; receive ; receive (after) ; take away ; take up ; when I call
+$ 2984 1 * Lamech
+$ 2985 9 * lamp ; light ; torch
+$ 2986 9 * bright ; clear ; gay ; goodly ; goregous ; white
+$ 2987 1 * brightness
+$ 2988 1 * sumptuously
+$ 2989 7 * shine ; give light
+$ 2990 6 * unawares ; be hid ; be ignorant of
+$ 2991 1 * hewn in stone
+$ 2992 142 la'os people
+$ 2993 6 * Laodicea
+$ 2994 1 * Laodicean
+$ 2995 1 * throat
+$ 2996 1 * Lasea
+$ 2997 1 * burst asunder
+$ 2998 2 * hew
+$ 2999 5 * (divine) service
+$ 3000 21 latre'uw do the service ; serve ; worship ; worshipper
+$ 3001 4 * herb
+$ 3002 1 * Lebbaeus
+$ 3003 4 * legion
+$ 3004 2315 l'egw speak ; ask ; bid ; boast ; call ; describe ; give out ; name ; put forth ; say ; say on ; saying ; shew ; tell ; utter
+$ 3005 1 * remnant
+$ 3006 1 * smooth
+$ 3007 6 * be destitute ; be wanting ; lack
+$ 3008 3 * minister
+$ 3009 6 * ministration ; ministry ; service
+$ 3010 1 * ministering
+$ 3011 5 * minister ; ministered
+$ 3012 2 * towel
+$ 3013 1 * scale
+$ 3014 4 * leprosy
+$ 3015 9 * leper
+$ 3016 3 * mite;
+$ 3017 5 * Levi
+$ 3018 3 * Levi
+$ 3019 3 * Levite
+$ 3020 1 * Levitical
+$ 3021 2 * whiten ; make white
+$ 3022 25 leuk'os white
+$ 3023 9 * lion
+$ 3024 1 * forget
+$ 3025 5 * winepress
+$ 3026 1 * idle tale
+$ 3027 15 lh|st'hs robber ; thief
+$ 3028 1 * receiving
+$ 3029 14 l'ian very ; exceeding ; great (-ly) ; sore ; very chiefest
+$ 3030 2 * frankincense
+$ 3031 2 * censer
+$ 3032 1 * Libertine
+$ 3033 1 * Libya
+$ 3034 8 * stone
+$ 3035 3 * of stone
+$ 3036 9 * cast stones ; stone
+$ 3037 60 l'ijos stone ; millstone ; stumbling-stone
+$ 3038 1 * Pavement
+$ 3039 2 * grind to powder
+$ 3040 3 * haven
+$ 3041 11 l'imnh lake
+$ 3042 12 lim'os famine ; dearth ; hunger
+$ 3043 2 * linen
+$ 3044 1 * Linus
+$ 3045 1 * dainty
+$ 3046 2 * pound
+$ 3047 1 * southwest
+$ 3048 2 * collection ; gathering
+$ 3049 41 log'izomai count ; account of ; conclude ; despise ; esteem ; impute ; lay ; number ; reason ; reckon ; suppose ; think (on)
+$ 3050 2 * reasonable ; of the word
+$ 3051 3 * oracle
+$ 3052 1 * eloquent
+$ 3053 2 * thought ; imagination
+$ 3054 1 * strive about words
+$ 3055 1 * strife of words
+$ 3056 331 l'ogos word ; account ; cause ; communication ; concerning ; doctrine ; fame ; have to do ; intent ; matter ; mouth ; none of these things move me ; preaching ; question ; reason ; reckon ; remove ; say ; shew ; speaker ; speech ; talk ; thing ; tidings ; treatise ; utterance ; work
+$ 3057 1 * spear
+$ 3058 4 * revile
+$ 3059 3 * reproach ; railing ; reproachfully
+$ 3060 2 * reviler ; railer
+$ 3061 3 * pestilence
+$ 3062 42 loipo'i remnant ; other ; residue ; rest ; which remain
+$ 3063 14 loip'on left over ; (from) henceforth ; besides ; finally ; furthermore ; it remaineth ; moreover ; now ; then
+$ 3064 1 * from henceforth
+$ 3065 3 * Luke ; Lucas
+$ 3066 2 * Lucius
+$ 3067 2 * washing
+$ 3068 6 * wash
+$ 3069 3 * Lydda
+$ 3070 2 * Lydia
+$ 3071 1 * Lycaonia
+$ 3072 1 * in speech of Lycaonia
+$ 3073 1 * Lycia
+$ 3074 6 * wolf
+$ 3075 1 * make havock of
+$ 3076 26 lup'ew grieve ; (be) sorrowful ; be in heaviness ; be sorry ; cause grief ; make sorry ; sorrow
+$ 3077 16 l'uph grief ; grievous ; grudgingly ; heaviness ; sorrow
+$ 3078 1 * Lysanias
+$ 3079 2 * Lysias
+$ 3080 1 * to be loosed
+$ 3081 1 * it is better
+$ 3082 6 * Lystra
+$ 3083 2 * ransom
+$ 3084 3 * redeem
+$ 3085 3 * redemption ; redeemed
+$ 3086 1 * deliverer
+$ 3087 12 luqn'ia candlestick
+$ 3088 14 l'uqnos candle ; light
+$ 3089 42 l'uw loose ; (un-) loose ; break (up) ; destroy ; dissolve ; melt ; put oft
+$ 3090 1 * Lois
+$ 3091 4 * Lot
+$ 3092 1 * Maath
+$ 3093 1 * Magdala
+$ 3094 12 Magdalhn'h Magdalene
+$ 3095 1 * sorcery
+$ 3096 1 * use sorcery
+$ 3097 6 * sorcerer ; wise man
+$ 3098 1 * Magog
+$ 3099 1 * Madian
+$ 3100 4 * be disciple ; instruct ; teach
+$ 3101 268 majht'hs disciple
+$ 3102 1 * disciple
+$ 3103 1 * Mathusala
+$ 3104 1 * Hainan
+$ 3105 5 * be beside self (mad)
+$ 3106 2 * call blessed ; count happy
+$ 3107 50 mak'arios blessed ; happier ; happy
+$ 3108 3 * blessedness
+$ 3109 22 Makedon'ia Macedonia
+$ 3110 5 * Macedonian ; of Macedonia
+$ 3111 1 * shambles
+$ 3112 10 * afar off ; far ; good way off ; great way off
+$ 3113 14 makr'ojen afar off ; from far
+$ 3114 10 * be patient ; be longsuffering ; bear long ; have (long) patience ; patiently endure ; suffer long
+$ 3115 14 makrojum'ia patience ; longsuffering
+$ 3116 1 * patiently
+$ 3117 5 * long ; far
+$ 3118 1 * live long
+$ 3119 3 * disease
+$ 3120 4 * soft ; effeminate
+$ 3121 1 * Maleleel
+$ 3122 12 m'alista most of all ; (e-) specially ; chiefly
+$ 3123 82 m\~allon more ; (so) much (the more) ; (the) more (and more) ; better ; far ; rather
+$ 3124 1 * Malchus
+$ 3125 1 * grandmother
+$ 3126 4 * mammon
+$ 3127 1 * Manaen
+$ 3128 3 * Manasses
+$ 3129 25 manj'anw learn ; understand
+$ 3130 1 * (make) mad
+$ 3131 5 * manna
+$ 3132 1 * by soothsaying
+$ 3133 1 * fade away
+$ 3134 2 * Maran-atha
+$ 3135 9 * pearl
+$ 3136 13 M'arja Martha
+$ 3137 54 Mar'ia Mary
+$ 3138 8 * Mark ; Marcus
+$ 3139 1 * marble
+$ 3140 77 martur'ew testify ; be well reported of ; be witness ; bear record ; bear witness ; charge ; give (evidence) ; give testimony ; give witness ; have good report ; have testimony ; obtain honest report ; obtain witness ; of good report
+$ 3141 37 martur'ia testimony ; record ; report ; witness
+$ 3142 20 mart'urion testimony ; to be testified ; witness
+$ 3143 5 * testify ; take to record
+$ 3144 34 m'artus witness ; martyr ; record
+$ 3145 1 * gnaw
+$ 3146 7 * scourge
+$ 3147 1 * scourge
+$ 3148 6 * scourging ; plague
+$ 3149 3 * pap
+$ 3150 1 * vain jangling
+$ 3151 1 * vain talker
+$ 3152 6 * vanity ; vain
+$ 3153 3 * vanity
+$ 3154 1 * become vain
+$ 3155 2 * in vain
+$ 3156 5 * Matthew
+$ 3157 2 * Matthan
+$ 3158 2 * Mathat
+$ 3159 2 * Matthias
+$ 3160 1 * Mattatha
+$ 3161 2 * Mattathaias
+$ 3162 29 m'aqaira sword
+$ 3163 4 * fighting ; strive ; striving
+$ 3164 4 * fight ; strive
+$ 3165 0 * me ; I ; my
+$ 3166 1 * boast great things
+$ 3167 2 * great things ; wonderful works
+$ 3168 3 * magnificence ; majesty ; mighty power
+$ 3169 1 * excellent
+$ 3170 8 * magnify ; enlarge ; shew great
+$ 3171 1 * greatly
+$ 3172 3 * majesty
+$ 3173 239 m'egas great ; (be) sore (afraid) ; (fear) exceedingly ; greastest ; high ; large ; loud ; mighty ; strong ; to years
+$ 3174 1 * greatness
+$ 3175 3 * great men ; lords
+$ 3176 0 * exceeding great
+$ 3177 7 * interpret ; (by) interpretation
+$ 3178 3 * drunkenness
+$ 3179 5 * put out ; remove ; translate ; turn away
+$ 3180 2 * travelling over ; lie in wait ; wile
+$ 3181 1 * border
+$ 3182 3 * be drunk (-en)
+$ 3183 2 * drunkard
+$ 3184 7 * make drunk ; be drunken ; drink well
+$ 3185 1 * the more
+$ 3186 0 * greater
+$ 3187 0 * greater ; elder ; greatest ; more
+$ 3188 3 * ink
+$ 3189 3 * black
+$ 3190 1 * Meleas
+$ 3191 3 * meditate ; imagine ; premeditate
+$ 3192 4 * honey
+$ 3193 1 * honeycomb
+$ 3194 1 * Melita
+$ 3195 111 m'ellw intend ; (be) ready ; about ; after that ; be (almost) ; be at the point ; be yet ; mean ; min d; return; shall (begin) ; should hereafter tarry ; that should afterwards tarry ; that which is to come ; things to come ; was to (be) ; which should after tarry ; which was for ; which was for to come ; will ; would
+$ 3196 34 m'elos member
+$ 3197 2 * Melchi
+$ 3198 9 * Melchisedec
+$ 3199 9 * (take) care
+$ 3200 1 * parchment
+$ 3201 3 * find fault
+$ 3202 1 * complainer
+$ 3203 0 * 
+$ 3204 0 * 
+$ 3205 0 * 
+$ 3206 0 * 
+$ 3207 0 * 
+$ 3208 0 * 
+$ 3209 0 * 
+$ 3210 0 * 
+$ 3211 0 * 
+$ 3212 0 * 
+$ 3213 0 * 
+$ 3214 0 * 
+$ 3215 0 * 
+$ 3216 0 * 
+$ 3217 0 * 
+$ 3218 0 * 
+$ 3219 0 * 
+$ 3220 0 * 
+$ 3221 0 * 
+$ 3222 0 * 
+$ 3223 0 * 
+$ 3224 0 * 
+$ 3225 0 * 
+$ 3226 0 * 
+$ 3227 0 * 
+$ 3228 0 * 
+$ 3229 0 * 
+$ 3230 0 * 
+$ 3231 0 * 
+$ 3232 0 * 
+$ 3233 0 * 
+$ 3234 0 * 
+$ 3235 0 * 
+$ 3236 0 * 
+$ 3237 0 * 
+$ 3238 0 * 
+$ 3239 0 * 
+$ 3240 0 * 
+$ 3241 0 * 
+$ 3242 0 * 
+$ 3243 0 * 
+$ 3244 0 * 
+$ 3245 0 * 
+$ 3246 0 * 
+$ 3247 0 * 
+$ 3248 0 * 
+$ 3249 0 * 
+$ 3250 0 * 
+$ 3251 0 * 
+$ 3252 0 * 
+$ 3253 0 * 
+$ 3254 0 * 
+$ 3255 0 * 
+$ 3256 0 * 
+$ 3257 0 * 
+$ 3258 0 * 
+$ 3259 0 * 
+$ 3260 0 * 
+$ 3261 0 * 
+$ 3262 0 * 
+$ 3263 0 * 
+$ 3264 0 * 
+$ 3265 0 * 
+$ 3266 0 * 
+$ 3267 0 * 
+$ 3268 0 * 
+$ 3269 0 * 
+$ 3270 0 * 
+$ 3271 0 * 
+$ 3272 0 * 
+$ 3273 0 * 
+$ 3274 0 * 
+$ 3275 0 * 
+$ 3276 0 * 
+$ 3277 0 * 
+$ 3278 0 * 
+$ 3279 0 * 
+$ 3280 0 * 
+$ 3281 0 * 
+$ 3282 0 * 
+$ 3283 0 * 
+$ 3284 0 * 
+$ 3285 0 * 
+$ 3286 0 * 
+$ 3287 0 * 
+$ 3288 0 * 
+$ 3289 0 * 
+$ 3290 0 * 
+$ 3291 0 * 
+$ 3292 0 * 
+$ 3293 0 * 
+$ 3294 0 * 
+$ 3295 0 * 
+$ 3296 0 * 
+$ 3297 0 * 
+$ 3298 0 * 
+$ 3299 0 * 
+$ 3300 0 * 
+$ 3301 0 * 
+$ 3302 0 * 
+$ 3303 194 m'en indeed ; even ; so ; some ; truly ; verily
+$ 3304 3 * yea doubtless ; nay but ; yea rather ; yea verily
+$ 3305 8 * nevertheless ; also ; but ; howbeit ; yet
+$ 3306 121 m'enw remain ; abide ; be present ; continue ; dwell ; endure ; remain ; stand ; tarry (for) ; thine own
+$ 3307 14 mer'izw give part ; be difference between ; deal ; distribute ; divide
+$ 3308 6 * care
+$ 3309 19 merimn'aw take thought ; be careful ; have care
+$ 3310 5 * part (-akers)
+$ 3311 2 * dividing asunder ; gift
+$ 3312 1 * divider
+$ 3313 43 m'eros portion ; behalf ; coast ; course ; craft ; part (-ly) ; particular (-ly) ; piece ; respect ; side ; some sort ; somewhat
+$ 3314 2 * noon ; south
+$ 3315 1 * confirm
+$ 3316 6 * mediator
+$ 3317 4 * midnight
+$ 3318 2 * Mesopotamia
+$ 3319 60 m'esos middle ; among ; before them ; between ; forth ; midday ; midnight ; midst ; way
+$ 3320 1 * middle wall
+$ 3321 3 * midst of heaven
+$ 3322 1 * be about the midst
+$ 3323 2 * Messias
+$ 3324 8 * full
+$ 3325 1 * fill
+$ 3326 472 met'a with ; (un-) to ; (up-) on ; after (-ward) ; against ; among ; and ; and setting ; follow ; hence ; in ; of ; our ; since ; that he again ; thereafter ; together ; when ; with (-out)
+$ 3327 12 metaba'inw go ; depart ; pass ; remove
+$ 3328 1 * change mind
+$ 3329 2 * turn about
+$ 3330 5 * impart ; give
+$ 3331 3 * change ; removing ; translation
+$ 3332 2 * depart
+$ 3333 4 * call for ; call hither
+$ 3334 1 * move away
+$ 3335 6 * be partaker ; eat ; have ; receive ; take
+$ 3336 1 * taking
+$ 3337 2 * change
+$ 3338 6 * repent (self)
+$ 3339 4 * transform ; change ; transfigure
+$ 3340 34 metano'ew repent
+$ 3341 24 met'anoia repentance
+$ 3342 9 * between ; mean while ; next
+$ 3343 8 * call for ; send for
+$ 3344 3 * turn ; pervert
+$ 3345 5 * transform (self) ; to change ; transfer
+$ 3346 6 * change ; carry over ; remove ; translate ; turn
+$ 3347 1 * afterward
+$ 3348 8 * be partaker ; pertain ; take part ; use
+$ 3349 1 * be of doubtful mind
+$ 3350 4 * carried away to ; brought ; carrying away into
+$ 3351 2 * carry away ; remove into
+$ 3352 1 * fellowship
+$ 3353 6 * fellow ; partaker ; partner
+$ 3354 11 metr'ew measure ; mete
+$ 3355 1 * firkin
+$ 3356 1 * have compassion
+$ 3357 1 * a little
+$ 3358 14 m'etron measure
+$ 3359 8 * forehead
+$ 3360 17 m'eqri until ; (un-) to ; till
+$ 3361 1033 m'h not ; God forbid ; any ; but (that) forbear ; cannot ; lack ; lest ; neither ; never ; no (wise in) ; none ; nor ; nothing ; that not ; un (-taken) ; without
+$ 3362 0 * if not ; before ; but ; except ; if no ; whosoever not
+$ 3363 0 * that not ; albeit not ; lest ; that nothing
+$ 3364 0 * not at all ; any more ; at all ; by any means ; by no means ; in no case ; in no wise ; neither ; never ; no at all ; nor ever ; not in anywise
+$ 3365 2 * not so
+$ 3366 58 mhd'e nor ; neither ; no not once ; nor (yet) ; not so much as
+$ 3367 91 mhde'is nothing ; any man ; any thing ; no (man) ; none ; not a whit ; not any (man) ; not at all ; without delay
+$ 3368 1 * never
+$ 3369 1 * not yet
+$ 3370 1 * Mede
+$ 3371 21 mhk'eti (not) henceforth ; any longer ; hereafter ; no henceforward ; no more ; no soon ; not any more
+$ 3372 3 * length
+$ 3373 1 * grow up
+$ 3374 1 * sheepskin
+$ 3375 1 * surely
+$ 3376 18 m'hn month
+$ 3377 4 * shew ; tell
+$ 3378 0 * never ; neither ... no ; not
+$ 3379 25 m'hpote whether or not ; if peradventure ; lest at any time ; lest haply ; not at all ; whether or not
+$ 3380 2 * not yet
+$ 3381 12 m'hpws lest by some means ; lest by any means ; lest perhaps
+$ 3382 1 * thigh
+$ 3383 36 m'hte neither ; nor ; or ; so much as
+$ 3384 85 m'hthr mother
+$ 3385 16 m'hti whether at all ; not
+$ 3386 0 * how much more
+$ 3387 0 * whether any ; any
+$ 3388 2 * womb
+$ 3389 1 * murderer of mothers
+$ 3390 0 * chiefest city
+$ 3391 0 * one ; a (certain) ; agree ; first ; other
+$ 3392 5 * defile
+$ 3393 1 * pollution
+$ 3394 1 * uncleanness
+$ 3395 1 * mixture
+$ 3396 4 * mingle
+$ 3397 16 mikr'on a little (while)
+$ 3398 29 mikr'os little ; least ; less ; small
+$ 3399 3 * Miletus
+$ 3400 1 * mile
+$ 3401 4 * follow
+$ 3402 7 * follower
+$ 3403 2 * remember ; be mindful
+$ 3404 41 mis'ew hate ; hate (-ful)
+$ 3405 3 * recompence of reward
+$ 3406 1 * rewarder
+$ 3407 2 * hired servant
+$ 3408 29 misj'os wages ; hire ; reward
+$ 3409 2 * wages ; hire ; reward
+$ 3410 1 * hired house
+$ 3411 4 * hired servant ; hireling
+$ 3412 1 * Mitylene
+$ 3413 2 * Michael
+$ 3414 9 * pound
+$ 3415 21 mn'aomai remember ; be mindful ; come in remembrance ; have in remembrance
+$ 3416 1 * Mnason
+$ 3417 7 * remembrance ; mention
+$ 3418 8 * sepulchre ; grave ; tomb
+$ 3419 41 mnhme\~ion sepulchre ; grave ; tomb ; tomb
+$ 3420 1 * remembrance
+$ 3421 21 mnhmone'uw remember ; be mindful ; make mention
+$ 3422 3 * memorial
+$ 3423 3 * espouse
+$ 3424 1 * having an impediment in his speech
+$ 3425 1 * hardly
+$ 3426 3 * bushel
+$ 3427 0 * me ; I ; mine ; my
+$ 3428 7 * adulterous ; adulteress ; adultery
+$ 3429 6 * commit adultery
+$ 3430 4 * adultery
+$ 3431 14 moiqe'uw commit adultry
+$ 3432 4 * adulterer
+$ 3433 6 * hardly ; scare (-ly) ; with much work
+$ 3434 1 * Moloch
+$ 3435 3 * defile
+$ 3436 1 * filthiness
+$ 3437 1 * quarrel
+$ 3438 2 * abode ; mansion
+$ 3439 9 * only begotten ; only child
+$ 3440 67 m'onon only ; alone ; but
+$ 3441 45 m'onos only ; alone ; by themselves
+$ 3442 2 * with one eye
+$ 3443 1 * be desolate
+$ 3444 3 * form
+$ 3445 1 * form
+$ 3446 2 * form
+$ 3447 1 * make a calf
+$ 3448 6 * calf
+$ 3449 3 * travail ; painfulness
+$ 3450 0 * me ; I ; mine (own) ; my
+$ 3451 1 * musician
+$ 3452 1 * marrow
+$ 3453 1 * instruct
+$ 3454 5 * fable
+$ 3455 1 * roar
+$ 3456 1 * mock
+$ 3457 1 * mill (-stone)
+$ 3458 4 * millstone
+$ 3459 1 * mill
+$ 3460 1 * Myra
+$ 3461 9 * ten thousand
+$ 3462 1 * anoint
+$ 3463 3 * ten thousand
+$ 3464 14 m'uron ointment
+$ 3465 2 * Mysia
+$ 3466 27 must'hrion mystery
+$ 3467 1 * cannot see afar off
+$ 3468 1 * stripe
+$ 3469 2 * blame
+$ 3470 1 * blemish
+$ 3471 4 * become fool ; lose savour ; make foolish
+$ 3472 5 * foolishness
+$ 3473 1 * foolish talking
+$ 3474 13 mwr'os fool ; foolish (-ness)
+$ 3475 80 Mwse'us Moses
+$ 3476 3 * Naasson
+$ 3477 1 * Nagge
+$ 3478 12 Nazar'ej Nazareth
+$ 3479 4 * of Nazareth
+$ 3480 15 Nazwra\~ios of Nazareth ; Nazarene
+$ 3481 1 * Nathan
+$ 3482 6 * Nathanael
+$ 3483 35 na'i yes ; even so ; surely ; truth ; verily ; yea
+$ 3484 1 * Nain
+$ 3485 46 na'os temple ; shrine
+$ 3486 1 * Naum
+$ 3487 2 * (spike-) nard
+$ 3488 1 * Narcissus
+$ 3489 2 * make shipwreck ; suffer shipwreck
+$ 3490 1 * owner of a ship
+$ 3491 1 * ship
+$ 3492 3 * shipman ; sailor
+$ 3493 1 * Nachor
+$ 3494 5 * young man
+$ 3495 10 * young man
+$ 3496 1 * Neapolis
+$ 3497 1 * Naaman
+$ 3498 131 nekr'os dead
+$ 3499 3 * be dead ; mortify
+$ 3500 2 * deadness ; dying
+$ 3501 24 n'eos new ; young
+$ 3502 1 * young
+$ 3503 5 * youth
+$ 3504 1 * novice
+$ 3505 0 * Nero
+$ 3506 2 * beckon
+$ 3507 26 nef'elh cloud
+$ 3508 3 * Nephthalim
+$ 3509 1 * cloud
+$ 3510 1 * reins
+$ 3511 1 * worshipper
+$ 3512 1 * youthful
+$ 3513 1 * I protest by
+$ 3514 2 * spin
+$ 3515 1 * be a child
+$ 3516 14 n'hpios childish ; babe ; child
+$ 3517 1 * Nereus
+$ 3518 1 * Neri
+$ 3519 1 * island
+$ 3520 9 * island ; isle
+$ 3521 8 * fast (-ing)
+$ 3522 21 nhste'uw fast
+$ 3523 2 * fasting
+$ 3524 3 * sober ; vigilant
+$ 3525 6 * be sober ; watch
+$ 3526 1 * Niger
+$ 3527 1 * Nicanor
+$ 3528 28 nik'aw get the victory ; conquer ; overcome ; pervail
+$ 3529 1 * victory
+$ 3530 5 * Nicodemus
+$ 3531 2 * Nicolaitane
+$ 3532 1 * Nicolaus
+$ 3533 1 * Nicopolis
+$ 3534 4 * victory
+$ 3535 1 * Nineve
+$ 3536 2 * of Nineve ; Ninevite
+$ 3537 1 * bason
+$ 3538 17 n'iptw wash
+$ 3539 14 no'ew think ; consider ; perceive ; understand
+$ 3540 6 * thought ; device ; mind
+$ 3541 1 * bastard
+$ 3542 2 * pasture ; eat
+$ 3543 15 nom'izw think ; be wont ; suppose
+$ 3544 9 * about the law ; lawyer
+$ 3545 2 * lawfully
+$ 3546 1 * money
+$ 3547 3 * teacher of the law ; doctor of the law
+$ 3548 1 * giving of the law
+$ 3549 2 * receive the law ; establish
+$ 3550 1 * lawgiver
+$ 3551 196 n'omos law
+$ 3552 1 * dote
+$ 3553 1 * disease
+$ 3554 12 n'osos disease ; infirmity ; sickness
+$ 3555 1 * brood
+$ 3556 1 * chicken
+$ 3557 3 * keep back ; purloin
+$ 3558 7 * sound (wind)
+$ 3559 3 * admonition
+$ 3560 8 * warn ; admonish
+$ 3561 1 * new moon
+$ 3562 1 * discreetly
+$ 3563 24 no\~us mind ; understanding
+$ 3564 1 * Nymphas
+$ 3565 8 * bride ; daughter in law
+$ 3566 16 numf'ios bridegroom
+$ 3567 3 * bridechamber
+$ 3568 144 n\~un now ; henceforth ; hereafter ; of late ; present ; soon ; this (time)
+$ 3569 0 * (but) now
+$ 3570 20 nun'i now
+$ 3571 65 n'ux night ; (mid-) night
+$ 3572 1 * pierce
+$ 3573 2 * slumber
+$ 3574 1 * night and day
+$ 3575 8 * Noe
+$ 3576 2 * slothful ; dull
+$ 3577 1 * back
+$ 3578 2 * lodging
+$ 3579 10 * lodge ; (think it) strange ; entertain
+$ 3580 1 * lodge strangers
+$ 3581 14 x'enos strange (-r) ; host
+$ 3582 2 * pot
+$ 3583 16 xhra'inw dry up ; be ripe ; pine away ; wither (away)
+$ 3584 7 * dry ; land ; withered
+$ 3585 2 * of wood
+$ 3586 20 x'ulon wood ; staff ; stocks ; tree
+$ 3587 3 * shave
+$ 3588 20288 <o the ; - ; he ; it ; one ; she ; that ; this
+$ 3589 2 * fourscore
+$ 3590 5 * eighth
+$ 3591 1 * weight
+$ 3592 11 '<ode such ; he ; she ; these ; thus
+$ 3593 1 * journey
+$ 3594 5 * guide ; lead
+$ 3595 5 * guide ; leader
+$ 3596 1 * go on a journey
+$ 3597 2 * journey (-ing)
+$ 3598 102 <od'os way ; (high-) way ; journey
+$ 3599 12 >odo'us tooth
+$ 3600 4 * sorrow ; torment
+$ 3601 2 * sorrow
+$ 3602 2 * mourning
+$ 3603 0 * which is ; called ; that is (to say) ; which make
+$ 3604 2 * Ozias
+$ 3605 1 * stink
+$ 3606 15 '<ojen (from) whence ; from thence ; whereby ; wherefore ; whereupon
+$ 3607 2 * sheet
+$ 3608 5 * linen clothes
+$ 3609 3 * (those) of the house (-hold) ; of his own house
+$ 3610 4 * (household) servant
+$ 3611 9 * dwell
+$ 3612 1 * prison
+$ 3613 2 * house ; habitation
+$ 3614 95 o>ik'ia house ; family ; home ; house (-hold)
+$ 3615 2 * them of (his own) household ; they of his own household
+$ 3616 1 * guide of the house
+$ 3617 12 o>ikodesp'oths master of the house ; goodman (of the house) ; householder
+$ 3618 39 o>ikodom'ew build ; (be in) building ; build (up) ; builder ; edify ; embolden
+$ 3619 18 o>ikodom'h building ; edification ; edify ; edifying
+$ 3620 0 * edifying
+$ 3621 1 * be steward
+$ 3622 9 * stewardship ; dispensation
+$ 3623 10 * steward ; chamberlain ; governor
+$ 3624 114 o\~>ikos house ; home ; house (-hold) ; temple
+$ 3625 16 o>ikoum'enh world ; earth
+$ 3626 1 * keeper at home
+$ 3627 2 * have compassion on
+$ 3628 5 * mercy
+$ 3629 3 * merciful ; of tender mercy
+$ 3630 2 * winebibber
+$ 3631 33 o\~>inos wine
+$ 3632 1 * excess of wine
+$ 3633 3 * suppose ; think
+$ 3634 15 o\~<ios such as ; so (as) ; what (manner of) ; which
+$ 3635 1 * delay
+$ 3636 3 * slothful ; grievous
+$ 3637 1 * the eighth day
+$ 3638 9 * eight
+$ 3639 4 * destruction
+$ 3640 5 * of little faith
+$ 3641 43 >ol'igos small ; (a) little ; a season ; a while ; almost ; brief (-ly) ; few ; long ; short
+$ 3642 1 * feebleminded
+$ 3643 1 * despise
+$ 3644 1 * destroyer
+$ 3645 1 * destroy
+$ 3646 3 * (whole) burnt offering
+$ 3647 1 * perfect soundness
+$ 3648 2 * whole ; entire
+$ 3649 1 * howl
+$ 3650 113 '<olos whole ; all ; altogether ; every whit ; throughout
+$ 3651 1 * wholly
+$ 3652 1 * Olympas
+$ 3653 1 * untimely fig
+$ 3654 4 * at all ; commonly ; utterly
+$ 3655 1 * shower
+$ 3656 4 * commune ; talk
+$ 3657 1 * communication
+$ 3658 0 * company
+$ 3659 1 * eye
+$ 3660 27 >omn'uw swear
+$ 3661 12 <omojumad'on with one accord ; with one mind
+$ 3662 1 * agree
+$ 3663 2 * of like passions ; subject to like passions
+$ 3664 44 '<omoios like ; manner
+$ 3665 2 * like as ; similitude
+$ 3666 15 <omoi'ow in the likeness ; be like ; liken ; make like ; resemble
+$ 3667 6 * likeness ; make like to ; shape ; similitude
+$ 3668 32 <omo'iws likewise ; so
+$ 3669 1 * similitude
+$ 3670 24 <omolog'ew acknowledge ; confess/profess ; confession is made ; give thanks ; promise
+$ 3671 6 * acknowledge ; confession/profession ; professed
+$ 3672 1 * without controversy
+$ 3673 1 * of the same craft
+$ 3674 3 * together
+$ 3675 1 * of one mind
+$ 3676 3 * same ; and even ; nevertheless ; though but
+$ 3677 6 * dream
+$ 3678 1 * young ass
+$ 3679 10 * (suffer) reproach ; cast in teeth ; revile ; upbraid
+$ 3680 5 * reproach
+$ 3681 1 * reproach
+$ 3682 2 * Onesimus
+$ 3683 2 * Onesiphorus
+$ 3684 2 * millstone
+$ 3685 1 * named ; have joy
+$ 3686 232 '>onoma name ; called ; surnamed
+$ 3687 10 * name ; call
+$ 3688 5 * ass
+$ 3689 10 * certainly ; clean ; indeed ; of a truth ; verily
+$ 3690 7 * vinegar
+$ 3691 8 * swift ; sharp
+$ 3692 2 * cave ; place
+$ 3693 6 * behind ; after ; backside
+$ 3694 37 >op'isw behind ; (get) behind ; after ; back ; backward ; follow
+$ 3695 1 * arm self
+$ 3696 6 * weapon ; armour ; instrument
+$ 3697 5 * what manner of ; such as ; what sort of ; whatsover
+$ 3698 1 * when
+$ 3699 81 '<opou where ; in what place ; whereas ; wheresoever ; wither (-soever)
+$ 3700 1 * gaze ; appear ; look ; see ; shew self
+$ 3701 4 * vision
+$ 3702 1 * broiled
+$ 3703 1 * fruit
+$ 3704 57 '<opws how ; (so) that ; because ; to ; when
+$ 3705 12 '<orama vision ; sight
+$ 3706 4 * vision ; sight
+$ 3707 1 * visible
+$ 3708 695 <or'aw see ; behold ; perceive ; take heed
+$ 3709 36 >org'h wrath ; anger ; indignation ; vengeance
+$ 3710 8 * be angry ; be wroth
+$ 3711 1 * soon angry
+$ 3712 2 * fathom
+$ 3713 3 * desire ; covet after
+$ 3714 2 * hill country
+$ 3715 1 * lust
+$ 3716 1 * walk uprightly
+$ 3717 1 * upright ; straight
+$ 3718 1 * rightly divide
+$ 3719 1 * come early in the morning
+$ 3720 0 * morning
+$ 3721 1 * early
+$ 3722 3 * early in the morning
+$ 3723 5 * right (-ly) ; plain
+$ 3724 8 * determine ; declare ; limit ; ordain
+$ 3725 11 '<orion border ; coast
+$ 3726 3 * adjure ; charge
+$ 3727 10 * oath
+$ 3728 4 * oath
+$ 3729 5 * rush ; run (violently)
+$ 3730 2 * assault
+$ 3731 1 * violence
+$ 3732 3 * bird ; fowl
+$ 3733 2 * hen
+$ 3734 1 * bound
+$ 3735 65 '>oros mountain ; hill ; mount (-ain)
+$ 3736 3 * dig
+$ 3737 2 * fatherless ; comfortless
+$ 3738 4 * dance
+$ 3739 1412 '<os who ; another ; one ; some ; that ; the other ; what ; which ; whom ; whose
+$ 3740 3 * as often as ; as oft as
+$ 3741 7 * holy ; mercy ; shalt be
+$ 3742 2 * holiness
+$ 3743 1 * holily
+$ 3744 6 * odour ; savour
+$ 3745 115 '<osos as much as ; (in) as much as ; all (that) ; as long as ; as many as ; as much as ; how great ; how many ; how much ; so many as ; that (ever) ; the more ; those things ; what great ; whatsoever ; wheresoever ; wherewithsoever ; which ; while ; who (-soever)
+$ 3746 1 * whomsoever
+$ 3747 5 * bone
+$ 3748 142 '<ostis whoever ; (such) that ; (they) that ; (they) which ; and (they) ; in that they ; what ; whatsoever ; whereas ye ; who (-soever)
+$ 3749 2 * earthen ; of earth
+$ 3750 1 * smelling
+$ 3751 8 * loin
+$ 3752 122 '<otan whenever ; as long as ; as soon as ; that ; till ; when ; whensoever ; while
+$ 3753 105 '<ote when ; after (that) ; as soon as ; that ; while
+$ 3754 1287 '<oti since ; (in) that ; as concerning that ; as though ; because that ; because ; for (that) ; how (that) ; though ; why
+$ 3755 6 * whiles
+$ 3756 1640 o>u no ; (can-) not ; long ; nay ; neither ; never ; no man ; none ; nothing ; special ; un (-worthy) ; when without ; yet but
+$ 3757 26 o\~<u where (-in) ; whither (-soever)
+$ 3758 1 * ah
+$ 3759 47 o>ua'i woe ; alas
+$ 3760 1 * not
+$ 3761 134 o>ud'e neither ; also not ; even not ; neither indeed ; never ; no (more) ; no (nor) ; no not ; nor (yet) ; not even ; not so much as ; nothing ; so much as ; then not
+$ 3762 235 o>ude'is none ; any (man) ; aught ; man ; neither any (thing) ; no (man) ; none of these things ; not any ; not at all ; nothing ; nought
+$ 3763 16 o>ud'epote neither at any time ; never ; nothing at any time
+$ 3764 5 * not yet ; as yet not ; never before ; never yet
+$ 3765 48 o>uk'eti no longer ; (not) any more ; after that (not) ; henceforth not ; hereafter not ; no longer (more) ; not as yet ; not as now ; now no more (not) ; yet (not)
+$ 3766 1 * then
+$ 3767 523 o\~>un then ; and (so) ; and truly ; but ; now (then) ; so (likewise then) ; therefore ; verily ; wherefore
+$ 3768 23 o'>upw not yet ; (no ...) as yet ; hitherto not
+$ 3769 5 * tail
+$ 3770 6 * heavenly
+$ 3771 2 * from heaven
+$ 3772 281 o>uran'os heaven ; air ; heavenly ; sky
+$ 3773 1 * Urbanus
+$ 3774 1 * Urias
+$ 3775 37 o\~>us ear
+$ 3776 2 * substance ; goods
+$ 3777 94 o'>ute neither ; no not ; none ; nor (yet) ; nothing ; yet not
+$ 3778 1414 o\~<utos this ; he/she/they (it was that) ; hereof ; it ; such as ; the same ; these ; this man ; this same ; this woman ; which ; who
+$ 3779 213 o'<utw thus ; after that ; after this manner ; as ; even (so) ; for all that ; in this manner ; like (-wise) ; no more ; on this fashion ; on this wise ; so (in like manner) ; what
+$ 3780 56 o>uq'i not ; nay
+$ 3781 7 * debtor ; sinner ; which owed
+$ 3782 2 * debt ; due
+$ 3783 2 * debt
+$ 3784 36 >ofe'ilw (be) debtor ; (be) due ; (must) need (-s) ; be bound ; be guilty be indebted ; behove ; duty ; ought ; owe ; should
+$ 3785 4 * would (to God)
+$ 3786 3 * profit ; advantageth
+$ 3787 2 * eye-service
+$ 3788 102 >ofjalm'os eye ; sight
+$ 3789 14 '>ofis serpent
+$ 3790 1 * brow
+$ 3791 2 * vex
+$ 3792 1 * gather a company
+$ 3793 174 '>oqlos company ; crowd ; multitude ; number (of people) ; people ; press
+$ 3794 1 * stronghold
+$ 3795 5 * fish
+$ 3796 3 * (at) even (-ing) ; in the end
+$ 3797 1 * latter
+$ 3798 15 '>oyios evening ; even (-tide)
+$ 3799 3 * appearance ; countenance ; face
+$ 3800 4 * wages
+$ 3801 0 * which is, and which was, and which is to come
+$ 3802 1 * entangle
+$ 3803 5 * snare
+$ 3804 16 p'ajhma suffering ; affection ; affliction ; motion
+$ 3805 1 * suffer
+$ 3806 3 * (inordinate) affection ; lust
+$ 3807 3 * instructor ; schoolmaster
+$ 3808 1 * child ; lad
+$ 3809 6 * instruction ; chastening ; chastisement; nurture
+$ 3810 2 * instructor ; which corrected
+$ 3811 13 paide'uw instruct ; chasten ; learn ; teach
+$ 3812 1 * of a child
+$ 3813 51 paid'ion child ; damsel ; little child ; young child
+$ 3814 13 paid'iskh bondwoman ; bondmaid ; damsel ; maid (-en)
+$ 3815 1 * play
+$ 3816 24 pa\~is servant ; (man/maid) servant ; child ; maiden ; son ; young man
+$ 3817 5 * strike ; smite
+$ 3818 0 * Pacatiana
+$ 3819 6 * a great while ago ; (of) old ; any while ; in time past
+$ 3820 19 palai'os old
+$ 3821 1 * oldness
+$ 3822 4 * wax old ; decay ; make old
+$ 3823 1 * wrestle
+$ 3824 2 * regeneration
+$ 3825 140 p'alin again
+$ 3826 1 * all at once
+$ 3827 1 * very great
+$ 3828 5 * Pamphylia
+$ 3829 1 * inn
+$ 3830 1 * host
+$ 3831 1 * general assembly
+$ 3832 1 * with all his house
+$ 3833 3 * whole armour ; all armour
+$ 3834 5 * (cunning) craftiness ; subtilty
+$ 3835 1 * crafty
+$ 3836 1 * from every quarter
+$ 3837 7 * in all places ; everywhere
+$ 3838 2 * uttermost ; in (no) wise
+$ 3839 1 * always
+$ 3840 2 * on every side ; round about
+$ 3841 10 * Almighty ; Omnipotent
+$ 3842 42 p'antote always ; alway (-s) ; ever (-more)
+$ 3843 9 * at all ; altogether ; by all means ; in (no) wise ; needs ; no doubt ; surely
+$ 3844 200 par'a beside ; (out) of ; (there-) fore ; above ; against ; among ; at ; before ; by ; contrary to ; friend ; from ; give (such things as they) ; his ; in ; in the sight of ; more than ; nigh unto ; past ; save ; side ... by ; than ; that (she) had ; with
+$ 3845 4 * (by) transgress (-ion)
+$ 3846 2 * compare ; arrive
+$ 3847 7 * transgression ; breaking
+$ 3848 5 * transgressor ; breaker
+$ 3849 2 * constrain
+$ 3850 50 parabol'h parable ; comparison ; figure ; proverb
+$ 3851 1 * not regard ; not to regarding
+$ 3852 5 * charge ; command
+$ 3853 30 paragg'ellw (give in) charge ; (give) command (-ment) ; declare
+$ 3854 37 parag'inomai arrive ; be present ; come ; go
+$ 3855 10 * pass forth ; depart ; pass away ; pass by
+$ 3856 2 * make a public example ; put to an open shame
+$ 3857 3 * paradise
+$ 3858 5 * receive
+$ 3859 1 * perverse disputing
+$ 3860 121 parad'idwmi hand over ; betray ; bring forth ; cast ; commit ; deliver (up) ; give (over) ; give up ; hazard ; put in prison ; recommend
+$ 3861 1 * strange
+$ 3862 13 par'adosis tradition ; ordinance
+$ 3863 4 * stimulate alongside ; provoke to jealousy ; provoke to emulation
+$ 3864 1 * upon the sea coast
+$ 3865 1 * neglect
+$ 3866 3 * committed unto
+$ 3867 2 * exhort ; admonish
+$ 3868 11 paraj'hkh reject ; (make) excuse ; avoid ; intreat ; refuse
+$ 3869 1 * sit
+$ 3870 108 parakal'ew beseech ; (be of good) comfort ; (give) exhort (-ation) ; call for ; desire ; intreat ; pray ; summon
+$ 3871 1 * hide
+$ 3872 0 * that (thing) which is committed (un-) to (trust)
+$ 3873 2 * be present
+$ 3874 29 par'aklhsis comfort ; consolation ; exhortation ; intreaty
+$ 3875 5 * comforter ; advocate
+$ 3876 3 * disobedience
+$ 3877 4 * follow ; attain ; fully know ; have understanding
+$ 3878 2 * neglect to hear
+$ 3879 5 * stoop down ; look (into)
+$ 3880 49 paralamb'anw take unto ; receive ; take with
+$ 3881 2 * pass ; sail by
+$ 3882 1 * sea coast
+$ 3883 1 * variableness
+$ 3884 2 * deceive ; beguile
+$ 3885 10 * sick of the palsy ; that had the palsy
+$ 3886 5 * sick of the palsy ; feeble ; take with palsy
+$ 3887 3 * continue ; abide
+$ 3888 4 * comfort
+$ 3889 1 * comfort
+$ 3890 1 * comfort
+$ 3891 1 * contrary to law
+$ 3892 1 * iniquity
+$ 3893 1 * provoke
+$ 3894 2 * provocation
+$ 3895 1 * fall away
+$ 3896 1 * sail by
+$ 3897 1 * nigh unto
+$ 3898 1 * likewise
+$ 3899 5 * pass (by) ; go
+$ 3900 23 par'aptwma trespass ; fall ; fault ; offence ; sin
+$ 3901 1 * let slip
+$ 3902 1 * sign
+$ 3903 4 * prepare self ; be ready ; make ready
+$ 3904 6 * preparation
+$ 3905 1 * continue
+$ 3906 6 * observe ; watch
+$ 3907 1 * observation
+$ 3908 19 parat'ijhmi set before ; allege ; commend ; commit (the keeping of) ; put forth ; set before
+$ 3909 1 * meet with
+$ 3910 1 * but for a moment
+$ 3911 4 * remove ; take away
+$ 3912 1 * as a fool
+$ 3913 1 * madness
+$ 3914 4 * winter
+$ 3915 1 * winter in
+$ 3916 18 paraqr\~hma immediately ; forthwith ; presently ; soon ; straightway
+$ 3917 1 * leopard
+$ 3918 24 p'areimi (be here) present ; be here ; come ; have ; lack
+$ 3919 1 * privily bring in
+$ 3920 1 * unawares brought in
+$ 3921 1 * creep in unawares
+$ 3922 2 * come in privily ; enter
+$ 3923 1 * give
+$ 3924 3 * beside ; except ; saving ; without
+$ 3925 10 * camp ; army ; castle
+$ 3926 1 * trouble
+$ 3927 3 * stranger ; pilgrim
+$ 3928 29 par'erqomai pass (over) ; come (forth) ; go ; pass away ; pass by ; past ; transgress
+$ 3929 1 * remission
+$ 3930 16 par'eqw bring ; do ; give ; keep ; minister ; offer ; shew ; trouble
+$ 3931 1 * comfort
+$ 3932 1 * virginity
+$ 3933 14 parj'enos virgin
+$ 3934 1 * Parthian
+$ 3935 1 * hang down
+$ 3936 41 par'isthmi stand before ; assist ; bring before ; command ; commend ; give presently ; present ; prove ; provide ; shew ; stand by ; stand here ; stand up ; stand with ; yield
+$ 3937 1 * Parmenas
+$ 3938 1 * way
+$ 3939 2 * sojourn in ; be a stranger
+$ 3940 2 * sojourning ; as strangers
+$ 3941 4 * sojourn (-er) ; foreigner ; stranger
+$ 3942 5 * proverb ; parable
+$ 3943 2 * given to wine
+$ 3944 1 * past
+$ 3945 1 * he like unto
+$ 3946 2 * like
+$ 3947 2 * easily provoke ; stir
+$ 3948 2 * provoke unto ; contention
+$ 3949 2 * provoke to wrath ; anger
+$ 3950 1 * wrath
+$ 3951 1 * stir up
+$ 3952 24 parous'ia coming ; presence
+$ 3953 2 * platter
+$ 3954 31 parrhs'ia boldly ; bold (-ly) ; boldness ; boldness of speech ; confidence ; freely ; openly ; plainly ; plainness
+$ 3955 9 * (speak) boldly ; be bold ; preach boldly ; wax bold
+$ 3956 1248 p\~as all ; all manner of ; all means ; alway (-s) ; any (one) ; as many as ; daily ; ever ; every one ; every way ; no (-thing) ; throughly ; whatsoever ; whole ; whosoever
+$ 3957 29 p'asqa Passover ; Easter
+$ 3958 42 p'asqw suffer ; feel ; passion ; vex
+$ 3959 1 * Patara
+$ 3960 10 * strike ; smite
+$ 3961 5 * tread under foot ; tread down
+$ 3962 417 pat'hr father ; parent
+$ 3963 1 * Patmos
+$ 3964 1 * murderer of fathers
+$ 3965 3 * kindred ; family ; lineage
+$ 3966 4 * patriarch
+$ 3967 1 * of fathers
+$ 3968 8 * (own) country
+$ 3969 1 * Patrobas
+$ 3970 1 * received by tradition from fathers
+$ 3971 3 * of fathers
+$ 3972 163 Pa\~ulos Paul ; Paulus
+$ 3973 15 pa'uw cease ; leave ; refrain
+$ 3974 2 * Paphos
+$ 3975 2 * wax gross
+$ 3976 3 * fetter
+$ 3977 1 * plain
+$ 3978 1 * go afoot
+$ 3979 2 * (on) foot ; afoot
+$ 3980 4 * hearken ; obey (magistrates)
+$ 3981 1 * enticing
+$ 3982 54 pe'ijw urge ; agree ; assure ; be confident ; believe ; have confidence ; make friend ; obey ; persuade ; trust ; wax confident ; yield
+$ 3983 23 pein'aw be an hungered
+$ 3984 2 * trial ; assaying
+$ 3985 39 peir'azw test ; assay ; examine ; go about ; prove ; tempt (-er) ; try
+$ 3986 21 peirasm'os try ; temptation
+$ 3987 3 * assay
+$ 3988 1 * persuasion
+$ 3989 2 * sea ; depth
+$ 3990 1 * behead
+$ 3991 4 * fifth
+$ 3992 80 p'empw send ; thrust in
+$ 3993 1 * poor
+$ 3994 6 * wife's mother ; mother in law
+$ 3995 1 * father in law
+$ 3996 10 * mourn ; (be-) wail
+$ 3997 5 * mourning ; sorrow
+$ 3998 1 * poor
+$ 3999 1 * five times
+$ 4000 6 * five thousand
+$ 4001 2 * five hundred
+$ 4002 38 p'ente five
+$ 4003 1 * fifteenth
+$ 4004 7 * fifty
+$ 4005 3 * Pentecost
+$ 4006 6 * trust ; confidence
+$ 4007 0 * (whom-) soever
+$ 4008 23 p'eran farther side ; beyond ; other side ; over
+$ 4009 4 * utmost part ; end ; uttermost part
+$ 4010 2 * Pergamos
+$ 4011 3 * Perga
+$ 4012 332 per'i about ; (as) concerning ; (as) touching ; (e-) state ; (there-) about ; (where-) by (in) ; above ; against ; and his company ; at ; for ; how it will go with ; of ; on ; on behalf o ; over ; pertaining (to), for sake ; thereof ; whereof ; which concern ; with
+$ 4013 6 * go (round) about ; compass ; lead about
+$ 4014 4 * take away ; take up
+$ 4015 2 * shine round (about)
+$ 4016 24 perib'allw array ; cast about ; clothe (-d me) ; put on
+$ 4017 7 * look (round) about ; look about on
+$ 4018 2 * vesture ; covering
+$ 4019 1 * bind about
+$ 4020 1 * be a busybody
+$ 4021 2 * busybody ; curious arts
+$ 4022 4 * wandering about ; fetch a compass ; vagabond
+$ 4023 3 * contain ; after (this manner) ; astonished
+$ 4024 7 * gird (about) ; gird self
+$ 4025 1 * wearing
+$ 4026 4 * stand round about ; avoid ; shun ; stand by
+$ 4027 1 * filth
+$ 4028 3 * cover ; blindfold ; overlay
+$ 4029 5 * hang about ; be bound with ; be compassed with
+$ 4030 2 * helmet
+$ 4031 1 * come by
+$ 4032 1 * hide
+$ 4033 1 * compass round
+$ 4034 2 * shine round about
+$ 4035 2 * remain
+$ 4036 5 * exceedingly sorrowful ; very sorry
+$ 4037 1 * wait for
+$ 4038 1 * round about
+$ 4039 1 * dwell round about
+$ 4040 1 * neighbor
+$ 4041 1 * peculiar
+$ 4042 1 * place
+$ 4043 96 peripat'ew walk ; be occupied with ; go ; walk (about)
+$ 4044 1 * pierce through
+$ 4045 3 * fall among ; fall into
+$ 4046 2 * purchase
+$ 4047 5 * possession ; obtain (-ing) ; peculiar ; purchased ; saving
+$ 4048 1 * rend off
+$ 4049 1 * cumber
+$ 4050 4 * abundance ; abundant (-ly) ; superfluity
+$ 4051 5 * abundance ; over and above ; that was left
+$ 4052 39 perisse'uw (be more) abundant ; be left ; be the better ; eceed ; enough and to spare ; excel ; have (more) abundance ; increase ; make abound ; more abound ; overflow ; redound ; remain (over and above)
+$ 4053 21 periss'os more abundantly ; advantage ; beyond measure ; exceedingly ; exceedingly abundantly above ; more ; superfluous ; vehement (-ly) ; very highly
+$ 4054 0 * more abundantly ; a great deal ; far more
+$ 4055 5 * more abundant ; greater (much) more ; overmuch
+$ 4056 0 * more abundant (-ly) ; (more) exceedingly ; more frequent ; much more ; the more earnest ; the rather
+$ 4057 16 periss\~ws exceedingly ; out of measure ; the more
+$ 4058 10 * pigeon ; dove
+$ 4059 18 perit'emnw circumcise
+$ 4060 8 * put about ; bestow upon ; hedge round about ; put on ; put upon ; set about
+$ 4061 36 peritom'h circumcision ; circumcised
+$ 4062 1 * make mad
+$ 4063 1 * run through
+$ 4064 3 * carry about ; bear about
+$ 4065 1 * despise
+$ 4066 10 * region round about ; country (round) about ; that lieth round about
+$ 4067 1 * off scouring
+$ 4068 1 * vaunt itself
+$ 4069 1 * Persis
+$ 4070 2 * a year ago
+$ 4071 14 petein'on bird ; fowl
+$ 4072 5 * fly (-ing)
+$ 4073 16 p'etra rock
+$ 4074 162 P'etros Peter ; rock
+$ 4075 4 * stony
+$ 4076 1 * rue
+$ 4077 12 phg'h fountain ; well
+$ 4078 1 * pitch
+$ 4079 2 * rudder
+$ 4080 2 * how great ; how large
+$ 4081 6 * clay
+$ 4082 6 * script
+$ 4083 4 * cubit
+$ 4084 12 pi'azw lay hand on ; apprehend ; catch ; take
+$ 4085 1 * press down
+$ 4086 1 * enticing words
+$ 4087 4 * make bitter ; be bitter
+$ 4088 4 * bitterness
+$ 4089 2 * bitter
+$ 4090 2 * bitterly
+$ 4091 55 Pil'atos Pilate
+$ 4092 1 * be swollen ; should have swollen
+$ 4093 1 * writing table
+$ 4094 5 * platter ; charger
+$ 4095 74 p'ino drink
+$ 4096 1 * fatness
+$ 4097 9 * sell
+$ 4098 90 p'iptw fall ; fail ; fall (down) ; light on
+$ 4099 2 * Pisidia
+$ 4100 246 piste'uw believe ; believer ; commit (to trust) ; put in trust with
+$ 4101 2 * spike (-nard)
+$ 4102 244 p'istis faith ; assurance ; belief ; believe ; fidelity
+$ 4103 67 pist'os faithful ; believer ; believing ; faithfully ; sure ; true
+$ 4104 1 * assure of
+$ 4105 40 plan'aw err ; be out of the way ; deceive ; go astray ; lead astray ; seduce ; wander
+$ 4106 10 * error ; deceit ; delusion ; to deceive
+$ 4107 1 * wandering
+$ 4108 5 * deceiver ; seducing
+$ 4109 3 * table
+$ 4110 1 * thing formed
+$ 4111 2 * form
+$ 4112 1 * feigned
+$ 4113 9 * street
+$ 4114 4 * breadth
+$ 4115 3 * enlarge ; make broad
+$ 4116 1 * wide
+$ 4117 1 * broidered hair
+$ 4118 3 * very great ; most
+$ 4119 56 ple'iwn greater ; (very) many ; above ; exceed ; further ; greater (more) part ; long (-er) ; more excellent ; very great ; yet but
+$ 4120 3 * plait
+$ 4121 9 * make to increase ; abound ; abundant ; have over
+$ 4122 5 * defraud ; get an advantage ; make a gain
+$ 4123 4 * covetous
+$ 4124 10 * covetousness ; covetous practices ; greediness
+$ 4125 5 * side
+$ 4126 6 * sail
+$ 4127 22 plhg'h wound (-ed) ; plague ; stripe
+$ 4128 32 pl\~hjos multitude ; bundle ; company ; crowd
+$ 4129 12 plhj'unw multiply ; abound
+$ 4130 25 pl'hjw (ful-) fill ; accomplish ; full (... come) ; furnish
+$ 4131 2 * striker
+$ 4132 1 * flood
+$ 4133 31 pl'hn nevertheless ; but (rather) ; except ; notwithstanding ; save ; than
+$ 4134 17 pl'hrhs full
+$ 4135 5 * make full proof of ; fully know ; fully persuade ; most surely believe
+$ 4136 4 * (full) assurance
+$ 4137 88 plhr'ow fulfill ; (be) complete ; (make) full ; accomplish ; after ; be full ; end ; expire ; fill (up) ; fulfil ; full come ; fully preach ; perfect ; supply
+$ 4138 17 pl'hrwma fulfilling ; full ; fulness ; piece that filled up ; which is put in to fill up
+$ 4139 16 plhs'ion near ; neighbor
+$ 4140 1 * satisfying
+$ 4141 1 * smite
+$ 4142 6 * small ship ; boat ; little ship
+$ 4143 66 plo\~ion ship ; ship (-ping)
+$ 4144 3 * voyage ; course ; sailing
+$ 4145 28 plo'usios rich
+$ 4146 4 * richly ; abundantly
+$ 4147 12 plout'ew (be made) rich ; be increased with goods ; wax rich
+$ 4148 3 * make rich ; enrich
+$ 4149 22 plo\~utos riches
+$ 4150 1 * wash
+$ 4151 385 pne\~uma spirit ; ghost ; life ; mind ; spiritually ; spiritual
+$ 4152 26 pneumatik'os spiritual
+$ 4153 2 * spiritually
+$ 4154 7 * blow
+$ 4155 2 * choke ; take by the throat
+$ 4156 3 * strangled
+$ 4157 2 * wind ; breath
+$ 4158 1 * garment down to the foot
+$ 4159 28 p'ojen whence
+$ 4160 575 poi'ew do ; abide ; agree ; appoint ; avenge ; band together ; be ; bear ; bewray ; bring (forth) ; cast out ; cause ; commit ; content ; continue ; deal ; doing ; execute ; exercise ; fulfil ; gain ; give ; have ; have purged ; hold ; journeying ; keep ; lay wait ; lighten the ship ; make ; mean ; none of these things move me ; observe ; ordain ; perform ; provide ; purpose ; put; raising up ; secure ; shew ; shoot out ; spend ; take ; tarry ; transgress the law ; without any delay ; work ; would do ; yield
+$ 4161 2 * workmanship ; thing that is made
+$ 4162 1 * deed
+$ 4163 6 * doer ; poet
+$ 4164 10 * divers ; manifold
+$ 4165 11 poima'inw tend (sheep) ; feed (cattle) ; rule
+$ 4166 18 poim'hn shepherd ; pastor
+$ 4167 5 * flock ; fold
+$ 4168 5 * flock
+$ 4169 34 po\~ios which ; what (manner of)
+$ 4170 7 * fight ; (make) war
+$ 4171 19 p'olemos fight ; battle ; war
+$ 4172 163 p'olis city
+$ 4173 2 * ruler of the city
+$ 4174 2 * commonwealth ; freedom
+$ 4175 1 * conversation
+$ 4176 2 * live ; let conversation be
+$ 4177 4 * citizen
+$ 4178 18 poll'akis often (-times) ; oft (-times)
+$ 4179 1 * manifold more
+$ 4180 1 * much speaking
+$ 4181 1 * at sundry times
+$ 4182 1 * manifold
+$ 4183 364 pol'us many ; abundant ; altogether ; be of a great ; common ; far passed ; far spent ; great age ; great deal ; great while ; greatly ; long ; much ; oft (-entimes) ; plenteous ; sore ; straitly
+$ 4184 1 * very pitiful
+$ 4185 3 * very precious ; costly ; of great price
+$ 4186 2 * very costly ; of great price
+$ 4187 1 * in divers manners
+$ 4188 2 * drink
+$ 4189 7 * wickedness ; iniquity
+$ 4190 77 ponhr'os wicked (-ness) ; bad ; evil ; grievous ; harm ; lewd ; malicious
+$ 4191 1 * more wicked
+$ 4192 3 * pain
+$ 4193 1 * born in Pontus
+$ 4194 4 * Pontius
+$ 4195 2 * Pontus
+$ 4196 2 * Publius
+$ 4197 2 * journey (-ing) ; ways
+$ 4198 154 pore'uomai (make a) journey ; depart ; go away ; go forth ; go one's way ; go up ; take a journey ; travel ; walk
+$ 4199 3 * destroy ; waste
+$ 4200 2 * gain
+$ 4201 1 * Porcius
+$ 4202 26 porne'ia fornication
+$ 4203 8 * commit (fornication)
+$ 4204 12 p'ornh whore ; harlot
+$ 4205 10 * whoremonger ; forinator
+$ 4206 3 * far ; a great way off
+$ 4207 2 * afar off
+$ 4208 1 * further
+$ 4209 3 * purple
+$ 4210 5 * purple
+$ 4211 1 * seller of purple
+$ 4212 3 * how oft (-en)
+$ 4213 3 * drink
+$ 4214 27 p'osos how great ; how long ; how many ; what
+$ 4215 16 potam'os river ; flood ; stream ; water
+$ 4216 1 * carried away of the flood
+$ 4217 7 * what (manner of)
+$ 4218 29 pot'e sometime ; (any) time (-s) ; (n-) ever ; at length ; at the last ; in the old time ; in the time past ; once ; sometimes ; when
+$ 4219 19 p'ote when ; how long
+$ 4220 1 * whether
+$ 4221 33 pot'hrion cup
+$ 4222 15 pot'izw give to drink ; feed ; make to drink ; water
+$ 4223 1 * Puteoli
+$ 4224 1 * banqueting
+$ 4225 6 * a certain place ; about
+$ 4226 44 po\~u where ; whither
+$ 4227 1 * Pudens
+$ 4228 93 po'us foot ; foot (stool)
+$ 4229 11 pr\~agma business ; matter ; thing ; work
+$ 4230 1 * affair
+$ 4231 1 * occupy
+$ 4232 8 * judgment hall ; common hall ; hall of judgment ; palace ; praetorium
+$ 4233 2 * officer
+$ 4234 6 * office ; deed ; work
+$ 4235 1 * meek
+$ 4236 9 * meekness
+$ 4237 2 * in ranks
+$ 4238 38 pr'assw practice ; commit ; deeds ; do ; exact ; keep ; require ; use arts
+$ 4239 3 * meek
+$ 4240 3 * meekness
+$ 4241 7 * comely ; become
+$ 4242 2 * ambassage ; message
+$ 4243 2 * be an ambassador
+$ 4244 3 * elders ; estate of elders ; presbytery
+$ 4245 67 presb'uteros elder ; eldest ; old
+$ 4246 3 * aged (man) ; old man
+$ 4247 1 * aged woman
+$ 4248 1 * headlong
+$ 4249 1 * saw asunder
+$ 4250 14 pr'in before (that) ; ere
+$ 4251 2 * Prisca
+$ 4252 4 * Priscilla
+$ 4253 47 pr'o before ; above ; ago ; or ever
+$ 4254 18 pro'agw go before ; bring forth ; bring out
+$ 4255 1 * purpose
+$ 4256 1 * prove before
+$ 4257 1 * hear before
+$ 4258 2 * sin already ; heretofore sin
+$ 4259 1 * porch
+$ 4260 5 * go farther (on) ; be of a great age ; be well stricken
+$ 4261 2 * shoot forth ; put forward
+$ 4262 1 * sheep (market)
+$ 4263 41 pr'obaton sheep ; sheep (-fold)
+$ 4264 2 * draw (forth) ; before instruct
+$ 4265 1 * provide
+$ 4266 1 * be past
+$ 4267 5 * foreknow ; fore ordain ; know (before)
+$ 4268 2 * foreknowledge
+$ 4269 2 * forefather ; parent
+$ 4270 5 * write aforetime ; before ordain ; evidently set forth ; write afore
+$ 4271 3 * evident ; manifest beforehand ; open beforehand
+$ 4272 1 * first give
+$ 4273 3 * traitor ; betrayer
+$ 4274 1 * forerunner
+$ 4275 2 * foresee ; saw before
+$ 4276 1 * first trust
+$ 4277 3 * forewarn ; say before ; speak before ; tell before
+$ 4278 2 * begin (before)
+$ 4279 1 * promise before
+$ 4280 9 * foretell ; say before ; speak before ; tell before
+$ 4281 5 * go before ; go farther ; go forward ; outgo ; pass on
+$ 4282 2 * prepare afore ; ordain before
+$ 4283 1 * preach before the gospel
+$ 4284 1 * be better
+$ 4285 1 * prefer
+$ 4286 12 pr'ojesis shew (-bread) ; purpose
+$ 4287 1 * time appointed
+$ 4288 5 * willing mind ; forwardness of mind ; readiness (of mind) ; ready mind
+$ 4289 3 * willing ; ready
+$ 4290 1 * willing
+$ 4291 8 * rule ; be over ; maintain
+$ 4292 1 * provoke
+$ 4293 3 * foretell ; have notice before ; shew before
+$ 4294 1 * make up beforehand
+$ 4295 5 * set before ; be first ; set forth
+$ 4296 1 * before preach ; first preach
+$ 4297 3 * profit ; furtherance
+$ 4298 6 * profit ; be far spent ; increase ; proceed ; wax
+$ 4299 1 * prefer one before another
+$ 4300 1 * confirm before
+$ 4301 3 * take before ; come aforehand ; overtake
+$ 4302 3 * foretell ; tell before
+$ 4303 1 * testify beforehand
+$ 4304 1 * meditate before
+$ 4305 1 * take thought beforehand
+$ 4306 3 * provide (for)
+$ 4307 2 * provision ; providence
+$ 4308 1 * foresee ; see before
+$ 4309 6 * determine before ; ordain ; predestinate
+$ 4310 1 * suffer before
+$ 4311 9 * bring (forward) on journey ; accompany ; bring way ; conduct forth
+$ 4312 2 * rashly ; heady ; rash
+$ 4313 2 * go before
+$ 4314 706 pr'os towards ; (where-) by ; about ; according to ; against ; among ; at ; at thy house ; because of ; before ; between ; for ; for intent ; in ; nigh unto ; of ; that ; to (the end that) ; to you (-ward) ; together ; toward ; unto ; which pertain to ; with (-in)
+$ 4315 1 * day before the sabbath
+$ 4316 1 * call
+$ 4317 4 * draw near ; bring
+$ 4318 3 * access
+$ 4319 3 * beg
+$ 4320 1 * go up
+$ 4321 1 * spend
+$ 4322 2 * supply
+$ 4323 2 * confer ; in conference add
+$ 4324 1 * threaten further
+$ 4325 1 * spend more
+$ 4326 1 * need
+$ 4327 14 prosd'eqomai allow ; accept ; look for ; take ; wait for
+$ 4328 16 prosdok'aw expect ; be in expectation ; look (for) ; tarry ; wait for ; when looked
+$ 4329 2 * expectation ; looking after
+$ 4330 1 * suffer
+$ 4331 1 * come nigh
+$ 4332 1 * wait at
+$ 4333 1 * gain
+$ 4334 90 pros'eroqomai approach ; (as soon as he) come (unto) ; come thereunto ; consent ; draw near ; go near ; go to ; go unto
+$ 4335 37 proseuq'h prayer ; pray earnestly
+$ 4336 87 prose'uqomai pray ; make prayer ; pray earnestly ; pray for
+$ 4337 24 pros'eqw (give) attendance to ; attend (-ance) ; attend unto ; attendance at ; be given to ; beware ; give heed to ; have regard ; take heed unto
+$ 4338 1 * nail to
+$ 4339 4 * proselyte
+$ 4340 4 * temporary ; dur (-eth) for awhile ; endure for a time ; for a season ; temporal
+$ 4341 30 proskal'eomai call unto ; call for ; call to
+$ 4342 10 * attend continually ; continue in ; continue instant in ; continue with ; give self continually (upon) ; wait on (continually)
+$ 4343 1 * perseverance
+$ 4344 1 * pillow
+$ 4345 1 * consort with
+$ 4346 1 * partiality
+$ 4347 4 * join (self) ; cleave
+$ 4348 6 * stumbling-stone ; offence ; stumbling (-block)
+$ 4349 1 * offence
+$ 4350 8 * stumble (at) ; beat upon ; dash
+$ 4351 2 * roll (to)
+$ 4352 60 proskun'ew worship
+$ 4353 1 * worshipper
+$ 4354 2 * speak to ; speak with
+$ 4355 14 proslamb'anw receive ; take (unto)
+$ 4356 1 * receiving
+$ 4357 6 * abide still ; be with ; cleave unto ; continue in ; continue with
+$ 4358 1 * draw to the shore
+$ 4359 1 * over besides
+$ 4360 2 * be grieved with
+$ 4361 1 * very hungry
+$ 4362 1 * crucify
+$ 4363 8 * fall (down) before ; beat upon ; fall at
+$ 4364 2 * make as though
+$ 4365 1 * go before
+$ 4366 2 * beat vehemently against ; beat vehemently upon
+$ 4367 8 * bid ; command
+$ 4368 1 * succourer
+$ 4369 18 prost'ijhmi add ; again ; give more ; increase ; lay unto ; proceed further ; speak to any more
+$ 4370 3 * run (to) ; run thither to
+$ 4371 1 * meat
+$ 4372 1 * new
+$ 4373 1 * lately
+$ 4374 48 prosf'erw offer ; bring to ; bring unto ; deal with ; do ; offer unto ; offer up ; present unto ; put to
+$ 4375 1 * lovely
+$ 4376 9 * offering (up)
+$ 4377 7 * call unto ; speak (un-) to
+$ 4378 1 * sprinkling
+$ 4379 1 * touch
+$ 4380 1 * have respect to persons
+$ 4381 1 * respecter of persons
+$ 4382 4 * respect of persons
+$ 4383 78 pr'oswpon front ; (men's) person ; (outward) appearance ; before ; countenance ; face ; fashion ; presence
+$ 4384 0 * before appoint
+$ 4385 1 * bind
+$ 4386 10 * former ; (at the) first ; before
+$ 4387 1 * former
+$ 4388 3 * set forth ; purpose
+$ 4389 1 * exhort
+$ 4390 2 * outrun ; run before
+$ 4391 2 * be before (time)
+$ 4392 7 * outward showing ; cloke ; colour ; pretence ; show
+$ 4393 2 * bring forth
+$ 4394 19 profhte'ia prophecy ; prophesying
+$ 4395 28 profhte'uw prophecy
+$ 4396 148 prof'hths prophet
+$ 4397 2 * of prophecy ; of the prophets
+$ 4398 2 * prophetess
+$ 4399 1 * prevent
+$ 4400 3 * choose ; make
+$ 4401 1 * choose before
+$ 4402 1 * Prochorus
+$ 4403 3 * hinder part ; stern
+$ 4404 11 prw"'i (in the) morning ; early (in the morning)
+$ 4405 3 * morning ; early
+$ 4406 1 * early
+$ 4407 2 * morning
+$ 4408 2 * foreship ; forepart
+$ 4409 1 * have a preeminence
+$ 4410 4 * chief seat ; highest seat ; uppermost seat
+$ 4411 5 * chief room ; highest room ; uppermost room
+$ 4412 59 pr\~wton first ; at (the) first ; at the beginning ; before ; chiefly ; first (of all)
+$ 4413 100 pr\~wtos first ; before ; beginning ; best ; chief (-est) ; first (of all) ; former
+$ 4414 1 * ringleader
+$ 4415 1 * birthright
+$ 4416 9 * firstbegotten ; firstborn
+$ 4417 5 * stumble ; fall ; offend
+$ 4418 1 * heel
+$ 4419 2 * pinnacle
+$ 4420 5 * wing
+$ 4421 1 * bird
+$ 4422 2 * frighten
+$ 4423 1 * amazement
+$ 4424 1 * Ptolemais
+$ 4425 2 * fan
+$ 4426 1 * terrify
+$ 4427 1 * spittle
+$ 4428 1 * close
+$ 4429 3 * spit
+$ 4430 5 * corpse ; carcase ; dead body
+$ 4431 2 * fall
+$ 4432 3 * poverty
+$ 4433 1 * become poor
+$ 4434 34 ptwq'os poor ; beggar ; beggarly
+$ 4435 1 * oft
+$ 4436 1 * divination
+$ 4437 3 * often ; oftener
+$ 4438 1 * fight
+$ 4439 10 * gate
+$ 4440 18 pul'wn gate ; porch
+$ 4441 12 punj'anomai inquire ; ask ; demand ; understand
+$ 4442 73 p\~ur fire ; fiery
+$ 4443 2 * fire
+$ 4444 4 * tower
+$ 4445 2 * be sick of a fever
+$ 4446 6 * fever
+$ 4447 1 * of fire
+$ 4448 6 * be on fire ; burn ; fiery ; try
+$ 4449 2 * be red
+$ 4450 2 * red
+$ 4451 3 * burning ; trial
+$ 4452 0 * yet ; even
+$ 4453 22 pwl'ew sell ; whatever is sold
+$ 4454 12 p\~wlos colt
+$ 4455 6 * at any time ; never (... to any man) ; yet never man
+$ 4456 5 * harden ; blind
+$ 4457 3 * hardness ; blindness
+$ 4458 0 * by any means ; by some means ; haply ; perhaps
+$ 4459 107 p\~ws by what means ; after what manner ; how ; that
+$ 4460 2 * Rahab
+$ 4461 17 <rabb'i Rabbi ; Master
+$ 4462 2 * Rabboni ; Lord
+$ 4463 2 * beat (with rods)
+$ 4464 12 <r'abdos rod ; sceptre ; staff
+$ 4465 2 * sergeant
+$ 4466 1 * Ragau
+$ 4467 1 * lewdness
+$ 4468 1 * mischief
+$ 4469 1 * Raca
+$ 4470 2 * cloth
+$ 4471 1 * Rama
+$ 4472 4 * sprinkle
+$ 4473 2 * sprinkling
+$ 4474 2 * smite (with the palm of the hand)
+$ 4475 3 * smite with the hand ; (strike with the) palm of the hand
+$ 4476 3 * needle
+$ 4477 1 * Rachab
+$ 4478 1 * Rachel
+$ 4479 1 * Rebecca
+$ 4480 1 * chariot
+$ 4481 1 * Remphan
+$ 4482 1 * flow
+$ 4483 0 * speak (of) ; command ; make ; say
+$ 4484 1 * Rhegium
+$ 4485 1 * ruin
+$ 4486 7 * break (forth) ; burst ; rend ; tear
+$ 4487 69 <r\~hma word ; evil ; nothing ; saying
+$ 4488 1 * Rhesa
+$ 4489 1 * orator
+$ 4490 1 * expressly
+$ 4491 17 <r'iza root
+$ 4492 2 * root
+$ 4493 1 * twinkling
+$ 4494 1 * toss
+$ 4495 1 * cast off
+$ 4496 7 * throw ; cast down ; cast out ; scatter abroad
+$ 4497 2 * Roboam
+$ 4498 1 * Rhoda
+$ 4499 1 * Rhodes
+$ 4500 1 * with a great noise
+$ 4501 7 * sword
+$ 4502 1 * Reuben
+$ 4503 1 * Ruth
+$ 4504 2 * Rufus
+$ 4505 4 * street ; lane
+$ 4506 18 <r'uomai deliever (-er)
+$ 4507 1 * filthiness
+$ 4508 2 * vile
+$ 4509 1 * filth
+$ 4510 1 * be filthy
+$ 4511 3 * issue
+$ 4512 1 * wrinkle
+$ 4513 1 * Latin
+$ 4514 12 <Rwma\~ios of Rome ; Roman
+$ 4515 1 * Latin
+$ 4516 8 * Rome
+$ 4517 2 * farewell
+$ 4518 2 * sabachthani
+$ 4519 2 * sabaoth
+$ 4520 1 * rest
+$ 4521 68 s'abbaton sabbath ; sabbath (day) ; week
+$ 4522 1 * net
+$ 4523 13 Saddouka\~ios Sadducee
+$ 4524 2 * Sadoc
+$ 4525 1 * move
+$ 4526 4 * sackcloth
+$ 4527 1 * Sala
+$ 4528 3 * Salathiel
+$ 4529 1 * Salamis
+$ 4530 0 * Salim
+$ 4531 15 sale'uw shake (together) ; move ; stir up ; which can (-not) be shaken
+$ 4532 3 * Salem
+$ 4533 3 * Salmon
+$ 4534 1 * Salmone
+$ 4535 1 * wave
+$ 4536 11 s'alpigx trump (-et)
+$ 4537 12 salp'izw sound (a trumpet) ; which are yet to sound
+$ 4538 1 * trumpeter
+$ 4539 2 * Salome
+$ 4540 11 Sam'areia Samaria
+$ 4541 9 * Samaritan
+$ 4542 2 * of Samaria
+$ 4543 1 * Samothracia
+$ 4544 1 * Samos
+$ 4545 3 * Samuel
+$ 4546 1 * Samson
+$ 4547 2 * sandal
+$ 4548 1 * board
+$ 4549 9 * Saul
+$ 4550 8 * corrupt ; bad
+$ 4551 1 * Sapphira
+$ 4552 1 * sapphire
+$ 4553 1 * basket
+$ 4554 3 * Sardis
+$ 4555 0 * sardine
+$ 4556 2 * sardius
+$ 4557 1 * sardonyx
+$ 4558 1 * Sarepta
+$ 4559 11 sarkik'os carnal
+$ 4560 1 * fleshly
+$ 4561 150 s'arx flesh ; carnal (-ly minded) ; fleshly
+$ 4562 1 * Saruch
+$ 4563 3 * sweep
+$ 4564 4 * Sarah ; Sara
+$ 4565 1 * Saron
+$ 4566 1 * Satan
+$ 4567 36 Satan\~as Satan
+$ 4568 2 * measure
+$ 4569 17 Sa\~ulos Saul
+$ 4570 8 * quench ; go out
+$ 4571 0 * thee ; thou ; thy house
+$ 4572 41 seauto\~u of thyself ; (thou) thyself ; thee ; thine own self ; thy
+$ 4573 1 * worship
+$ 4574 2 * that is worshipped ; devotion
+$ 4575 3 * Augustus
+$ 4576 10 * worship ; devout ; religious
+$ 4577 1 * chain
+$ 4578 13 seism'os earthquake/tempest
+$ 4579 5 * shake ; move ; quake
+$ 4580 1 * Secundus
+$ 4581 1 * Seleucia
+$ 4582 9 * moon
+$ 4583 2 * be lunatic
+$ 4584 1 * Semei
+$ 4585 1 * fine flour
+$ 4586 4 * honest ; grave
+$ 4587 3 * honesty ; gravity
+$ 4588 1 * Sergius
+$ 4589 1 * Seth
+$ 4590 1 * Sem
+$ 4591 6 * signify
+$ 4592 77 shme\~ion sign ; miracle ; token ; wonder
+$ 4593 1 * note
+$ 4594 41 s'hmeron today ; this day
+$ 4595 1 * be corrupted
+$ 4596 1 * silk
+$ 4597 3 * moth
+$ 4598 1 * motheaten
+$ 4599 1 * strengthen
+$ 4600 2 * cheek
+$ 4601 9 * keep silent ; hold peace ; keep close ; keep secret
+$ 4602 2 * silence
+$ 4603 5 * (of) iron
+$ 4604 1 * iron
+$ 4605 11 Sid'wn Sidon
+$ 4606 1 * of Sidon
+$ 4607 1 * murderer
+$ 4608 1 * strong drink
+$ 4609 12 S'ilas Silas
+$ 4610 4 * Silvanus
+$ 4611 3 * Siloam
+$ 4612 1 * apron
+$ 4613 76 S'imwn Simon
+$ 4614 4 * Sina
+$ 4615 5 * mustard
+$ 4616 6 * (fine) linen (cloth)
+$ 4617 1 * sift
+$ 4618 3 * fatted
+$ 4619 1 * fatling
+$ 4620 1 * portion of meat
+$ 4621 14 s\~itos wheat ; corn
+$ 4622 7 * Sion
+$ 4623 11 siwp'aw dumb ; (hold) peace
+$ 4624 30 skandal'izw (make to) offend
+$ 4625 15 sk'andalon stumblingblock ; occasion to fall (of stumbling) ; offence ; thing that offends
+$ 4626 3 * dig
+$ 4627 3 * boat
+$ 4628 3 * leg
+$ 4629 1 * raiment
+$ 4630 1 * Sceva
+$ 4631 1 * tackling
+$ 4632 23 ske\~uos vessel ; goods ; sail ; stuff
+$ 4633 20 skhn'h tabernacle ; habitation
+$ 4634 1 * tabernacles
+$ 4635 1 * tentmaker
+$ 4636 2 * tabernacle
+$ 4637 5 * dwell
+$ 4638 3 * tabernacle
+$ 4639 7 * shadow
+$ 4640 3 * leap (for joy)
+$ 4641 3 * hardness of heart
+$ 4642 5 * hard ; fierce
+$ 4643 1 * hardness
+$ 4644 1 * stiffnecked
+$ 4645 6 * harden
+$ 4646 4 * crooked ; froward ; untoward
+$ 4647 1 * torn
+$ 4648 6 * mark ; consider ; look at ; look on ; take heed
+$ 4649 1 * mark
+$ 4650 5 * disperse abroad ; scatter (abroad)
+$ 4651 5 * scorpion
+$ 4652 3 * dark ; full of darkness
+$ 4653 16 skot'ia dark (-ness)
+$ 4654 8 * darken
+$ 4655 32 sk'otos darkness
+$ 4656 1 * be full of darkness
+$ 4657 1 * dung
+$ 4658 1 * Scythian
+$ 4659 2 * of a sad countenance
+$ 4660 4 * trouble (self)
+$ 4661 1 * spoil
+$ 4662 1 * eaten of worms
+$ 4663 3 * worm
+$ 4664 1 * emerald
+$ 4665 1 * emerald
+$ 4666 2 * myrrh
+$ 4667 2 * Smyrna
+$ 4668 0 * in Smyrna
+$ 4669 1 * mingle with myrrh
+$ 4670 10 * Sodom
+$ 4671 0 * to thee ; thee ; thine own ; thou ; thy
+$ 4672 12 Solom'wn Solomon
+$ 4673 1 * bier
+$ 4674 26 s'os thine ;  thine own ; thy (friend)
+$ 4675 0 * thy ; home; thee ; thine (own) ; thou ; thy
+$ 4676 4 * handkerchief ; napkin
+$ 4677 1 * Susanna
+$ 4678 51 sof'ia wisdom
+$ 4679 2 * make wise ; cunningly devised
+$ 4680 22 sof'os wise
+$ 4681 2 * Spain
+$ 4682 4 * rend ; tear
+$ 4683 2 * wrap in swaddling clothes
+$ 4684 2 * live in pleasure ; be wanton
+$ 4685 2 * draw (out)
+$ 4686 7 * band
+$ 4687 53 spe'irw sow ; receive seed ; sow (-er)
+$ 4688 1 * executioner
+$ 4689 2 * be offered ; be ready to be offered
+$ 4690 44 sp'erma seed ; issue
+$ 4691 1 * babbler
+$ 4692 6 * make haste unto ; with haste unto
+$ 4693 6 * den ; cave
+$ 4694 1 * reef ; ledge ; spot
+$ 4695 2 * defile ; spot
+$ 4696 2 * spot
+$ 4697 12 splagqn'izomai merciful ; be moved with compassion ; compassionate ; have compassion
+$ 4698 11 spl'agqnon bowels ; inward affection ; tender mercy
+$ 4699 3 * spunge
+$ 4700 3 * ashes
+$ 4701 1 * seed
+$ 4702 3 * corn (-field)
+$ 4703 5 * seed (sown)
+$ 4704 11 spoud'azw be diligent ; be forward ; do diligence ; endeavour ; give diligence ; labour ; study
+$ 4705 2 * diligent
+$ 4706 2 * very diligently
+$ 4707 0 * more diligent ; more forward
+$ 4708 1 * more carefully
+$ 4709 2 * diligently ; instantly
+$ 4710 12 spoud'h diligence ; (earnest) care ; business ; carefulness ; forwardness ; haste
+$ 4711 5 * basket
+$ 4712 6 * furlong ; race
+$ 4713 1 * pot
+$ 4714 9 * a standing ; dissension ; insurrection ; uproar
+$ 4715 1 * piece of money
+$ 4716 28 staur'os cross
+$ 4717 46 staur'ow crucify
+$ 4718 3 * grapes
+$ 4719 5 * ear (of corn)
+$ 4720 1 * Stachys
+$ 4721 3 * roof
+$ 4722 4 * (for-) bear ; suffer
+$ 4723 4 * barren
+$ 4724 2 * avoid ; withdraw self
+$ 4725 1 * garland
+$ 4726 2 * groaning
+$ 4727 6 * groan ; grudge ; sigh ; with grief
+$ 4728 3 * strait
+$ 4729 3 * distress ; straiten
+$ 4730 4 * distress ; anguish
+$ 4731 4 * stedfast ; strong ; sure
+$ 4732 3 * establish ; make strong ; receive strength
+$ 4733 1 * stedfastness
+$ 4734 3 * Stephanas
+$ 4735 18 st'efanos crown
+$ 4736 7 * Stephen
+$ 4737 3 * crown
+$ 4738 5 * breast
+$ 4739 8 * stand (fast)
+$ 4740 1 * stedfastness
+$ 4741 13 sthr'izw stedfastly set ; (e-) stablish ; fix ; strengthen
+$ 4742 1 * mark
+$ 4743 1 * moment
+$ 4744 1 * shining
+$ 4745 4 * porch
+$ 4746 1 * branch
+$ 4747 7 * element ; principle ; rudiment
+$ 4748 5 * walk (orderly)
+$ 4749 8 * (long) robe ; long clothing ; long garment
+$ 4750 79 st'oma mouth ; edge ; face
+$ 4751 1 * stomach
+$ 4752 2 * warfare
+$ 4753 8 * army ; man of war ; soldier
+$ 4754 7 * soldier ; (go to) war ; warfare
+$ 4755 10 * captain ; magistrate
+$ 4756 2 * host
+$ 4757 26 strati'wths soldier
+$ 4758 1 * choose to be a soldier
+$ 4759 1 * captain of the guard
+$ 4760 1 * army
+$ 4761 1 * wrest
+$ 4762 19 str'efw turn self about ; convert ; turn again ; turn back again ; turn self
+$ 4763 2 * live deliciously
+$ 4764 1 * delicacy
+$ 4765 4 * sparrow
+$ 4766 7 * spread ; furnish ; make bed ; strew
+$ 4767 1 * hateful
+$ 4768 2 * be sad ; lower
+$ 4769 4 * pillar
+$ 4770 1 * Stoick
+$ 4771 2969 s'u you ; thou
+$ 4772 3 * kindred
+$ 4773 12 suggen'hs kinsman ; cousin ; kin ; kinsfolk
+$ 4774 1 * permission
+$ 4775 2 * sit with
+$ 4776 2 * sit together ; make sit down together
+$ 4777 1 * be partaker of afflictions
+$ 4778 1 * softer affliction with
+$ 4779 8 * call together
+$ 4780 1 * cover
+$ 4781 1 * bow down
+$ 4782 1 * go down with
+$ 4783 1 * agreement
+$ 4784 1 * consent
+$ 4785 1 * number with
+$ 4786 2 * together
+$ 4787 1 * stir up
+$ 4788 4 * shut up (together) ; conclude ; inclose
+$ 4789 4 * joint-heir ; fellow-heir ; heir together ; heir with
+$ 4790 3 * have fellowship with ; be partaker of ; communicate with
+$ 4791 3 * companion ; partake (-r) ; partaker with
+$ 4792 1 * carry
+$ 4793 3 * compare with ; compare among
+$ 4794 1 * bow together
+$ 4795 1 * chance
+$ 4796 7 * rejoice in ; rejoice with
+$ 4797 5 * confuse ; be in an uproar ; confound ; stir up
+$ 4798 1 * have dealings with
+$ 4799 1 * confusion
+$ 4800 3 * live with
+$ 4801 2 * join together
+$ 4802 10 * reason (together) ; dispute (with) ; enquire ; question (with)
+$ 4803 2 * reasoning ; disputation ; disputing
+$ 4804 1 * disputer
+$ 4805 1 * yokefellow
+$ 4806 2 * quicken together with
+$ 4807 1 * sycamine tree
+$ 4808 16 suk\~h fig tree
+$ 4809 1 * sycamore tree
+$ 4810 4 * fig
+$ 4811 2 * accuse falsely ; take by false accusation
+$ 4812 1 * spoil
+$ 4813 1 * rob
+$ 4814 6 * talk with ; commune with ; confer with ; speak among
+$ 4815 16 sullamb'anw clasp ; catch ; conceive ; help ; take
+$ 4816 8 * gather (together) ; gather up
+$ 4817 1 * reason with
+$ 4818 1 * be grieved
+$ 4819 8 * happen (unto) ; be (-fall)
+$ 4820 6 * encounter ; confer ; help ; make ; meet with ; ponder
+$ 4821 2 * reign with
+$ 4822 6 * compact ; assuredly gather ; instruct ; knit together ; prove
+$ 4823 5 * counsel (together) ; consult ; give counsel ; take counsel
+$ 4824 8 * council ; consulation ; counsel
+$ 4825 1 * counsellor
+$ 4826 7 * Simon ; Simeon
+$ 4827 1 * fellowdisciple
+$ 4828 3 * bear witness (with) ; also bear witness ; testify unto
+$ 4829 1 * be partaker with
+$ 4830 2 * partaker
+$ 4831 1 * follower together
+$ 4832 2 * conformed to ; fashioned like unto
+$ 4833 1 * make conformable unto
+$ 4834 2 * have compassion ; be touched with a feeling of
+$ 4835 1 * having compassion one of another
+$ 4836 2 * come together ; stand with
+$ 4837 1 * comfort together
+$ 4838 4 * take with
+$ 4839 1 * continue with
+$ 4840 1 * be here present with
+$ 4841 2 * suffer with
+$ 4842 2 * send with
+$ 4843 1 * embrace
+$ 4844 1 * drink with
+$ 4845 3 * fill up ; (fully) come
+$ 4846 5 * choke ; throng
+$ 4847 1 * fellowcitizen
+$ 4848 4 * go with ; resort
+$ 4849 2 * company
+$ 4850 1 * presbyter
+$ 4851 17 sumf'erw be profitable for ; be better for ; be expedient (for) ; be good ; bring together ; profit
+$ 4852 1 * consent unto
+$ 4853 1 * countryman
+$ 4854 1 * planted together
+$ 4855 1 * spring up with
+$ 4856 6 * agree (together) ; agree with
+$ 4857 1 * concord
+$ 4858 1 * music
+$ 4859 1 * consent
+$ 4860 1 * reckon
+$ 4861 1 * like-minded
+$ 4862 126 s'un with ; beside
+$ 4863 61 sun'agw assemble ; accompany ; assemble (together) ; assemble selves ; bestwo ; come together ; gather selves together ; gather together ; gather up ; lead into ; resort ; take in
+$ 4864 57 sunagwg'h assembly ; congregation ; synagogue
+$ 4865 1 * strive together with
+$ 4866 2 * strive together for ; labour with
+$ 4867 3 * gather together ; call together
+$ 4868 3 * reckon ; take
+$ 4869 3 * fellowprisoner
+$ 4870 2 * follow
+$ 4871 1 * assemble together
+$ 4872 2 * come up with
+$ 4873 8 * sit (together) with (at meat) ; sit at the table with ; sit down with ; sit together with ; sit with at meat
+$ 4874 3 * have company (with) ; keep company
+$ 4875 1 * refresh with
+$ 4876 6 * meet ; befall
+$ 4877 1 * meet
+$ 4878 2 * help
+$ 4879 3 * carry away with ; condescend ; lead away with
+$ 4880 3 * be dead with ; die with
+$ 4881 1 * perish with
+$ 4882 1 * send with
+$ 4883 2 * joined together ; be fitly framed together
+$ 4884 4 * catch
+$ 4885 1 * grow together
+$ 4886 4 * bond ; band
+$ 4887 1 * be bound with
+$ 4888 1 * glorify together
+$ 4889 10 * fellowservant
+$ 4890 1 * run together
+$ 4891 3 * raise up together ; rise with
+$ 4892 22 sun'edrion council
+$ 4893 32 sune'idhsis conscience
+$ 4894 4 * know ; be privy ; be ware of ; consider
+$ 4895 2 * be with
+$ 4896 1 * gather together
+$ 4897 2 * go in with ; go with into
+$ 4898 2 * companion in travel ; travel with
+$ 4899 1 * elected together with
+$ 4900 1 * set at one again
+$ 4901 1 * also bear witness
+$ 4902 1 * accompany
+$ 4903 5 * work together ; help (work) with ; worker together
+$ 4904 13 sunerg'os fellowlabourer ; companion in labour ; fellowhelper ; fellowworker ; labourer together with ; workfellow
+$ 4905 32 sun'erqomai come together ; accompany ; assemble (with) ; come (together) ; come with ; company with ; go with ; resort
+$ 4906 5 * eat with
+$ 4907 7 * knowledge ; understanding
+$ 4908 4 * prudent
+$ 4909 6 * assent ; allow ; be pleased ; have pleasure
+$ 4910 2 * feast with
+$ 4911 1 * rise up together
+$ 4912 12 sun'eqw be taken with ; be in a strait ; constrain ; hold ; keep in ; lie sick of ; press ; stop ; straiten ; throng
+$ 4913 1 * delight
+$ 4914 2 * custom
+$ 4915 1 * equal
+$ 4916 2 * bury with
+$ 4917 2 * break
+$ 4918 2 * throng
+$ 4919 1 * break
+$ 4920 26 sun'ihmi understand ; be wise ; consider
+$ 4921 16 sunist'aw commend ; approve ; consist ; make ; stand (with)
+$ 4922 1 * journey with
+$ 4923 1 * company
+$ 4924 1 * dwell together
+$ 4925 1 * build together
+$ 4926 1 * talk with
+$ 4927 1 * join hard
+$ 4928 2 * distress ; anguish
+$ 4929 2 * appoint
+$ 4930 6 * end
+$ 4931 7 * end ; finish ; fulfil ; make
+$ 4932 2 * (cut) short
+$ 4933 4 * preserve ; keep ; observe
+$ 4934 4 * assent ; agree ; covenant
+$ 4935 1 * a few words
+$ 4936 3 * run (together) ; run with
+$ 4937 8 * break (in pieces) ; broken to shivers ; broken-hearted ; bruise
+$ 4938 1 * destruction
+$ 4939 1 * brought up with
+$ 4940 1 * come at
+$ 4941 1 * Syntyche
+$ 4942 1 * dissemble with
+$ 4943 1 * help together
+$ 4944 1 * travail in pain together
+$ 4945 1 * conspiracy
+$ 4946 1 * Syracuse
+$ 4947 8 * Syria
+$ 4948 1 * Syrian
+$ 4949 1 * Syrophenician
+$ 4950 1 * quicksands
+$ 4951 5 * drag ; draw ; hale
+$ 4952 1 * throw down
+$ 4953 1 * token
+$ 4954 1 * of the same body
+$ 4955 1 * make insurrection with
+$ 4956 2 * of commendation
+$ 4957 5 * crucify with
+$ 4958 2 * wind up ; short
+$ 4959 1 * groan together
+$ 4960 1 * answer to
+$ 4961 2 * fellowsoldier
+$ 4962 1 * gather
+$ 4963 2 * band together ; concourse
+$ 4964 2 * fashion self according to ; conform to
+$ 4965 1 * Sychar
+$ 4966 2 * Syehem
+$ 4967 3 * slaughter
+$ 4968 1 * slain beast
+$ 4969 10 * slay ; kill ; wound
+$ 4970 11 sf'odra exceeding (-ly) ; greatly ; sore ; very
+$ 4971 1 * exceedingly
+$ 4972 15 sfrag'izw seal up ; set a seal ; set to seal
+$ 4973 16 sfrag'is seal
+$ 4974 1 * ankle bone
+$ 4975 3 * almost
+$ 4976 2 * fashion
+$ 4977 10 * divide ; break ; make a rent ; open ; rend
+$ 4978 8 * division ; rent ; schism
+$ 4979 2 * rope ; small cord
+$ 4980 2 * give self ; empty
+$ 4981 1 * school
+$ 4982 109 s'wzw save ; be whole ; do well ; heal ; make whole ; preserve ; save self
+$ 4983 146 s\~wma body ; bodily ; slave
+$ 4984 2 * bodily
+$ 4985 1 * bodily
+$ 4986 1 * Sopater
+$ 4987 2 * heap ; load
+$ 4988 2 * Sosthenes
+$ 4989 1 * Sosipater
+$ 4990 23 swt'hr savior
+$ 4991 46 swthr'ia salvation ; deliver ; health ; save ; saving
+$ 4992 5 * salvation
+$ 4993 6 * be in right mind ; be sober (minded) ; soberly
+$ 4994 1 * teach to be sober
+$ 4995 1 * sound mind
+$ 4996 1 * soberly
+$ 4997 3 * soberness ; sobriety
+$ 4998 4 * sober ; discreet ; temperate
+$ 4999 1 * taverns
+$ 5000 2 * Tabitha
+$ 5001 1 * order
+$ 5002 1 * set
+$ 5003 1 * be afllicted
+$ 5004 2 * misery
+$ 5005 2 * wretched
+$ 5006 1 * weight of a talent
+$ 5007 15 t'alanton talent
+$ 5008 1 * talitha
+$ 5009 4 * closet ; secret chamber ; storehouse
+$ 5010 10 * order
+$ 5011 8 * humble ; base ; cast down ; lowly ; of low degree ; of low estate
+$ 5012 7 * humbleness of mind ; humility (of mind) ; lowliness (of mind)
+$ 5013 14 tapein'ow humble (self) ; abase ; bring low
+$ 5014 4 * humiliation ; be made low ; low estate ; vile
+$ 5015 17 tar'assw trouble
+$ 5016 2 * trouble ; troubling
+$ 5017 2 * stir
+$ 5018 2 * of Tarsus
+$ 5019 3 * Tarsus
+$ 5020 1 * cast down to hell
+$ 5021 9 * appoint ; addict ; determine ; ordain ; set
+$ 5022 4 * bull ; ox
+$ 5023 0 * these ; afterward ; follow ; hereafter ; him ; so ; such ; that ; the same ; then ; they ; this ; those ; thus
+$ 5024 0 * (manner) like ; even thus ; so
+$ 5025 0 * these ; hence ; that ; then ; those
+$ 5026 0 * this ; her ; hereof ; it ; that ; the (same) ; thereby ; this same
+$ 5027 1 * bury
+$ 5028 7 * tomb ; sepulchre
+$ 5029 2 * perhaps ; peradventure
+$ 5030 10 * quickly ; hastily ; shortly ; soon ; suddenly
+$ 5031 2 * swift ; shortly
+$ 5032 5 * quickly ; out (run) ; shortly ; sooner
+$ 5033 1 * with all speed
+$ 5034 7 * quickly ; shortly ; speedily
+$ 5035 12 taq'u quickly ; lightly
+$ 5036 1 * swift
+$ 5037 208 te also ; and ; both ; even ; then ; whether
+$ 5038 9 * wall
+$ 5039 1 * infallible proof
+$ 5040 9 * little children
+$ 5041 1 * heal children
+$ 5042 1 * childbearing
+$ 5043 99 t'eknon child ; daughter ; son
+$ 5044 1 * bring up children
+$ 5045 2 * carpenter
+$ 5046 19 t'eleios perfect ; man ; of full age
+$ 5047 2 * perfection ; perfectionness
+$ 5048 24 telei'ow (make) perfect ; consecrate ; finish ; fulfil
+$ 5049 1 * to the end
+$ 5050 2 * perfection ; performance
+$ 5051 1 * finisher
+$ 5052 1 * bring fruit to perfection
+$ 5053 12 teleut'aw die ; be dead ; decease
+$ 5054 1 * death
+$ 5055 26 tel'ew finish ; accomplish ; expire ; fill up ; go over ; make an end ; pay ; perform
+$ 5056 41 t'elos end ; continual ; custom ; ending ; finally ; uttermost
+$ 5057 22 tel'wnhs publican
+$ 5058 3 * receipt of custom
+$ 5059 16 t'eras wonder
+$ 5060 1 * Teritus
+$ 5061 2 * Tertullus
+$ 5062 22 tessar'akonta forty
+$ 5063 2 * forty years (old) ; full years old ; of forty years old
+$ 5064 41 t'essares four
+$ 5065 2 * fourteenth
+$ 5066 1 * four days
+$ 5067 10 * four (-th)
+$ 5068 1 * foursquare
+$ 5069 1 * quaternion
+$ 5070 5 * four thousand
+$ 5071 4 * four hundred
+$ 5072 1 * four months
+$ 5073 1 * fourfold
+$ 5074 3 * fourfooted beast
+$ 5075 3 * (be) tetrarch
+$ 5076 4 * tetrarch
+$ 5077 1 * turn to ashes
+$ 5078 3 * craft ; art ; occupation
+$ 5079 4 * craftsman ; builder
+$ 5080 1 * melt
+$ 5081 1 * clearly
+$ 5082 4 * so great ; so mighty
+$ 5083 75 thr'ew host fast ; guard ; keep (-er) ; observe ; preserve ; reserve ; watch
+$ 5084 3 * hold
+$ 5085 3 * Tiberias
+$ 5086 1 * Tiberius
+$ 5087 97 t'ijhmi put ; advise ; appoint ; bow ; commit ; conceive ; give ; kneel down ; lay aside ; lay down ; lay up ; make ; ordain ; purpose ; set (forth) ; settle ; sink down
+$ 5088 19 t'iktw bring forth ; be born ; be delievered ; be in travail ; bear
+$ 5089 3 * pluck
+$ 5090 1 * Timaeus
+$ 5091 21 tim'aw honour ; value
+$ 5092 42 tim'h honor ; honour ; precious ; price ; some
+$ 5093 14 t'imios honourable ; dear ; had in reputation ; more precious ; most precious ; precious
+$ 5094 1 * costliness
+$ 5095 24 Tim'ojeos Timothy ; Timotheus
+$ 5096 1 * Timon
+$ 5097 2 * punish
+$ 5098 1 * punishment
+$ 5099 1 * be punished with
+$ 5100 540 tis certain ; (every) man ; (that no) thing ; a (kind of) ; any ; any man ; any thing ; any thing at all ; certain thing ; divers ; one (thing) ; ought ; partly ; some ; some man ; somebody ; something ; somewhat ; what (-soever) ; wherewtih ; whom (-soever) ; whose (-soever)
+$ 5101 568 t'is what ; every man ; how (much) ; none ; nothing ; what manner ; what thing ; where unto ; whereby ; wherefore ; whereof ; wherewithal ; whether ; which ; who ; whom ; whose ; why ; withwith
+$ 5102 2 * title
+$ 5103 13 Titos Titus
+$ 5104 0 * soothed
+$ 5105 2 * therefore ; wherefore
+$ 5106 4 * therefore ; then
+$ 5107 1 * such
+$ 5108 61 toio\~utos such ; like ; such (an one)
+$ 5109 1 * wall
+$ 5110 2 * usury
+$ 5111 16 tolm'aw boldly ; be bold ; dare ; durst
+$ 5112 1 * the more boldly
+$ 5113 1 * presumptuous
+$ 5114 1 * sharper
+$ 5115 1 * bow
+$ 5116 1 * topaz
+$ 5117 94 t'opos place ; coast ; licence ; plain ; quarter ; rock ; room ; where
+$ 5118 20 toso\~utos so great ; as large ; so long ; so many ; so much ; these many
+$ 5119 158 t'ote that time ; then
+$ 5120 0 * his
+$ 5121 3 * contrariwise
+$ 5122 1 * named
+$ 5123 0 * that is (to say)
+$ 5124 0 * this ; here (-unto) ; it ; partly ; self (-same) ; so ; that (intent) ; the same ; there (-fore) ; thereunto ; thus ; where (-fore)
+$ 5125 0 * these ; such ; them ; there ; therein ; therewith ; this ; those
+$ 5126 0 * this ; him ; that ; the same
+$ 5127 0 * this ; here (-by) ; him ; it ; such manner of ; that ; thence (-forth) ; thereabout ; thus
+$ 5128 0 * these ; such ; them ; this
+$ 5129 0 * this ; hereby ; herein ; him ; one ; the same ; there (-in)
+$ 5130 0 * these ; such ; their ; these things ; they ; this sort ; those
+$ 5131 4 * goat
+$ 5132 15 tr'apeza table ; bank ; meat
+$ 5133 1 * exchanger
+$ 5134 1 * wound
+$ 5135 2 * wound
+$ 5136 1 * opened
+$ 5137 7 * neck
+$ 5138 2 * rough ; rock
+$ 5139 1 * Trachonitis
+$ 5140 66 tre\~is three
+$ 5141 3 * trembling ; be afraid
+$ 5142 7 * nourish ; bring up ; feed
+$ 5143 20 tr'eqw run ; have course
+$ 5144 11 tri'akonta thirty
+$ 5145 2 * three hundred
+$ 5146 2 * caltrop ; brier ; thistle
+$ 5147 3 * path
+$ 5148 1 * space of three years
+$ 5149 1 * gnash
+$ 5150 1 * three months
+$ 5151 12 tr'is three times ; thrice
+$ 5152 1 * third loft
+$ 5153 1 * three thousand
+$ 5154 58 tr'itos third ; third (-ly)
+$ 5155 1 * of hair
+$ 5156 5 * tremble ; trembling
+$ 5157 1 * turning
+$ 5158 13 tr'opos (like) manner ; (by any) means ; (even) as ; conversation ; way
+$ 5159 1 * suffer the manners
+$ 5160 16 trof'h food ; meat
+$ 5161 3 * Trophimus
+$ 5162 1 * nurse
+$ 5163 1 * path
+$ 5164 1 * course
+$ 5165 2 * dish
+$ 5166 3 * gather
+$ 5167 1 * turtle-dove
+$ 5168 2 * eye
+$ 5169 1 * eye
+$ 5170 1 * Tryphena
+$ 5171 1 * live in pleasure
+$ 5172 2 * delicately ; riot
+$ 5173 1 * Tryphosa
+$ 5174 6 * Troas
+$ 5175 1 * Trogyllium
+$ 5176 6 * eat
+$ 5177 13 tugq'anw chance ; be ; enjoy ; little ; obtain ; refresh ... self ; special
+$ 5178 1 * torture
+$ 5179 16 t'upos form ; ensample ; example ; fashion ; figure ; manner ; pattern ; print
+$ 5180 14 t'uptw beat ; smite ; strike ; wound
+$ 5181 1 * Tryannus
+$ 5182 1 * trouble
+$ 5183 1 * of Tyre
+$ 5184 11 T'uros Tyre
+$ 5185 53 tufl'os blind
+$ 5186 3 * blind
+$ 5187 3 * be proud ; be listed up with pride ; high-minded
+$ 5188 1 * smoke
+$ 5189 1 * tempestuous
+$ 5190 5 * Tychicus
+$ 5191 1 * jacinth
+$ 5192 1 * jacinth
+$ 5193 3 * of glass
+$ 5194 2 * glass
+$ 5195 5 * use despitefully ; entreat shamefully ; entreat spitefully ; reproach
+$ 5196 3 * harm ; hurt ; reproach
+$ 5197 2 * despiteful ; injurious
+$ 5198 12 <ugia'inw whole (-some) ; (be safe and) sound ; (be) whole ; be in health
+$ 5199 14 <ugi'hs whole ; sound
+$ 5200 1 * green
+$ 5201 3 * waterpot
+$ 5202 1 * drink water
+$ 5203 1 * have the dropsy
+$ 5204 79 '<udwr water
+$ 5205 6 * rain
+$ 5206 5 * adoption ; adoption of children ; adoption of sons
+$ 5207 381 u<i'os son ; child ; foal
+$ 5208 1 * matter
+$ 5209 0 * you ; ye ; your (own) ; youward
+$ 5210 0 * you ; ye (yourselves)
+$ 5211 2 * Hymenceus
+$ 5212 10 * your (own)
+$ 5213 0 * you ; ye ; your (-selves)
+$ 5214 4 * sing an hymn ; sing praise unto
+$ 5215 2 * hymn
+$ 5216 0 * you ; ye ; your (own ) ; yourselves
+$ 5217 81 <up'agw depart ; get hence ; go (a-) way
+$ 5218 15 <upako'h obedience ; (make) obedient ; obey (-ing)
+$ 5219 21 <upako'uw obey ; be obedient to ; hearken
+$ 5220 1 * which hath an husband
+$ 5221 5 * (go to) meet
+$ 5222 1 * meeting
+$ 5223 2 * goods ; substance
+$ 5224 13 <up'arqonta goods ; substance ; that hast ; that which one has ; things with (one) possesseth
+$ 5225 49 <up'arqw begin ; after; behave ; live
+$ 5226 1 * submit self
+$ 5227 2 * adversary
+$ 5228 159 <up'er over ; (exceeding abundantly) above ; beyond ; by ; concerning ; exceeding above ; exceedingly ; for ; for sake of ; in behalf of ; in stead ; more (than) ; of ; on behalf of ; on the part of ; than ; to (-ward) ; very ; very chiefest ; very highest
+$ 5229 3 * exalt self ; be exalted above measure
+$ 5230 1 * past the flower of (her) age
+$ 5231 3 * far above ; over
+$ 5232 1 * grow exceedingly
+$ 5233 1 * go beyond
+$ 5234 1 * beyond measure
+$ 5235 5 * excel ; exceeding ; pass
+$ 5236 8 * (far more) exceeding ; abundance ; beyond measure ; excellency ; more excellent ; out of measure
+$ 5237 1 * wink at
+$ 5238 1 * beyond
+$ 5239 1 * stretch beyond
+$ 5240 1 * run over
+$ 5241 1 * make intercession for
+$ 5242 5 * better ; excellency ; higher ; pass; supreme
+$ 5243 1 * pride
+$ 5244 5 * proud
+$ 5245 1 * more than conquer
+$ 5246 2 * great swelling
+$ 5247 2 * excellency ; authority
+$ 5248 2 * exceeding ; abound much more
+$ 5249 1 * beyond measure
+$ 5250 1 * be exceeding abundant
+$ 5251 1 * highly exalt
+$ 5252 1 * think more highly
+$ 5253 4 * upper room ; upper chamber
+$ 5254 1 * suffer
+$ 5255 3 * obedient
+$ 5256 3 * minister (unto) ; serve
+$ 5257 20 <uphr'eths minister ; officer ; servant
+$ 5258 6 * sleep
+$ 5259 229 <up'o under ; among ; by ; from ; in ; of ; with
+$ 5260 1 * suborn
+$ 5261 1 * example
+$ 5262 6 * example ; ensample ; pattern
+$ 5263 6 * show ; (fore-) warn
+$ 5264 4 * receive
+$ 5265 3 * (be) shod ; bind on
+$ 5266 10 * shoe
+$ 5267 1 * guilty
+$ 5268 2 * ass
+$ 5269 1 * undergirt
+$ 5270 9 * under
+$ 5271 1 * feign
+$ 5272 7 * hypocrisy ; condemnation ; dissimulation
+$ 5273 20 <upokrit'hs hypocrite
+$ 5274 4 * answer ; receive ; suppose
+$ 5275 1 * be left
+$ 5276 1 * winefat
+$ 5277 1 * leave
+$ 5278 17 <upom'enw endure ; (take) patient (-ly) ; abide ; suffer ; tarry behind
+$ 5279 7 * bring to remembrance ; put in mind ; put in remembrance ; remember
+$ 5280 3 * remembrance
+$ 5281 32 <upomon'h endurance ; (patiently) enduring ; patience ; patient continuance ; patient waiting
+$ 5282 3 * suppose ; deem ; think
+$ 5283 1 * surmising
+$ 5284 2 * sail under
+$ 5285 1 * blow softly
+$ 5286 9 * footstool
+$ 5287 5 * confidence ; confident ; person ; substance
+$ 5288 4 * withdraw ; draw back ; keep back ; shun
+$ 5289 1 * draw back
+$ 5290 37 <upostr'efw return ; come again ; return (again) ; return back again ; turn back (again)
+$ 5291 1 * spread
+$ 5292 4 * subjection
+$ 5293 40 <upot'assw submit ; be in subjection to ; be obedient ; be subject to ; be under obedience ; make subject unto ; put in subjection under ; put under ; subdue unto ; submit self unto
+$ 5294 2 * lay down ; put in remembrance
+$ 5295 1 * run under
+$ 5296 2 * form ; pattern
+$ 5297 3 * bear ; endure
+$ 5298 2 * withdraw self ; go aside
+$ 5299 2 * weary ; keep under
+$ 5300 1 * sow (hog)
+$ 5301 2 * hyssop
+$ 5302 16 <uster'ew come behind ; (be in) want ; be destitute ; be the worse ; come short ; fail ; lack ; suffer need
+$ 5303 9 * lack ; penury ; that which was lacking ; that which is behind ; want
+$ 5304 2 * want
+$ 5305 12 '<usteron afterward ; (at the) last (of all)
+$ 5306 1 * latter
+$ 5307 1 * woven
+$ 5308 11 <uyhl'os high (esteemed) ; higher esteemed ; highly esteemed
+$ 5309 2 * be highminded
+$ 5310 13 '<uyistos most high ; highest
+$ 5311 6 * height ; (on) high ; be exalted
+$ 5312 20 <uy'ow lift up ; exalt
+$ 5313 2 * high thing ; height
+$ 5314 2 * gluttonous
+$ 5315 97 f'agw eat ; meat
+$ 5316 32 fa'inw appear ; be seen ; seem ; shine ; think
+$ 5317 1 * Phalec
+$ 5318 20 faner'os manifest ; abroad ; appear ; known ; open (-ly) ; outwardly ; outward
+$ 5319 49 faner'ow manifest ; (make) manifest ; appear ; manifestly declare ; manifest forth ; shew (self)
+$ 5320 3 * openly ; evidently
+$ 5321 2 * manifestation
+$ 5322 1 * lantern
+$ 5323 1 * Phanuel
+$ 5324 1 * sight
+$ 5325 1 * pomp
+$ 5326 2 * spirit
+$ 5327 1 * valley
+$ 5328 5 * Pharaoh
+$ 5329 3 * Phares
+$ 5330 101 Farisa\~ios Pharisee
+$ 5331 3 * sorcery ; witchcraft
+$ 5332 0 * sorcerer
+$ 5333 2 * sorcerer
+$ 5334 1 * tidings
+$ 5335 3 * affirm ; profess ; say
+$ 5336 4 * stall ; manger
+$ 5337 4 * evil
+$ 5338 3 * light
+$ 5339 9 * forbear ; spare
+$ 5340 2 * sparingly
+$ 5341 1 * cloke
+$ 5342 64 f'erw carry ; be ; be driven ; bear ; bearing (forth) ; come ; endure ; go on ; lay ; lead ; let her drive ; move ; reach ; rushing ; uphold
+$ 5343 31 fe'ugw flee ; escape ; flee (away)
+$ 5344 9 * Felix
+$ 5345 2 * fame
+$ 5346 59 fhm'i say ; affirm
+$ 5347 13 F\~hstos Festus
+$ 5348 7 * (already) attain ; come ; prevent
+$ 5349 6 * corruptible
+$ 5350 3 * speak
+$ 5351 7 * corrupt (self) ; defile ; destroy
+$ 5352 1 * whose fruit withereth
+$ 5353 2 * sound
+$ 5354 1 * envy
+$ 5355 9 * envy
+$ 5356 9 * corruption ; destroy ; perish
+$ 5357 12 fi'alh vial
+$ 5358 1 * love of good men
+$ 5359 2 * Philadelphia
+$ 5360 6 * brotherly love ; brotherly kindness ; love of the brethren
+$ 5361 1 * love as brethren
+$ 5362 1 * love their husbands
+$ 5363 2 * love towards man ; kindness
+$ 5364 1 * courteously
+$ 5365 1 * love of money
+$ 5366 2 * covetous
+$ 5367 1 * lover of own self
+$ 5368 25 fil'ew love ; kiss
+$ 5369 1 * lover of pleasure
+$ 5370 7 * kiss
+$ 5371 1 * Philemon
+$ 5372 1 * Philetus
+$ 5373 1 * friendship
+$ 5374 1 * Philippian
+$ 5375 4 * Philippi
+$ 5376 36 F'ilippos Philip
+$ 5377 1 * lover of God
+$ 5378 1 * Philologus
+$ 5379 1 * strife
+$ 5380 1 * contentious
+$ 5381 2 * hospitality ; entertain strangers
+$ 5382 3 * given to hospitality ; give to use hospitality ; lover of hospitality
+$ 5383 1 * love to have preeminence
+$ 5384 30 f'ilos friend
+$ 5385 1 * philosphy
+$ 5386 1 * philosopher
+$ 5387 1 * kindly affectioned
+$ 5388 1 * love their children
+$ 5389 3 * strive ; labour ; study
+$ 5390 1 * courteously
+$ 5391 1 * courteous
+$ 5392 8 * muzzle
+$ 5393 1 * Phlegon
+$ 5394 2 * set on fire
+$ 5395 7 * flame ; flaming
+$ 5396 1 * prate against
+$ 5397 1 * tattler
+$ 5398 3 * fearful ; terrible
+$ 5399 93 fob'ew fear ; be (sore) afraid ; fear (exceedingly) ; reverence
+$ 5400 1 * fearful sight
+$ 5401 47 f'obos fear ; be afraid ; exceedingly ; terror
+$ 5402 1 * Phebe
+$ 5403 3 * Phenicia ; Phenice
+$ 5404 2 * palm (tree)
+$ 5405 1 * Phenice
+$ 5406 7 * murderer
+$ 5407 12 fone'uw do murder ; kill ; slay
+$ 5408 10 * murder ; be slain with ; slaughter
+$ 5409 6 * wear ; bear
+$ 5410 1 * forum
+$ 5411 5 * tribute
+$ 5412 2 * be heavy laden ; lade
+$ 5413 6 * burden
+$ 5414 0 * lading
+$ 5415 1 * Fortunatus
+$ 5416 1 * scourge
+$ 5417 2 * scourge
+$ 5418 4 * hedge (round about) ; partition
+$ 5419 2 * declare
+$ 5420 3 * stop
+$ 5421 7 * pit ; well
+$ 5422 1 * deceive
+$ 5423 1 * deceiver
+$ 5424 2 * understanding
+$ 5425 1 * tremble
+$ 5426 29 fron'ew be like minded ; (be) care (-ful) ; be of one mind ; be of the same mind ; let this mind ; regard ; savour ; set the affection on ; think
+$ 5427 4 * be minded ; be carnally minded ; be spiritually minded
+$ 5428 2 * wisdom ; prudence
+$ 5429 14 fr'onimos wise (-r)
+$ 5430 1 * wisely
+$ 5431 1 * be careful
+$ 5432 4 * keep (with a garrison)
+$ 5433 1 * rage
+$ 5434 1 * stick
+$ 5435 3 * Phrygia
+$ 5436 1 * Phygellus
+$ 5437 2 * flight
+$ 5438 47 fulak'h guard/prison ; (im-) prison (-ment) ; cage ; hold ; ward ; watch
+$ 5439 1 * imprison
+$ 5440 1 * phylactery
+$ 5441 3 * keeper
+$ 5442 30 ful'assw keep (self) ; beware ; observe ; save
+$ 5443 31 ful'h tribe ; kindred
+$ 5444 6 * leaf
+$ 5445 5 * lump
+$ 5446 3 * natural
+$ 5447 1 * naturally
+$ 5448 7 * puff up
+$ 5449 14 f'usis nature ; (man-) kind ; natural
+$ 5450 1 * swelling
+$ 5451 1 * plant
+$ 5452 11 fute'uw plant
+$ 5453 3 * spring (up)
+$ 5454 2 * hole
+$ 5455 42 fwn'ew sound ; call (for) ; crow ; cry ; emit sound
+$ 5456 139 fwn'h sound ; noise ; voice
+$ 5457 70 f\~ws light ; fire
+$ 5458 2 * light
+$ 5459 1 * day star
+$ 5460 5 * full of light ; bright
+$ 5461 11 fwt'izw bring to light ; enlighten ; give light ; illuminate ; make to see
+$ 5462 2 * light
+$ 5463 74 qa'irw rejoice ; God speed ; be glad ; farewell ; greeting ; hail/joy ; joyfully
+$ 5464 4 * hail
+$ 5465 7 * let down ; strike
+$ 5466 1 * Chaldsean
+$ 5467 2 * perilous ; fierce
+$ 5468 2 * bridle
+$ 5469 2 * bridle ; bit
+$ 5470 1 * brass
+$ 5471 1 * coppersmith
+$ 5472 1 * chalcedony
+$ 5473 1 * brazen vessel
+$ 5474 2 * fine brass
+$ 5475 5 * brass ; money
+$ 5476 2 * on the ground ; to the ground
+$ 5477 2 * Chanaan
+$ 5478 1 * of Canaan
+$ 5479 59 qar'a joy ; (be exceeding) joyful ; gladness ; greatly ; joyfully ; joyfulness ; joyous
+$ 5480 8 * mark ; graven
+$ 5481 1 * express image
+$ 5482 1 * trench
+$ 5483 23 qar'izomai (freely) give ; (frankly) forgive ; deliver ; grant
+$ 5484 9 * for cause of ; ... fore ; because of ; for sake of ; reproachfully
+$ 5485 156 q'aris gracious ; acceptable ; benefit ; favour ; gift ; grace ; joy liberality ; pleasure ; thank (-s) ; thankworthy
+$ 5486 17 q'arisma (free) gift
+$ 5487 2 * be highly favoured ; make accepted
+$ 5488 2 * Charran
+$ 5489 1 * paper
+$ 5490 1 * gulf
+$ 5491 7 * lip/shore ; edge
+$ 5492 1 * he tossed with tempest
+$ 5493 1 * brook
+$ 5494 6 * tempest ; foul weather ; winter
+$ 5495 176 qe'ir hand
+$ 5496 2 * lead by the hand
+$ 5497 1 * some to lead by the hand
+$ 5498 1 * handwriting
+$ 5499 6 * made by hands ; make with hands
+$ 5500 2 * choose ; ordain
+$ 5501 11 qe'irwn worse ; sorer
+$ 5502 1 * cherubims
+$ 5503 27 q'hra widow
+$ 5504 3 * yesterday
+$ 5505 23 qili'as thousand
+$ 5506 21 qil'iarqos chief captain ; high captain
+$ 5507 11 q'ilioi thousand
+$ 5508 1 * Chios
+$ 5509 11 qit'wn coat ; clothes ; garment
+$ 5510 3 * snow
+$ 5511 2 * robe
+$ 5512 2 * mock
+$ 5513 1 * lukewarm
+$ 5514 1 * Chloe
+$ 5515 4 * green ; pale
+$ 5516 0 * six hundred threescore and six
+$ 5517 4 * earthy
+$ 5518 2 * hog
+$ 5519 14 qo\~iros swine
+$ 5520 1 * be angry
+$ 5521 2 * gall
+$ 5522 2 * dust
+$ 5523 2 * Chorazin
+$ 5524 2 * minister ; give
+$ 5525 1 * dancing
+$ 5526 15 qort'azw feed ; fill ; satisfy
+$ 5527 1 * sustenance
+$ 5528 15 q'ortos grass ; blade ; hay
+$ 5529 1 * Chuza
+$ 5530 11 qr'aomai use ; entreat
+$ 5531 1 * lend
+$ 5532 49 qre'ia need ; business ; lack ; necessary ; necessity ; need (-ful) ; use ; want
+$ 5533 2 * debtor
+$ 5534 1 * ought
+$ 5535 5 * (have) need
+$ 5536 7 * riches ; money
+$ 5537 9 * reveal ; be admonished of God ; be called ; be warned of God ; speak
+$ 5538 1 * answer of God
+$ 5539 1 * profit
+$ 5540 2 * use
+$ 5541 1 * be kind n;
+$ 5542 1 * good words
+$ 5543 7 * good (-ness) ; better ; easy ; gracious ; kind
+$ 5544 10 * good (-ness) ; gentleness ; kindness
+$ 5545 3 * anointing ; unction
+$ 5546 3 * Christian
+$ 5547 563 Qrist'os Christ
+$ 5548 5 * anoint
+$ 5549 5 * delay ; tarry
+$ 5550 53 qr'onos time ; (a) while ; oftentimes ; season ; space ; years old
+$ 5551 1 * spend time
+$ 5552 19 qr'useos golden ; of gold
+$ 5553 11 qrus'ion gold
+$ 5554 1 * with a gold ring
+$ 5555 1 * chrysolite
+$ 5556 1 * chrysoprase
+$ 5557 10 * gold
+$ 5558 2 * deck
+$ 5559 1 * body
+$ 5560 15 qwl'os cripple ; halt ; lame
+$ 5561 27 q'wra region ; coast ; country ; fields ; ground ; land
+$ 5562 10 * have place ; be room to receive ; can receive ; come ; contain ; go
+$ 5563 13 qwr'izw separate ; depart ; put asunder
+$ 5564 10 * field ; land ; parcel of ground ; place ; possession
+$ 5565 39 qwr'is without ; beside ; by itself
+$ 5566 1 * north west
+$ 5567 5 * sing (psalms) ; make melody
+$ 5568 7 * psalm
+$ 5569 2 * false brethren
+$ 5570 1 * false teacher
+$ 5571 3 * false ; liar
+$ 5572 1 * false teacher
+$ 5573 1 * speaking lies
+$ 5574 12 ye'udomai lie ; falsely
+$ 5575 3 * false witness
+$ 5576 5 * be a false witness
+$ 5577 2 * false witness
+$ 5578 11 yeudoprof'hths false prophet
+$ 5579 10 * lie ; lying
+$ 5580 2 * false Christ
+$ 5581 1 * falsely so called
+$ 5582 1 * lie
+$ 5583 10 * liar
+$ 5584 4 * handle ; feel after ; touch
+$ 5585 2 * count
+$ 5586 3 * voice (vote) ; stone
+$ 5587 1 * whispering
+$ 5588 1 * whisperer
+$ 5589 3 * crumb
+$ 5590 105 yuq'h soul ; heart (-ily) ; life ; life-force ; mind ; us ; you
+$ 5591 6 * sensual ; natural
+$ 5592 3 * cold
+$ 5593 4 * cold
+$ 5594 1 * wax cold
+$ 5595 2 * (bestow to) feed
+$ 5596 4 * sop
+$ 5597 1 * rub
+$ 5598 3 * Omega
+$ 5599 17 \~>w O
+$ 5600 0 * may be ; appear ; are ; have ; might be ; pass the flower of her age ; should be ; should stand ; were
+$ 5601 3 * Obed
+$ 5602 60 \~<wde here ; (in) this place ; hither ; there
+$ 5603 7 * song
+$ 5604 4 * travail ; pain ; sorry
+$ 5605 3 * travail in (birth)
+$ 5606 2 * shoulder
+$ 5607 0 * be ; come ; have
+$ 5608 1 * buy
+$ 5609 1 * egg
+$ 5610 107 '<wra hour ; (high) time ; day ; even (-tide) ; instant ; season ; short
+$ 5611 4 * beautiful
+$ 5612 1 * roar
+$ 5613 499 <ws as ; (according) as it had been ; about ; after (that) ; as it were ; as soon (as) ; even as (like) ; for ; how (greatly) ; like as ; like unto ; since ; so (that) ; that ; to wit ; unto ; when (-soever) ; while ; with all speed
+$ 5614 6 * hosanna
+$ 5615 18 <wsa'utws likewise ; after the same manner ; even so ; in like manner
+$ 5616 31 <wse'i as ; about ; as it had been ; as it were ; like (as)
+$ 5617 1 * Osee
+$ 5618 42 '<wsper as ; even as ; like as
+$ 5619 1 * as
+$ 5620 83 '<wste (insomuch) as ; (insomuch) that ; so that (then) ; therefore ; therefore ; to ; wherefore
+$ 5621 5 * ear
+$ 5622 2 * advantage ; profit
+$ 5623 15 >wfel'ew advantage ; better ; prevail ; profit
+$ 5624 5 * profit (-able)
+$ 5625 5 * - 
+

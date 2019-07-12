@@ -1,0 +1,125 @@
+
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+}
+
+button {
+	font-size: 16px;
+	text-align: center;
+	color: black;
+	background-color: lightgrey;
+	outline: none;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 6px darkgrey;
+}
+
+button:active {
+	box-shadow: 0 2px darkgrey;
+	transform: translateY(4px);
+}
+
+select {
+	font-size: 16px;
+	background-color: lightgrey;
+	outline: none;
+	border: solid 2px darkgrey;
+	border-radius: 5px;
+	box-shadow: 0 2px darkgrey;
+}
+
+input {
+	font-size: 16px;
+	background-color: lightgrey;
+	outline: none;
+	border: solid 2px dargrey;
+	border-radius: 5px;
+	box-shadow: 0 2px darkgrey;
+}
+
+p {
+	width: 90%;
+	max-width: 400px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding: 10px 10px;
+	font-size: 24px;
+	text-align: left;
+	color: black;
+	background-color: lightgrey;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 6px darkgrey;
+}
+
+p:active {
+	box-shadow: 0 2px darkgrey;
+	transform: translateY(4px);
+}
+
+label {
+	display: inline-block;
+}
+
+label:active {
+	transform: translateX(4px);	
+}
+
+a {
+	display: inline-block;
+}
+
+a:active {
+	transform: translateX(4px);	
+}
+
+#loading_logo_svg {
+	color: inherit;
+	background-color: inherit;
+}
+
+#loading_logo_path {
+	color: inherit;
+	fill: currentColor;
+	stroke-width: 1.33333337;
+}
+
+#loading_title_span {
+	width: 100%;
+	font-size: 20px;
+	color: inherit;
+	background-color: inherit;
+	font-weight: bold;
+}
+
+#loading_message_span {
+	width: 100%;
+	font-size: 20px;
+	color: inherit;
+	background-color: inherit;
+	font-weight: normal;
+}
+
+#loading_spinner_div {
+	margin-left: auto;
+	margin-right: auto;
+	border: 16px solid lightgrey;
+	border-top: 16px solid darkgrey;
+	border-bottom: 16px solid darkgrey;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+

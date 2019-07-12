@@ -1,0 +1,2284 @@
+<b><u><i>Pronunciation</i></u></b>
+<br>
+<br>
+<table style='text-align:center;'>
+<tr>
+	<td><u>Upper</u></td>
+	<td><u>Lowers</u></td>
+	<td><u>Name</u></td>
+	<td><u>Latin</u></td>
+	<td><u>Pronunciation</u></td>
+</tr>
+<tr>
+	<td><greek>A</greek></td>
+	<td><greek>a</greek></td>
+	<td>Alpha</td>
+	<td><b>a</b></td>
+	<td>"ah" as in <i>f<b>a</b>ther</i><br>
+		OR "aa" as in <i>h<b>a</b>t<i></td>
+</tr>
+<tr>
+	<td><greek>B</greek></td>
+	<td><greek>b</greek></td>
+	<td>Beta</td>
+	<td><b>b</b></td>
+	<td><i><b>b</b>aby</i></td>
+</tr>
+<tr>
+	<td><greek>G</greek></td>
+	<td><greek>g</greek></td>
+	<td>Gamma</td>
+	<td><b>g</b></td>
+	<td><i><b>g</b>uard</i></td>
+</tr>
+<tr>
+	<td><greek>D</greek></td>
+	<td><greek>d</greek></td>
+	<td>Delta</td>
+	<td><b>d</b></td>
+	<td><i><b>d</b>og</i></td>
+</tr>
+<tr>
+	<td><greek>E</greek></td>
+	<td><greek>e</greek></td>
+	<td>Epsilon</td>
+	<td><b>&#277;</b></td>
+	<td>"eh" as in <i>m<b>e</b>t</i></td>
+</tr>
+<tr>
+	<td><greek>Z</greek></td>
+	<td><greek>z</greek></td>
+	<td>Zeta</td>
+	<td><b>z</b></td>
+	<td>"dz" as in <i>a<b>dz</b>e</i></td>
+</tr>
+<tr>
+	<td><greek>H</greek></td>
+	<td><greek>h</greek></td>
+	<td>Eta</td>
+	<td><b>&#275;</b></td>
+	<td>"ae" as in <i>th<b>e</b>y</i></td>
+</tr>
+<tr>
+	<td><greek>J</greek></td>
+	<td><greek>j</greek></td>
+	<td>Theta</td>
+	<td><b>th</b></td>
+	<td><i><b>th</b>in</i></td>
+</tr>
+<tr>
+	<td><greek>I</greek></td>
+	<td><greek>i</greek></td>
+	<td>Iota</td>
+	<td><b>i</b></td>
+	<td>"ee" as in <i>mach<b>i</b>ne</i><br>
+		OR "ih" as in <i>p<b>i</b>g</i></td>
+</tr>
+<tr>
+	<td><greek>K</greek></td>
+	<td><greek>k</greek></td>
+	<td>Kappa</td>
+	<td><b>k</b></td>
+	<td><i><b>k</b>ite</i></td>
+</tr>
+<tr>
+	<td><greek>L</greek></td>
+	<td><greek>l</greek></td>
+	<td>Lambda</td>
+	<td><b>l</b></td>
+	<td><i><b>l</b>amp</i></td>
+</tr>
+<tr>
+	<td><greek>M</greek></td>
+	<td><greek>m</greek></td>
+	<td>Mu</td>
+	<td><b>m</b></td>
+	<td><i><b>m</b>ay</i></td>
+</tr>
+<tr>
+	<td><greek>N</greek></td>
+	<td><greek>n</greek></td>
+	<td>Nu</td>
+	<td><b>n</b></td>
+	<td><i><b>n</b>oon</i></td>
+</tr>
+<tr>
+	<td><greek>X</greek></td>
+	<td><greek>x</greek></td>
+	<td>Xi</td>
+	<td><b>x</b></td>
+	<td>"ks" as in <i>fo<b>x</b></i></td>
+</tr>
+<tr>
+	<td><greek>O</greek></td>
+	<td><greek>o</greek></td>
+	<td>Omikron</td>
+	<td><b>&#335;</b></td>
+	<td>"aw" as in <i>n<b>o</b>t</i></td>
+</tr>
+<tr>
+	<td><greek>P</greek></td>
+	<td><greek>p</greek></td>
+	<td>Pi</td>
+	<td><b>p</b></td>
+	<td><i><b>p</b>ower</i></td>
+</tr>
+<tr>
+	<td><greek>R</greek></td>
+	<td><greek>r</greek></td>
+	<td>Rho</td>
+	<td><b>r</b></td>
+	<td><i><b>r</b>ed</i></td>
+</tr>
+<tr>
+	<td><greek>S</greek></td>
+	<td><greek>ss</greek></td>
+	<td>Sigma</td>
+	<td><b>s</b></td>
+	<td>sharp, as in <i><b>s</b>nake</i></td>
+</tr>
+<tr>
+	<td><greek>T</greek></td>
+	<td><greek>t</greek></td>
+	<td>Tau</td>
+	<td><b>t</b></td>
+	<td><i><b>t</b>ip</i></td>
+</tr>
+<tr>
+	<td><greek>U</greek></td>
+	<td><greek>u</greek></td>
+	<td>Upsilon</td>
+	<td><b>u</b></td>
+	<td>"ou" as in <i>f<b>u</b>ll</i></td>
+</tr>
+<tr>
+	<td><greek>F</greek></td>
+	<td><greek>f</greek></td>
+	<td>Phi</td>
+	<td><b>ph</b></td>
+	<td>"f" as in <i><b>ph</b>one</i></td>
+</tr>
+<tr>
+	<td><greek>Q</greek></td>
+	<td><greek>q</greek></td>
+	<td>Chi</td>
+	<td><b>ch</b></td>
+	<td>German <i>ma<b>ch</b>en</i></td>
+</tr>
+<tr>
+	<td><greek>Y</greek></td>
+	<td><greek>y</greek></td>
+	<td>Psi</td>
+	<td><b>ps</b></td>
+	<td><i>ti<b>ps</b>y</i></td>
+</tr>
+<tr>
+	<td><greek>W</greek></td>
+	<td><greek>w</greek></td>
+	<td>Omega</td>
+	<td><b>&#333;</b></td>
+	<td>"oh" as in <i>n<b>o</b></i></td>
+</tr>
+</table>
+<br>
+<table style='text-align:center;'>
+<tr>
+	<td><u>Diphthong</u></td>
+	<td><u>Latin</u></td>
+	<td><u>Pronunciation</u></td>
+</tr>
+<tr>
+	<td><greek>ai</greek></td>
+	<td><b>ai</b></td>
+	<td><i><b>ai</b>sle</i> [&#259; + &#275;]</td>
+</tr>
+<tr>
+	<td><greek>ei</greek></td>
+	<td><b>ei</b></td>
+	<td><i>h<b>ei</b>ght</i> (or <i>n<b>ei</b>ghbor</i>)</td>
+</tr>
+<tr>
+	<td><greek>oi</greek></td>
+	<td><b>oi</b></td>
+	<td><i>j<b>oi</b>n</i></td>
+</tr>
+<tr>
+	<td><greek>ui</greek></td>
+	<td><b>we</b></td>
+	<td><i>s<b>we</b>et</i></td>
+</tr>
+<tr>
+	<td><greek>au</greek></td>
+	<td><b>ow</b></td>
+	<td><i>n<b>ow</b></i></td>
+</tr>
+<tr>
+	<td><greek>eu</greek></td>
+	<td><b>eu</b></td>
+	<td><i>f<b>eu</b>d</i></td>
+</tr>
+<tr>
+	<td><greek>ou</greek></td>
+	<td><b>ou</b></td>
+	<td><i>thr<b>ou</b>gh</i></td>
+</tr>
+</table>
+<br>
+<table style='text-align:center;'>
+<tr>
+	<td><u>Breath/Pitch</u></td>
+	<td><u>Symbols</u></td>
+	<td><u>Description</u></td>
+</tr>
+<tr>
+	<td>Nasal</td>
+	<td><greek>gg</greek></td>
+	<td><b>ng</b> as in <i>a<b>ng</b>el</i> on Double <greek>g</greek></td>
+</tr>
+<tr>
+	<td>Smooth</td>
+	<td><greek>>a</greek></td>
+	<td><b>a</b> as in <i><b>a</b>pple</i> on Initial Vowel</td>
+</tr>
+<tr>
+	<td>Rough</td>
+	<td><greek><a</greek></td>
+	<td><b>ha</b> as in <i><b>ha</b>des</i> on Initial Vowel</td>
+</tr>
+<tr>
+	<td>Rough</td>
+	<td><greek><r</greek></td>
+	<td><b>rh</b> as in <i><b>rh</b>izome</i> on Initial <greek>r</greek></td>
+</tr>
+<tr>
+	<td>Acute</td>
+	<td><greek>'a</greek></td>
+	<td>Rise on Vowel</td>
+</tr>
+<tr>
+	<td>Grave</td>
+	<td><greek>`a</greek></td>
+	<td>Fall on Vowel</td>
+</tr>
+<tr>
+	<td>Circumflex</td>
+	<td><greek>\~a</greek></td>
+	<td>Rise then Fall on Vowel</td>
+</tr>
+</table>
+<br>
+<table style='text-align:center;'>
+<tr>
+	<td><u>Punctuation</u></td>
+	<td><u>Symbols</u></td>
+	<td><u>Description</u></td>
+</tr>
+<tr>
+	<td>Comma</td>
+	<td>( <greek>,</greek> )</td>
+	<td>Same as English</td>
+</tr>
+<tr>
+	<td>Colon</td>
+	<td>( <greek>:</greek> )</td>
+	<td><b>;</b> in English</td>
+</tr>
+<tr>
+	<td>Period</td>
+	<td>( <greek>.</greek> )</td>
+	<td>Same as English</td>
+</tr>
+<tr>
+	<td>Question</td>
+	<td>( <greek>?</greek> )</td>
+	<td><b>?</b> in English</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+	<td>Iota-subscripts ( <greek>a|</greek> or <greek>h|</greek> or <greek>w|</greek> ) are mute.<br>
+		The iota-subscript does not change the sound of the vowel.</td>
+</tr>
+<tr>
+	<td>Pronunciation of the Greek is phonetic.<br>
+		This particular system is called <i>Erasmian</i>.</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Basic Vocabulary - 45 Most Common Words</i></u></b>
+<br>
+<br>
+<table style='text-align:center;'>
+<tr>
+	<td><u>Greek</u></td>
+	<td><u>Transliteration</u></td>
+	<td><u>English</u></td>
+</tr>
+<tr>
+	<td><greek><o</greek></td>
+	<td>ho</td>
+	<td>the</td>
+</tr>
+<tr>
+	<td><greek>ka'i</greek></td>
+	<td>kai</td>
+	<td>and, even</td>
+</tr>
+<tr>
+	<td><greek>a>ut'os</greek></td>
+	<td>autos</td>
+	<td>he, she, it</td>
+</tr>
+<tr>
+	<td><greek>s'u</greek></td>
+	<td>su</td>
+	<td>you</td>
+</tr>
+<tr>
+	<td><greek><ume\~is</greek></td>
+	<td>humeis</td>
+	<td>y'all</td>
+</tr>
+<tr>
+	<td><greek>d'e</greek></td>
+	<td>de</td>
+	<td>but, and</td>
+</tr>
+<tr>
+	<td><greek>>en</greek></td>
+	<td>en</td>
+	<td>in</td>
+</tr>
+<tr>
+	<td><greek>>eg'w</greek></td>
+	<td>eg&#333;</td>
+	<td>I</td>
+</tr>
+<tr>
+	<td><greek>e>im'i</greek></td>
+	<td>eimi</td>
+	<td>I am</td>
+</tr>
+<tr>
+	<td><greek>>est'in</greek></td>
+	<td>estin</td>
+	<td>he is</td>
+</tr>
+<tr>
+	<td><greek>l'egw</greek></td>
+	<td>leg&#333;</td>
+	<td>I say</td>
+</tr>
+<tr>
+	<td><greek>o>u</greek></td>
+	<td>ou</td>
+	<td>not</td>
+</tr>
+<tr>
+	<td><greek>'<os</greek></td>
+	<td>hos</td>
+	<td>which</td>
+</tr>
+<tr>
+	<td><greek>o'<utos</greek></td>
+	<td>houtos</td>
+	<td>this</td>
+</tr>
+<tr>
+	<td><greek>je'os</greek></td>
+	<td>theos</td>
+	<td>God</td>
+</tr>
+<tr>
+	<td><greek>'<oti</greek></td>
+	<td>hoti</td>
+	<td>because</td>
+</tr>
+<tr>
+	<td><greek>p\~as</greek></td>
+	<td>pas</td>
+	<td>all</td>
+</tr>
+<tr>
+	<td><greek>m'h</greek></td>
+	<td>m&#275;</td>
+	<td>not</td>
+</tr>
+<tr>
+	<td><greek>g'ar</greek></td>
+	<td>gar</td>
+	<td>for</td>
+</tr>
+<tr>
+	<td><greek>>Ihso\~us</greek></td>
+	<td>I&#275;sous</td>
+	<td>Jesus</td>
+</tr>
+<tr>
+	<td><greek>>ek</greek></td>
+	<td>ek</td>
+	<td>out</td>
+</tr>
+<tr>
+	<td><greek>>ep'i</greek></td>
+	<td>epi</td>
+	<td>upon</td>
+</tr>
+<tr>
+	<td><greek>'>eqw</greek></td>
+	<td>ech&#333;</td>
+	<td>I have</td>
+</tr>
+<tr>
+	<td><greek>pr'os</greek></td>
+	<td>pros</td>
+	<td>towards</td>
+</tr>
+<tr>
+	<td><greek>g'inomai</greek></td>
+	<td>ginomai</td>
+	<td>I become</td>
+</tr>
+<tr>
+	<td><greek>di'a</greek></td>
+	<td>dia</td>
+	<td>through</td>
+</tr>
+<tr>
+	<td><greek>'<ina</greek></td>
+	<td>hina</td>
+	<td>in order that</td>
+</tr>
+<tr>
+	<td><greek>>ap'o</greek></td>
+	<td>apo</td>
+	<td>from</td>
+</tr>
+<tr>
+	<td><greek>>all'a</greek></td>
+	<td>alla</td>
+	<td>but</td>
+</tr>
+<tr>
+	<td><greek>'>erqomai</greek></td>
+	<td>I go</td>
+</tr>
+<tr>
+	<td><greek>\~>hljen</greek></td>
+	<td>&#275;lthen</td>
+	<td>he went</td>
+</tr>
+<tr>
+	<td><greek>poi'ew</greek></td>
+	<td>poie&#333;</td>
+	<td>I do</td>
+</tr>
+<tr>
+	<td><greek>t'is</greek></td>
+	<td>tis</td>
+	<td>who?</td>
+</tr>
+<tr>
+	<td><greek>'>anjrwpos</greek></td>
+	<td>anthr&#333;pos</td>
+	<td>human</td>
+</tr>
+<tr>
+	<td><greek>Qrist'os</greek></td>
+	<td>Christos</td>
+	<td>Christ</td>
+</tr>
+<tr>
+	<td><greek>tis</greek></td>
+	<td>tis</td>
+	<td>someone</td>
+</tr>
+<tr>
+	<td><greek><ws</greek></td>
+	<td>h&#333;s</td>
+	<td>as</td>
+</tr>
+<tr>
+	<td><greek>e>i</greek></td>
+	<td>ei</td>
+	<td>if</td>
+</tr>
+<tr>
+	<td><greek>o\~>un</greek></td>
+	<td>oun</td>
+	<td>then</td>
+</tr>
+<tr>
+	<td><greek>kat'a</greek></td>
+	<td>kata</td>
+	<td>down</td>
+</tr>
+<tr>
+	<td><greek>met'a</greek></td>
+	<td>meta</td>
+	<td>after</td>
+</tr>
+<tr>
+	<td><greek><or'aw</greek></td>
+	<td>hora&#333;</td>
+	<td>I see</td>
+</tr>
+<tr>
+	<td><greek>e\~>iden</greek></td>
+	<td>eiden</td>
+	<td>he saw</td>
+</tr>
+<tr>
+	<td><greek>>ako'uw</greek></td>
+	<td>akou&#333;</td>
+	<td>I hear</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Nouns and Pronouns</i></u></b>
+<br>
+<br>
+<b>Second Declension Nouns for Masculine using <greek>'>anjrwpos</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Nom. Sing.</u></td>
+	<td><greek><o</greek></td>
+	<td><greek>'>anjrwp</greek><b><greek>os</greek></b></td>
+	<td>the human ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Sing.</u></td>
+	<td><greek>to\~u</greek></td>
+	<td><greek>'>anjrwp</greek><b><greek>ou</greek></b></td>
+	<td>of the human</td>
+</tr>
+<tr>
+	<td><u>Dat. Sing.</u></td>
+	<td><greek>t\~w|</greek></td>
+	<td><greek>'>anjrwp</greek><b><greek>w|</greek></b></td>
+	<td>to|for the human</td>
+</tr>
+<tr>
+	<td><u>Acc. Sing.</u></td>
+	<td><greek>t`on</greek></td>
+	<td><greek>'>anjrwp</greek><b><greek>on</greek></b></td>
+	<td>--- the human</td>
+</tr>
+<tr>
+	<td><u>Nom. Plur.</u></td>
+	<td><greek>o<i</greek></td>
+	<td><greek>'>anjrwp</greek><b><greek>oi</greek></b></td>
+	<td>the humans ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Plur.</u></td>
+	<td><greek>t\~wn</greek></td>
+	<td><greek>'>anjrwp</greek><b><greek>wn</greek></b></td>
+	<td>of the humans</td>
+</tr>
+<tr>
+	<td><u>Dat. Plur.</u></td>
+	<td><greek>to\~is</greek></td>
+	<td><greek>'>anjrwp</greek><b><greek>ois</greek></b></td>
+	<td>to|for the humans</td>
+</tr>
+<tr>
+	<td><u>Acc. Plur.</u></td>
+	<td><greek>to`us</greek></td>
+	<td><greek>'>anjrwp</greek><b><greek>ous</greek></b></td>
+	<td>--- the humans</td>
+</tr>
+</table>
+<br>
+<b>Second Declension Nouns for Neuter using <greek>d\~wron</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Nom. Sing.</u></td>
+	<td><greek>t`o</greek></td>
+	<td><greek>d\~wr</greek><b><greek>on</greek></b></td>
+	<td>the gift ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Sing.</u></td>
+	<td><greek>to\~u</greek></td>
+	<td><greek>d'wr</greek><b><greek>ou</greek></b></td>
+	<td>of the gift</td>
+</tr>
+<tr>
+	<td><u>Dat. Sing.</u></td>
+	<td><greek>t\~w|</greek></td>
+	<td><greek>d'wr</greek><b><greek>w|</greek></b></td>
+	<td>to|for the gift</td>
+</tr>
+<tr>
+	<td><u>Acc. Sing.</u></td>
+	<td><greek>t`o</greek></td>
+	<td><greek>d\~wr</greek><b><greek>on</greek></b></td>
+	<td>--- the gift</td>
+</tr>
+<tr>
+	<td><u>Nom. Plur.</u></td>
+	<td><greek>t`a</greek></td>
+	<td><greek>d\~wr</greek><b><greek>a</greek></b></td>
+	<td>the gifts ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Plur.</u></td>
+	<td><greek>t\~wn</greek></td>
+	<td><greek>d`wr</greek><b><greek>wn</greek></b></td>
+	<td>of the gifts</td>
+</tr>
+<tr>
+	<td><u>Dat. Plur.</u></td>
+	<td><greek>to\~is</greek></td>
+	<td><greek>d'wr</greek><b><greek>ois</greek></b></td>
+	<td>to|for the gifts</td>
+</tr>
+<tr>
+	<td><u>Acc. Plur.</u></td>
+	<td><greek>t`a</greek></td>
+	<td><greek>d\~wr</greek><b><greek>a</greek></b></td>
+	<td>--- the gifts</td>
+</tr>
+</table>
+<br>
+<b>First Declension Nouns for Feminine using <greek><hm'era</greek>, <greek>d'oxa</greek>, and <greek>fwn'h</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Nom. Sing.</u></td>
+	<td><greek><h</greek></td>
+	<td><greek><hm'er</greek><b><greek>a</greek></b></td>
+	<td><greek>d'ox</greek><b><greek>a</greek></b></td>
+	<td><greek>fwn</greek><b><greek>'h</greek></b></td>
+	<td>the day / glory / sound ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Sing.</u></td>
+	<td><greek>t\~hs</greek></td>
+	<td><greek><hm'er</greek><b><greek>as</greek></b></td>
+	<td><greek>d'ox</greek><b><greek>hs</greek></b></td>
+	<td><greek>fwn</greek><b><greek>\~hs</greek></b></td>
+	<td>of the day / glory / sound</td>
+</tr>
+<tr>
+	<td><u>Dat. Sing.</u></td>
+	<td><greek>t\~h|</greek></td>
+	<td><greek><hm'er</greek><b><greek>a|</greek></b></td>
+	<td><greek>d'ox</greek><b><greek>h|</greek></b></td>
+	<td><greek>fwn</greek><b><greek>\~h|</greek></b></td>
+	<td>to|for the day / glory / sound</td>
+</tr>
+<tr>
+	<td><u>Acc. Sing.</u></td>
+	<td><greek>t'hn</greek></td>
+	<td><greek><hm'er</greek><b><greek>an</greek></b></td>
+	<td><greek>d'ox</greek><b><greek>an</greek></b></td>
+	<td><greek>fwn</greek><b><greek>'hn</greek></b></td>
+	<td>--- the day / glory / sound</td>
+</tr>
+<tr>
+	<td><u>Nom. Plur.</u></td>
+	<td><greek>a<i</greek></td>
+	<td><greek><hm'er</greek><b><greek>ai</greek></b></td>
+	<td><greek>d'ox</greek><b><greek>ai</greek></b></td>
+	<td><greek>fwn</greek><b><greek>a'i</greek></b></td>
+	<td>the days / glories / sounds ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Plur.</u></td>
+	<td><greek>t\~wn</greek></td>
+	<td><greek><hmer</greek><b><greek>\~wn</greek></b></td>
+	<td><greek>dox</greek><b><greek>\~wn</greek></b></td>
+	<td><greek>fwn</greek><b><greek>\~wn</greek></b></td>
+	<td>of the days / glories / sounds</td>
+</tr>
+<tr>
+	<td><u>Dat. Plur.</u></td>
+	<td><greek>ta\~is</greek></td>
+	<td><greek><hm'er</greek><b><greek>ais</greek></b></td>
+	<td><greek>d'ox</greek><b><greek>ais</greek></b></td>
+	<td><greek>fwn</greek><b><greek>a\~is</greek></b></td>
+	<td>to|for the days / glories / sounds</td>
+</tr>
+<tr>
+	<td><u>Acc. Plur.</u></td>
+	<td><greek>t'as</greek></td>
+	<td><greek><hm'er</greek><b><greek>as</greek></b></td>
+	<td><greek>d'ox</greek><b><greek>as</greek></b></td>
+	<td><greek>fwn</greek><b><greek>'as</greek></b></td>
+	<td>--- the days / glories / sounds</td>
+</tr>
+</table>
+<br>
+<b>First Person Pronouns</b>
+<br>
+<table>
+<tr>
+	<td><u>Nom. Sing.</u></td>
+	<td><greek>>eg'w</greek></td>
+	<td>I ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Sing.</u></td>
+	<td><greek>>emo\~u</greek> | <greek>mou</greek></td>
+	<td>my</td>
+</tr>
+<tr>
+	<td><u>Dat. Sing.</u></td>
+	<td><greek>>emo'i</greek> | <greek>moi</greek></td>
+	<td>to|for me</td>
+</tr>
+<tr>
+	<td><u>Acc. Sing.</u></td>
+	<td><greek>>em'e</greek> | <greek>me</greek></td>
+	<td>--- me</td>
+</tr>
+<tr>
+	<td><u>Nom. Plur.</u></td>
+	<td><greek><hme\~is</greek></td>
+	<td>we ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Plur.</u></td>
+	<td><greek><hm\~wn</greek></td>
+	<td>our</td>
+</tr>
+<tr>
+	<td><u>Dat. Plur.</u></td>
+	<td><greek><hm\~in</greek></td>
+	<td>to|for us</td>
+</tr>
+<tr>
+	<td><u>Acc. Plur.</u></td>
+	<td><greek><hm\~as</greek></td>
+	<td>--- us</td>
+</tr>
+</table>
+<br>
+<b>Second Person Pronouns</b>
+<br>
+<table>
+<tr>
+	<td><u>Nom. Sing.</u></td>
+	<td><greek>s'u</greek></td>
+	<td>you ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Sing.</u></td>
+	<td><greek>so\~u</greek> | <greek>sou</greek></td>
+	<td>your</td>
+</tr>
+<tr>
+	<td><u>Dat. Sing.</u></td>
+	<td><greek>so'i</greek> | <greek>soi</greek></td>
+	<td>to|for you</td>
+</tr>
+<tr>
+	<td><u>Acc. Sing.</u></td>
+	<td><greek>s'e</greek> | <greek>se</greek></td>
+	<td>--- you</td>
+</tr>
+<tr>
+	<td><u>Nom. Plur.</u></td>
+	<td><greek><ume\~is</greek></td>
+	<td>y'all ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Plur.</u></td>
+	<td><greek><um\~wn</greek></td>
+	<td>y'alls</td>
+</tr>
+<tr>
+	<td><u>Dat. Plur.</u></td>
+	<td><greek><um\~in</greek></td>
+	<td>to|for y'all</td>
+</tr>
+<tr>
+	<td><u>Acc. Plur.</u></td>
+	<td><greek><um\~as</greek></td>
+	<td>--- y'all</td>
+</tr>
+</table>
+<br>
+<b>Other Pronouns (following First and Second Declensions)</b>
+<br>
+<table>
+<tr>
+	<td><u>Third Person Pronouns:</u></td>
+	<td><greek>a>ut</greek><b><greek>'os</greek></b></td>
+	<td>he|she|it|they</td>
+</tr>
+<tr>
+	<td><u>Demonstrative Pronouns (Near):</u></td>
+	<td><greek>o\~<ut</greek><b><greek>os</greek></b></td>
+	<td>this|these</td>
+</tr>
+<tr>
+	<td><u>Demonstrative Pronouns (Far):</u></td>
+	<td><greek>>eke\~in</greek><b><greek>os</greek></b></td>
+	<td>that|those</td>
+</tr>
+</table>
+<br>
+<b>Third Declension Nouns for Masculine/Feminine using <greek>s'arx</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Nom. Sing.</u></td>
+	<td><greek>s'arx</greek></td>
+	<td>the flesh ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Sing.</u></td>
+	<td><greek>sark</greek><b><greek>'os</greek></b></td>
+	<td>of the flesh</td>
+</tr>
+<tr>
+	<td><u>Dat. Sing.</u></td>
+	<td><greek>sark</greek><b><greek>'i</greek></b></td>
+	<td>to|for the flesh</td>
+</tr>
+<tr>
+	<td><u>Acc. Sing.</u></td>
+	<td><greek>s'ark</greek><b><greek>a</greek></b></td>
+	<td>--- the flesh</td>
+</tr>
+<tr>
+	<td><u>Nom. Plur.</u></td>
+	<td><greek>s'ark</greek><b><greek>es</greek></b></td>
+	<td>the flesh(s) ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Plur.</u></td>
+	<td><greek>sark</greek><b><greek>'wn</greek></b></td>
+	<td>of the flesh(s)</td>
+</tr>
+<tr>
+	<td><u>Dat. Plur.</u></td>
+	<td><greek>sarx</greek><b><greek>'i(n)</greek></b></td>
+	<td>to|for the flesh(s)</td>
+</tr>
+<tr>
+	<td><u>Acc. Plur.</u></td>
+	<td><greek>s'ark</greek><b><greek>as</greek></b></td>
+	<td>--- the flesh(s)</td>
+</tr>
+</table>
+<br>
+<b>Third Declension Nouns for Neuter using <greek>s\~wma</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Nom. Sing.</u></td>
+	<td><greek>s\~wma</greek></td>
+	<td>the body ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Sing.</u></td>
+	<td><greek>s'wmat</greek><b><greek>os</greek></b></td>
+	<td>of the body</td>
+</tr>
+<tr>
+	<td><u>Dat. Sing.</u></td>
+	<td><greek>s'wmat</greek><b><greek>i</greek></b></td>
+	<td>to|for the body</td>
+</tr>
+<tr>
+	<td><u>Acc. Sing.</u></td>
+	<td><greek>s\~wma</greek></td>
+	<td>--- the body</td>
+</tr>
+<tr>
+	<td><u>Nom. Plur.</u></td>
+	<td><greek>s'wmat</greek><b><greek>a</greek></b></td>
+	<td>the bodies ---</td>
+</tr>
+<tr>
+	<td><u>Gen. Plur.</u></td>
+	<td><greek>swm'at</greek><b><greek>wn</greek></b></td>
+	<td>of the bodies</td>
+</tr>
+<tr>
+	<td><u>Dat. Plur.</u></td>
+	<td><greek>s'wma</greek><b><greek>si(n)</greek></b></td>
+	<td>to|for the bodies</td>
+</tr>
+<tr>
+	<td><u>Acc. Plur.</u></td>
+	<td><greek>s'wmat</greek><b><greek>a</greek></b></td>
+	<td>--- the bodies</td>
+</tr>
+</table>
+<br>
+<b>Third Declension Endings</b>
+<br>
+<table>
+<tr>
+	<td><u>Masc./Fem. Nom. Sing.</u></td>
+	<td><greek>-s</greek> | <greek>-</greek></td>
+</tr>
+<tr>
+	<td><u>Masc./Fem. Gen. Sing.</u></td>
+	<td><greek>-os</greek></td>
+</tr>
+<tr>
+	<td><u>Masc./Fem. Dat. Sing.</u></td>
+	<td><greek>-i</greek></td>
+</tr>
+<tr>
+	<td><u>Masc./Fem. Acc. Sing.</u></td>
+	<td><greek>-a</greek> | <greek>-n</greek></td>
+</tr>
+<tr>
+	<td><u>Masc./Fem. Nom. Plur.</u></td>
+	<td><greek>-es</greek></greek></td>
+</tr>
+<tr>
+	<td><u>Masc./Fem. Gen. Plur.</u></td>
+	<td><greek>-wn</greek></td>
+</tr>
+<tr>
+	<td><u>Masc./Fem. Dat. Plur.</u></td>
+	<td><greek>-si(n)</greek></td>
+</tr>
+<tr>
+	<td><u>Masc./Fem. Acc. Plur.</u></td>
+	<td><greek>-as</greek></greek></td>
+</tr>
+<tr>
+	<td><u>Neut. Nom. Sing.</u></td>
+	<td><greek>-</greek> | <greek>-s</greek></td>
+</tr>
+<tr>
+	<td><u>Neut. Gen. Sing.</u></td>
+	<td><greek>-os</greek></td>
+</tr>
+<tr>
+	<td><u>Neut. Dat. Sing.</u></td>
+	<td><greek>-i</greek></td>
+</tr>
+<tr>
+	<td><u>Neut. Acc. Sing.</u></td>
+	<td><greek>-</greek> | <greek>-s</greek></td>
+</tr>
+<tr>
+	<td><u>Neut. Nom. Plur.</u></td>
+	<td><greek>-a</greek></greek></td>
+</tr>
+<tr>
+	<td><u>Neut. Gen. Plur.</u></td>
+	<td><greek>-wn</greek></td>
+</tr>
+<tr>
+	<td><u>Neut. Dat. Plur.</u></td>
+	<td><greek>-si(n)</greek></td>
+</tr>
+<tr>
+	<td><u>Neut. Acc. Plur.</u></td>
+	<td><greek>-a</greek></greek></td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Adjectives</i></u></b>
+<br>
+<br>
+<table>
+<tr>
+	<td>Adjectives will follow the same Gender and Number as the associated Noun.</td>
+</tr>
+<tr>
+	<td>Adjectives can take the place of a Noun when implied.</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+	<td><u>Comparative Adjective Ending:</u></td>
+	<td><greek>-teros</greek></td>
+	<td>more ---</td>
+</tr>
+<tr>
+	<td><u>Superlative Adjective Ending:</u></td>
+	<td><greek>-tatos</greek></td>
+	<td>most ---</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Prepositions</i></u></b>
+<br>
+<br>
+<table style='text-align:center;'>
+<tr>
+	<td><img src='img/prepositions1.png' style='width:100%; max-width:400px;'></td>
+</tr>
+<tr>
+	<td>Prepositions have different meanings depending on the Case of the Noun.</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Indicative Verbs</i></u></b>
+<br>
+<br>
+<b>Present Active Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>w</greek></b></td>
+	<td>I loose</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>eis</greek></b></td>
+	<td>you loose</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>ei</greek></b></td>
+	<td>he/she looses</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>omen</greek></b></td>
+	<td>we loose</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>ete</greek></b></td>
+	<td>y'all loose</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>ousi(n)</greek></b></td>
+	<td>they loose</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Future Active Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>sw</greek></b></td>
+	<td>I will loose</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>seis</greek></b></td>
+	<td>you will loose</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>sei</greek></b></td>
+	<td>he/she will looses</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>somen</greek></b></td>
+	<td>we will loose</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>sete</greek></b></td>
+	<td>y'all will loose</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>sousi(n)</greek></b></td>
+	<td>they will loose</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Imperfect Active Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek>lu</greek><b><greek>on</greek></b></td>
+	<td>I was loosing</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek><greek>lu</greek><b><greek>es</greek></b></td>
+	<td>you were loosing</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek><greek>lu</greek><b><greek>e(n)</greek></b></td>
+	<td>he/she was loosing</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>somen</greek></b></td>
+	<td>we were loosing</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>sete</greek></b></td>
+	<td>y'all were loosing</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>'>e</greek></b><greek><greek>lu</greek><b><greek>on</greek></b></td>
+	<td>they were loosing</td>
+</tr>
+</table>
+<br>
+<br>
+<b>First Aorist Active Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek>lu</greek><b><greek>sa</greek></b></td>
+	<td>I loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek><greek>lu</greek><b><greek>sas</greek></b></td>
+	<td>you loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek><greek>lu</greek><b><greek>se(n)</greek></b></td>
+	<td>he/she loosed</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>samen</greek></b></td>
+	<td>we loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>sate</greek></b></td>
+	<td>y'all loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>san</greek></b></td>
+	<td>they loosed</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Second Aorist Active Indicative Verbs of <greek>le'ipw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek>lip</greek><b><greek>on</greek></b></td>
+	<td>I left</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek><greek>lip</greek><b><greek>es</greek></b></td>
+	<td>you left</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>'>e</greek></b><greek><greek>lip</greek><b><greek>e(n)</greek></b></td>
+	<td>he/she left</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'ip</greek><b><greek>omen</greek></b></td>
+	<td>we left</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'ip</greek><b><greek>ete</greek></b></td>
+	<td>y'all left</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>'>e</greek></b><greek><greek>lip</greek><b><greek>on</greek></b></td>
+	<td>they left</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Perfect Active Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>l'e</greek></b><greek>lu</greek><b><greek>ka</greek></b></td>
+	<td>I have loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>l'e</greek></b><greek><greek>lu</greek><b><greek>kas</greek></b></td>
+	<td>you have loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>l'e</greek></b><greek><greek>lu</greek><b><greek>ke(n)</greek></b></td>
+	<td>he/she have loosed</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>le</greek></b><greek><greek>l'u</greek><b><greek>kamen</greek></b></td>
+	<td>we have loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>le</greek></b><greek><greek>l'u</greek><b><greek>kate</greek></b></td>
+	<td>y'all have loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>le</greek></b><greek><greek>l'u</greek><b><greek>kasi(n)</greek></b></td>
+	<td>they have loosed</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Present Indicative Forms of <greek>e>im'i</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>e>im'i</greek>
+	<td>I am</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>e\~>i</greek>
+	<td>you are</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>>est'i(n)</greek>
+	<td>he|she|it is</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>>esm'en</greek>
+	<td>we are</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>>est'e</greek>
+	<td>y'all are</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>e>is'i(n)</greek>
+	<td>they are</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Imperfect Indicative Forms of <greek>e>im'i</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>'>hmhn</greek>
+	<td>I was</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>\~>hs</greek>
+	<td>you were</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>\~>hn</greek>
+	<td>he|she|it was</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>\~>hmen</greek>
+	<td>we were</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>\~>hte</greek>
+	<td>y'all were</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>\~>hsan</greek>
+	<td>they were</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Future Indicative Forms of <greek>e>im'i</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>'>esomai</greek>
+	<td>I will be</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>'>esh|</greek>
+	<td>you will be</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>'>estai</greek>
+	<td>he|she|it will be</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>>es'omeja</greek>
+	<td>we will be</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>'>esesje</greek>
+	<td>y'all will be</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>'>esontai</greek>
+	<td>they will be</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Present Middle/Passive Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>omai</greek></b></td>
+	<td>I am [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>h|</greek></b></td>
+	<td>you are [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>etai</greek></b></td>
+	<td>he/she is [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>'omeja</greek></b></td>
+	<td>we are [loosing for -selves | being loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>esje</greek></b></td>
+	<td>y'all are [loosing for -selves | being loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>ontai</greek></b></td>
+	<td>they are [loosing for -selves | being loosed]</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Perfect Middle/Passive Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>l'e</greek></b><greek>lu</greek><b><greek>mai</greek></b></td>
+	<td>I have [loosed for -self | been loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>l'e</greek></b><greek>lu</greek><b><greek>sai</greek></b></td>
+	<td>you have [loosed for -self | been loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>l'e</greek></b><greek>lu</greek><b><greek>tai</greek></b></td>
+	<td>he/she has [loosed for -self | been loosed]</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>le</greek></b><greek>l'u</greek><b><greek>meja</greek></b></td>
+	<td>we have [loosed for -selves | been loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>l'e</greek></b><greek>lu</greek><b><greek>sje</greek></b></td>
+	<td>y'all have [loosed for -selves | been loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>l'e</greek></b><greek>lu</greek><b><greek>ntai</greek></b></td>
+	<td>they have [loosed for -selves | been loosed]</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Imperfect Middle/Passive Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek>lu</greek><b><greek>'omhn</greek></b></td>
+	<td>I was [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek>l'u</greek><b><greek>ou</greek></b></td>
+	<td>you were [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek>l'u</greek><b><greek>eto</greek></b></td>
+	<td>he/she was [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek>lu</greek><b><greek>'omeja</greek></b></td>
+	<td>we were [loosing for -selves | being loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek>l'u</greek><b><greek>esje</greek></b></td>
+	<td>y'all were [loosing for -selves | being loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek>l'u</greek><b><greek>onto</greek></b></td>
+	<td>they were [loosing for -selves | being loosed]</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Future Middle Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>somai</greek></b></td>
+	<td>I will loose for -self</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>sh|</greek></b></td>
+	<td>you will loose for -self</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>setai</greek></b></td>
+	<td>he/she will loose for -self</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>s'omeja</greek></b></td>
+	<td>we will loose for -selves</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>sesje</greek></b></td>
+	<td>y'all will loose for -selves</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>sontai</greek></b></td>
+	<td>they will loose for -selves</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Future Passive Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>lu</greek><b><greek>j'hsomai</greek></b></td>
+	<td>I will be loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>lu</greek><b><greek>j'hsh|</greek></b></td>
+	<td>you will be loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>lu</greek><b><greek>j'hsetai</greek></b></td>
+	<td>he/she will be loosed</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>jhs'omeja</greek></b></td>
+	<td>we will be loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>j'hsesje</greek></b></td>
+	<td>y'all will be loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>j'hsontai</greek></b></td>
+	<td>they will be loosed</td>
+</tr>
+</table>
+<br>
+<br>
+<b>First Aorist Middle Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek>lu</greek><b><greek>s'amhn</greek></b></td>
+	<td>I loosed for -self</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>sw</greek></b></td>
+	<td>you loosed for -self</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>sato</greek></b></td>
+	<td>he/she loosed for -self</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>lu</greek><b><greek>s'ameja</greek></b></td>
+	<td>we loosed for -selves</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>sasje</greek></b></td>
+	<td>y'all loosed for -selves</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>santo</greek></b></td>
+	<td>they loosed for -selves</td>
+</tr>
+</table>
+<br>
+<br>
+<b>First Aorist Passive Indicative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek>l'u</greek><b><greek>jhn</greek></b></td>
+	<td>I was loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>jhs</greek></b></td>
+	<td>you were loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>jh</greek></b></td>
+	<td>he/she was loosed</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>jhmen</greek></b></td>
+	<td>we were loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>jhte</greek></b></td>
+	<td>y'all were loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'u</greek><b><greek>jhsan</greek></b></td>
+	<td>they were loosed</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Second Aorist Middle Indicative Verbs of <greek>le'ipw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek>lip</greek><b><greek>'omhn</greek></b></td>
+	<td>I left for -self</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'ip</greek><b><greek>ou</greek></b></td>
+	<td>you left for -self</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'ip</greek><b><greek>eto</greek></b></td>
+	<td>he/she left for -self</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>lip</greek><b><greek>'omeja</greek></b></td>
+	<td>we left for -selves</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'ip</greek><b><greek>esje</greek></b></td>
+	<td>y'all left for -selves</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>l'ip</greek><b><greek>onto</greek></b></td>
+	<td>they left for -selves</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Second Aorist Passive Indicative Verbs of <greek>gr'afw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek>gr'af</greek><b><greek>hn</greek></b></td>
+	<td>I was written</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>gr'af</greek><b><greek>hs</greek></b></td>
+	<td>you were written</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>gr'af</greek><b><greek>h</greek></b></td>
+	<td>he/she was written</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>gr'af</greek><b><greek>hmen</greek></b></td>
+	<td>we were written</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>gr'af</greek><b><greek>hte</greek></b></td>
+	<td>y'all were written</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>>e</greek></b><greek><greek>gr'af</greek><b><greek>hsan</greek></b></td>
+	<td>they were written</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Participles</i></u></b>
+<br>
+<br>
+<table>
+<tr>
+	<td>Participles are Adjectives with a Verb form, and could imply a Noun.</td>
+</tr>
+<tr>
+	<td>They follow the Noun Declensions indicated.</td>
+</tr>
+<tr>
+	<td>Only the Nominative Case of the Participle is listed below, all other Cases follow the Declensions given.</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Present Active Participle of <greek>l'uw</greek></b>
+<br>
+<i>(the one) who is loosing</i>
+<br>
+<table>
+<tr>
+	<td><u>Masc. 3rd Decl.</u></td>
+	<td><greek>l'uwn</greek></td>
+</tr>
+<tr>
+	<td><u>Fem. 1st Decl.</u></td>
+	<td><greek>l'uous</greek><b><greek>a</greek></b></td>
+</tr>
+<tr>
+	<td><u>Neut. 3rd Decl.</u></td>
+	<td><greek>l\~uon</greek></td>
+</tr>
+<tr>
+	<td><u>Stem for 3rd Decl.</u></td>
+	<td><greek>l'uont-</greek></td>
+</tr>
+</table>
+<br>
+<br>
+<b>Present Middle/Passive Participle of <greek>l'uw</greek></b>
+<br>
+<i>(the one) who is being loosed</i>
+<br>
+<table>
+<tr>
+	<td><u>Masc. 2nd Decl.</u></td>
+	<td><greek>lu'omen</greek><b><greek>os</greek></b></td>
+</tr>
+<tr>
+	<td><u>Fem. 1st Decl.</u></td>
+	<td><greek>luom'en</greek><b><greek>h</greek></b></td>
+</tr>
+<tr>
+	<td><u>Neut. 2nd Decl.</u></td>
+	<td><greek>lu'omen</greek><b><greek>on</greek></b></td>
+</tr>
+</table>
+<br>
+<br>
+<b>Perfect Active Participle of <greek>l'uw</greek></b>
+<br>
+<i>(the one) who has loosed</i>
+<br>
+<table>
+<tr>
+	<td><u>Masc. 3rd Decl.</u></td>
+	<td><greek>leluk'ws</greek></td>
+</tr>
+<tr>
+	<td><u>Fem. 1st Decl.</u></td>
+	<td><greek>leluku'i</greek><b><greek>a</greek></b></td>
+</tr>
+<tr>
+	<td><u>Neut. 3rd Decl.</u></td>
+	<td><greek>leluk'os</greek></td>
+</tr>
+<tr>
+	<td><u>Stem for 3rd Decl.</u></td>
+	<td><greek>leluk'ot-</greek></td>
+</tr>
+</table>
+<br>
+<br>
+<b>Perfect Middle/Passive Participle of <greek>l'uw</greek></b>
+<br>
+<i>(the one) who has been loosed</i>
+<br>
+<table>
+<tr>
+	<td><u>Masc. 2nd Decl.</u></td>
+	<td><greek>leluom'en</greek><b><greek>os</greek></b></td>
+</tr>
+<tr>
+	<td><u>Fem. 1st Decl.</u></td>
+	<td><greek>leluom'en</greek><b><greek>h</greek></b></td>
+</tr>
+<tr>
+	<td><u>Neut. 2nd Decl.</u></td>
+	<td><greek>leluom'en</greek><b><greek>on</greek></b></td>
+</tr>
+</table>
+
+
+<br>
+<br>
+<b>Aorist Active Participle of <greek>l'uw</greek></b>
+<br>
+<i>(the one) who loosed</i>
+<br>
+<table>
+<tr>
+	<td><u>Masc. 3rd Decl.</u></td>
+	<td><greek>l'usas</greek></td>
+</tr>
+<tr>
+	<td><u>Fem. 1st Decl.</u></td>
+	<td><greek>l'usas</greek><b><greek>a</greek></b></td>
+</tr>
+<tr>
+	<td><u>Neut. 3rd Decl.</u></td>
+	<td><greek>l\~usa</greek></td>
+</tr>
+<tr>
+	<td><u>Stem for 3rd Decl.</u></td>
+	<td><greek>l'usant-</greek></td>
+</tr>
+</table>
+<br>
+<br>
+<b>Aorist Middle Participle of <greek>l'uw</greek></b>
+<br>
+<i>(the one) who loosed for -self</i>
+<br>
+<table>
+<tr>
+	<td><u>Masc. 2nd Decl.</u></td>
+	<td><greek>lus'amen</greek><b><greek>os</greek></b></td>
+</tr>
+<tr>
+	<td><u>Fem. 1st Decl.</u></td>
+	<td><greek>lusam'en</greek><b><greek>h</greek></b></td>
+</tr>
+<tr>
+	<td><u>Neut. 2nd Decl.</u></td>
+	<td><greek>lus'amen</greek><b><greek>on</greek></b></td>
+</tr>
+</table>
+<br>
+<br>
+<b>Aorist Passive Participle of <greek>l'uw</greek></b>
+<br>
+<i>(the one) who was loosed</i>
+<br>
+<table>
+<tr>
+	<td><u>Masc. 3rd Decl.</u></td>
+	<td><greek>luje'is</greek></td>
+</tr>
+<tr>
+	<td><u>Fem. 1st Decl.</u></td>
+	<td><greek>luje\~is</greek><b><greek>a</greek></b></td>
+</tr>
+<tr>
+	<td><u>Neut. 3rd Decl.</u></td>
+	<td><greek>luj'en</greek></td>
+</tr>
+<tr>
+	<td><u>Stem for 3rd Decl.</u></td>
+	<td><greek>luj'et-</greek></td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Infinitives</i></u></b>
+<br>
+<br>
+<table>
+<tr>
+	<td>Infinitives are Nouns with a Verb form.</td>
+</tr>
+<tr>
+	<td>They are always in the Neuter Singular.</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Active Infinitives of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Present</u></td>
+	<td><greek>l'uein</greek></td>
+	<td>to be loosing</td>
+</tr>
+<tr>
+	<td><u>Perfect</u></td>
+	<td><greek>leluk'esai</greek></td>
+	<td>to have loosed</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Middle/Passive Infinitives of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Present</u></td>
+	<td><greek>l'uesjai</greek></td>
+	<td>to be [loosing -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>Perfect</u></td>
+	<td><greek>lel'usjai</greek></td>
+	<td>to have [loosed -self | been loosed]</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Aorist Infinitives of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Active</u></td>
+	<td><greek>l\~usai</greek></td>
+	<td>to loose</td>
+</tr>
+<tr>
+	<td><u>Middle</u></td>
+	<td><greek>l'usasjai</greek></td>
+	<td>to loose -self</td>
+</tr>
+<tr>
+	<td><u>Passive</u></td>
+	<td><greek>luj\~hai</greek></td>
+	<td>to be loosed</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Subjunctive Verbs</i></u></b>
+<br>
+<br>
+<b>Present Active Subjunctive Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>w</greek></b></td>
+	<td>I may be loosing</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>h|s</greek></b></td>
+	<td>you may be loosing</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>h|</greek></b></td>
+	<td>he/she may be loosing</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>wmen</greek></b></td>
+	<td>we may be loosing</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>hte</greek></b></td>
+	<td>y'all may be loosing</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>wsi(n)</greek></b></td>
+	<td>they may be loosing</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Aorist Active Subjunctive Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>sw</greek></b></td>
+	<td>I may loose</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>sh|s</greek></b></td>
+	<td>you may loose</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>sh|</greek></b></td>
+	<td>he/she may loose</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>swmen</greek></b></td>
+	<td>we may loose</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>shte</greek></b></td>
+	<td>y'all may loose</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>swsi(n)</greek></b></td>
+	<td>they may loose</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Present Middle/Passive Subjunctive Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>wmai</greek></b></td>
+	<td>I may be [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>h|</greek></b></td>
+	<td>you may be [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>htai</greek></b></td>
+	<td>he/she may be [loosing for -self | being loosed]</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>'wmeja</greek></b></td>
+	<td>we may be [loosing for -selves | being loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>htsje</greek></b></td>
+	<td>y'all may be [loosing for -selves | being loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>wtai</greek></b></td>
+	<td>they may be [loosing for -selves | being loosed]</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Aorist Middle Subjunctive Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>swmai</greek></b></td>
+	<td>I may loose for -self</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>sh|</greek></b></td>
+	<td>you may loose for -self</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>shtai</greek></b></td>
+	<td>he/she may loose for -self</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>s'wmeja</greek></b></td>
+	<td>we may loose for -selves</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>shsje</greek></b></td>
+	<td>y'all may loose for -selves</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>swtai</greek></b></td>
+	<td>they may loose for -selves</td>
+</tr>
+</table>
+
+<br>
+<br>
+<b>Aorist Passive Subjunctive Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>j\~w</greek></b></td>
+	<td>I may be loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>j\~h|s</greek></b></td>
+	<td>you may be loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>j\~h|</greek></b></td>
+	<td>he/she may be loosed</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>j\~wmen</greek></b></td>
+	<td>we may be loosed</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>j\~hte</greek></b></td>
+	<td>y'all may be loosed</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>j\~wsi(n)</greek></b></td>
+	<td>they may be loosed</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Conjunctions before Subjunctive Mood</b>
+<br>
+<table>
+<tr>
+	<td><greek>>an</greek></td>
+	<td>-ever</td>
+</tr>
+<tr>
+	<td><greek>>ean</greek></td>
+	<td>if</td>
+</tr>
+<tr>
+	<td><greek><ina</greek></td>
+	<td>in order that</td>
+</tr>
+<tr>
+	<td><greek><omws</greek></td>
+	<td>so that</td>
+</tr>
+<tr>
+	<td><greek>o>u mh</greek></td>
+	<td>never</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i>Imperative Verbs</i></u></b>
+<br>
+<br>
+<b>Present Active Imperative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l\~u</greek><b><greek>e</greek></b></td>
+	<td>you be loosing</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>lu</greek><b><greek>'etw</greek></b></td>
+	<td>let him/her be loosing</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>ete</greek></b></td>
+	<td>y'all be loosing</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>'etwsan</greek></b></td>
+	<td>let them be loosing</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Present Middle/Passive Imperative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l'u</greek><b><greek>ou</greek></b></td>
+	<td>you [loose -self | be loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>lu</greek><b><greek>'esjw</greek></b></td>
+	<td>let him/her [loose -self | be loosed]</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>esje</greek></b></td>
+	<td>y'all [loose -selves | be loosed]</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>'esjwsan</greek></b></td>
+	<td>let them [loose -selves | be loosed]</td>
+</tr>
+</table>
+<br>
+<br>
+<b>Aorist Active Imperative Verbs of <greek>l'uw</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><greek>l\~u</greek><b><greek>son</greek></b></td>
+	<td>you loose</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><greek>lu</greek><b><greek>s'atw</greek></b></td>
+	<td>let him/her loose</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><greek>l'u</greek><b><greek>sate</greek></b></td>
+	<td>y'all loose</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><greek>lu</greek><b><greek>satwsan</greek></b></td>
+	<td>let them loose</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<b><u><i><greek>-mi</greek> Conjugation Verbs</i></u></b>
+<br>
+<br>
+<b>Present Active Indicative Verbs of <greek>d'idwmi</greek>, <greek>t'ijhmi</greek>, and <greek>'<isthmi</greek></b>
+<br>
+<table>
+<tr>
+	<td><u>Stem</u></td>
+	<td><greek>do-</greek></td>
+	<td><greek>je-</greek></td>
+	<td><greek>sta-</greek></td>
+	<td>&nbsp;</td>
+</tr>
+<tr>
+	<td><u>1st Per. Sing.</u></td>
+	<td><b><greek>d'i</greek></b><greek>dw</greek><b><greek>mi</greek></b></td>
+	<td><b><greek>t'i</greek></b><greek>jh</greek><b><greek>mi</greek></b></td>
+	<td><b><greek>'<i</greek></b><greek>sth</greek><b><greek>mi</greek></b></td>
+	<td>I am giving / putting / standing</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Sing.</u></td>
+	<td><b><greek>d'i</greek></b><greek>dw</greek><b><greek>s</greek></b></td>
+	<td><b><greek>t'i</greek></b><greek>jh</greek><b><greek>s</greek></b></td>
+	<td><b><greek>'<i</greek></b><greek>sth</greek><b><greek>s</greek></b></td>
+	<td>you are giving / putting / standing</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Sing.</u></td>
+	<td><b><greek>d'i</greek></b><greek>dw</greek><b><greek>si(n)</greek></b></td>
+	<td><b><greek>t'i</greek></b><greek>jh</greek><b><greek>si(n)</greek></b></td>
+	<td><b><greek>'<i</greek></b><greek>sth</greek><b><greek>si(n)</greek></b></td>
+	<td>he|she is giving / putting / standing</td>
+</tr>
+<tr>
+	<td><u>1st Per. Plur.</u></td>
+	<td><b><greek>d'i</greek></b><greek>do</greek><b><greek>men</greek></b></td>
+	<td><b><greek>t'i</greek></b><greek>je</greek><b><greek>men</greek></b></td>
+	<td><b><greek>'<i</greek></b><greek>sta</greek><b><greek>men</greek></b></td>
+	<td>we are giving / putting / standing</td>
+</tr>
+<tr>
+	<td><u>2nd Per. Plur.</u></td>
+	<td><b><greek>d'i</greek></b><greek>do</greek><b><greek>te</greek></b></td>
+	<td><b><greek>t'i</greek></b><greek>je</greek><b><greek>te</greek></b></td>
+	<td><b><greek>'<i</greek></b><greek>sta</greek><b><greek>te</greek></b></td>
+	<td>y'all are giving / putting / standing</td>
+</tr>
+<tr>
+	<td><u>3rd Per. Plur.</u></td>
+	<td><b><greek>di</greek></b><greek>d'o</greek><b><greek>asi(n)</greek></b></td>
+	<td><b><greek>ti</greek></b><greek>j'e</greek><b><greek>asi(n)</greek></b></td>
+	<td><b><greek><i</greek></b><greek>st\~a</greek><b><greek>si(n)</greek></b></td>
+	<td>they is giving / putting / standing</td>
+</tr>
+
+
+
+
+
+
+
+
+
+		

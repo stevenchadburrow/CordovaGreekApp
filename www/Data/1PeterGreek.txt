@@ -1,0 +1,209 @@
+$ 20:1:1 P'etros 4074 {N-NSM} , 0 {} >ap'ostolos 652 {N-NSM} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} , 0 {} >eklekto\~is 1588 {A-DPM} parepid'hmois 3927 {A-DPM} diaspor\~as 1290 {N-GSF} P'ontou 4195 {N-GSM} , 0 {} Galat'ias 1053 {N-GSF} , 0 {} Kappadok'ias 2587 {N-GSF} , 0 {} >As'ias 773 {N-GSF} , 0 {} ka`i 2532 {CONJ} Bijun'ias 978 {N-GSF} , 0 {} 
+
+$ 20:1:2 kat`a 2596 {PREP} pr'ognwsin 4268 {N-ASF} jeo\~u 2316 {N-GSM} patr'os 3962 {N-GSM} , 0 {} >en 1722 {PREP} <agiasm\~w| 38 {N-DSM} pne'umatos 4151 {N-GSN} , 0 {} e>is 1519 {PREP} <upako`hn 5218 {N-ASF} ka`i 2532 {CONJ} <rantism`on 4473 {N-ASM} a'<imatos 129 {N-GSN} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} ; 0 {} q'aris 5485 {N-NSF} <um\~in 4771 {P-2DP} ka`i 2532 {CONJ} e>ir'hnh 1515 {N-NSF} plhjunje'ih 4129 {V-APO-3S} . 0 {} 
+
+$ 20:1:3 % 0 {} E>uloght`os 2128 {A-NSM} <o 3588 {T-NSM} je`os 2316 {N-NSM} ka`i 2532 {CONJ} pat`hr 3962 {N-NSM} to\~u 3588 {T-GSM} kur'iou 2962 {N-GSM} <hm\~wn 1473 {P-1GP} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} , 0 {} <o 3588 {T-NSM} kat`a 2596 {PREP} t`o 3588 {T-ASN} pol`u 4183 {A-ASN} a>uto\~u 846 {P-GSM} '>eleos 1656 {N-ASN} >anagenn'hsas 313 {V-AAP-NSM} <hm\~as 1473 {P-1AP} e>is 1519 {PREP} >elp'ida 1680 {N-ASF} z\~wsan 2198 {V-PAP-ASF} di' 1223 {PREP} >anast'asews 386 {N-GSF} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} >ek 1537 {PREP} nekr\~wn 3498 {A-GPM} , 0 {} 
+
+$ 20:1:4 e>is 1519 {PREP} klhronom'ian 2817 {N-ASF} '>afjarton 862 {A-ASF} ka`i 2532 {CONJ} >am'ianton 283 {A-ASF} ka`i 2532 {CONJ} >am'aranton 263 {A-ASF} , 0 {} tethrhm'enhn 5083 {V-RPP-ASF} >en 1722 {PREP} o>urano\~is 3772 {N-DPM} e>is 1519 {PREP} [ 0 {} <um\~as 4771 {P-2AP} ][ 0 {} hmas 0 {} ] 0 {} , 0 {} 
+
+$ 20:1:5 to`us 3588 {T-APM} >en 1722 {PREP} dun'amei 1411 {N-DSF} jeo\~u 2316 {N-GSM} frouroum'enous 5432 {V-PPP-APM} di`a 1223 {PREP} p'istews 4102 {N-GSF} e>is 1519 {PREP} swthr'ian 4991 {N-ASF} <eto'imhn 2092 {A-ASF} >apokalufj\~hnai 601 {V-APN} >en 1722 {PREP} kair\~w| 2540 {N-DSM} >esq'atw| 2078 {A-DSM-S} . 0 {} 
+
+$ 20:1:6 >En 1722 {PREP} \~<w| 3739 {R-DSN} >agalli\~asje 21 {V-PNI-2P} , 0 {} >ol'igon 3641 {A-ASM} '>arti 737 {ADV} , 0 {} e>i 1487 {COND} d'eon 1163 {V-PAP-NSN} >est'in 1510 {V-PAI-3S} , 0 {} luphj'entes 3076 {V-APP-NPM} >en 1722 {PREP} poik'ilois 4164 {A-DPM} peirasmo\~is 3986 {N-DPM} , 0 {} 
+
+$ 20:1:7 '<ina 2443 {CONJ} t`o 3588 {T-NSN} dok'imion 1383 {N-NSN} <um\~wn 4771 {P-2GP} t\~hs 3588 {T-GSF} p'istews 4102 {N-GSF} pol`u 4183 {A-NSN} timi'wteron 5093 {A-NSN-C} qrus'iou 5553 {N-GSN} to\~u 3588 {T-GSN} >apollum'enou 622 {V-PMP-GSN} , 0 {} di`a 1223 {PREP} pur`os 4442 {N-GSN} d`e 1161 {CONJ} dokimazom'enou 1381 {V-PPP-GSN} , 0 {} e<urej\~h| 2147 {V-APS-3S} e>is 1519 {PREP} '>epainon 1868 {N-ASM} ka`i 2532 {CONJ} tim`hn 5092 {N-ASF} ka`i 2532 {CONJ} [ 0 {} e>is 1519 {PREP} d'oxan 1391 {N-ASF} ][ 0 {} doxan 0 {} ] 0 {} >en 1722 {PREP} >apokal'uyei 602 {N-DSF} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} ; 0 {} 
+
+$ 20:1:8 `<on 3739 {R-ASM} o>uk 3756 {PRT-N} e>id'otes 1492 {V-RAP-NPM} >agap\~ate 25 {V-PAI-2P} , 0 {} e>is 1519 {PREP} `<on 3739 {R-ASM} '>arti 737 {ADV} m`h 3361 {PRT-N} <or\~wntes 3708 {V-PAP-NPM} , 0 {} piste'uontes 4100 {V-PAP-NPM} d'e 1161 {CONJ} , 0 {} >agalli\~asje 21 {V-PNI-2P} qar\~a| 5479 {N-DSF} >aneklal'htw| 412 {A-DSF} ka`i 2532 {CONJ} dedoxasm'enh| 1392 {V-RPP-DSF} , 0 {} 
+
+$ 20:1:9 komiz'omenoi 2865 {V-PMP-NPM} t`o 3588 {T-ASN} t'elos 5056 {N-ASN} t\~hs 3588 {T-GSF} p'istews 4102 {N-GSF} <um\~wn 4771 {P-2GP} , 0 {} swthr'ian 4991 {N-ASF} yuq\~wn 5590 {N-GPF} . 0 {} 
+
+$ 20:1:10 Per`i 4012 {PREP} \~<hs 3739 {R-GSF} swthr'ias 4991 {N-GSF} >exez'hthsan 1567 {V-AAI-3P} ka`i 2532 {CONJ} >exhre'unhsan 1830 {V-AAI-3P} prof\~htai 4396 {N-NPM} o<i 3588 {T-NPM} per`i 4012 {PREP} t\~hs 3588 {T-GSF} e>is 1519 {PREP} <um\~as 4771 {P-2AP} q'aritos 5485 {N-GSF} profhte'usantes 4395 {V-AAP-NPM} ; 0 {} 
+
+$ 20:1:11 >ereun\~wntes 2045 {V-PAP-NPM} e>is 1519 {PREP} t'ina 5101 {I-ASM} `>h 2228 {PRT} po\~ion 4169 {I-ASM} kair`on 2540 {N-ASM} >ed'hlou 1213 {V-IAI-3S} t`o 3588 {T-NSN} >en 1722 {PREP} a>uto\~is 846 {P-DPM} pne\~uma 4151 {N-NSN} qristo\~u 5547 {N-GSM} , 0 {} promartur'omenon 4303 {V-PNP-NSN} t`a 3588 {T-APN} e>is 1519 {PREP} qrist`on 5547 {N-ASM} paj'hmata 3804 {N-APN} , 0 {} ka`i 2532 {CONJ} t`as 3588 {T-APF} met`a 3326 {PREP} ta\~uta 3778 {D-APN} d'oxas 1391 {N-APF} . 0 {} 
+
+$ 20:1:12 O\~<is 3739 {R-DPM} >apekal'ufjh 601 {V-API-3S} '<oti 3754 {CONJ} o>uq 3756 {PRT-N} <eauto\~is 1438 {F-3DPM} , 0 {} [ 0 {} <um\~in 4771 {P-2DP} d`e 1161 {CONJ} ][ 0 {} hmin 0 {} de 0 {} ] 0 {} dihk'onoun 1247 {V-IAI-3P} a>ut'a 846 {P-APN} , 0 {} `<a 3739 {R-APN} n\~un 3568 {ADV} >anhgg'elh 312 {V-2API-3S} <um\~in 4771 {P-2DP} di`a 1223 {PREP} t\~wn 3588 {T-GPM} e>uaggelisam'enwn 2097 {V-AMP-GPM} <um\~as 4771 {P-2AP} >en 1722 {PREP} pne'umati 4151 {N-DSN} <ag'iw| 40 {A-DSN} >apostal'enti 649 {V-2APP-DSN} >ap' 575 {PREP} o>urano\~u 3772 {N-GSM} , 0 {} e>is 1519 {PREP} `<a 3739 {R-APN} >epijumo\~usin 1937 {V-PAI-3P} '>aggeloi 32 {N-NPM} parak'uyai 3879 {V-AAN} . 0 {} 
+
+$ 20:1:13 % 0 {} Di`o 1352 {CONJ} >anazws'amenoi 328 {V-AMP-NPM} t`as 3588 {T-APF} >osf'uas 3751 {N-APF} t\~hs 3588 {T-GSF} diano'ias 1271 {N-GSF} <um\~wn 4771 {P-2GP} , 0 {} n'hfontes 3525 {V-PAP-NPM} , 0 {} tele'iws 5049 {ADV} >elp'isate 1679 {V-AAM-2P} >ep`i 1909 {PREP} t`hn 3588 {T-ASF} ferom'enhn 5342 {V-PPP-ASF} <um\~in 4771 {P-2DP} q'arin 5485 {N-ASF} >en 1722 {PREP} >apokal'uyei 602 {N-DSF} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} ; 0 {} 
+
+$ 20:1:14 <ws 5613 {ADV} t'ekna 5043 {N-NPN} <upako\~hs 5218 {N-GSF} , 0 {} m`h 3361 {PRT-N} susqhmatiz'omenoi 4964 {V-PEP-NPM} ta\~is 3588 {T-DPF} pr'oteron 4386 {ADV-C} >en 1722 {PREP} t\~h| 3588 {T-DSF} >agno'ia| 52 {N-DSF} <um\~wn 4771 {P-2GP} >epijum'iais 1939 {N-DPF} , 0 {} 
+
+$ 20:1:15 >all`a 235 {CONJ} kat`a 2596 {PREP} t`on 3588 {T-ASM} kal'esanta 2564 {V-AAP-ASM} <um\~as 4771 {P-2AP} '<agion 40 {A-ASM} ka`i 2532 {CONJ} a>uto`i 846 {P-NPM} '<agioi 40 {A-NPM} >en 1722 {PREP} p'ash| 3956 {A-DSF} >anastrof\~h| 391 {N-DSF} gen'hjhte 1096 {V-AOM-2P} ; 0 {} 
+
+$ 20:1:16 di'oti 1360 {CONJ} g'egraptai 1125 {V-RPI-3S} , 0 {} '<Agioi 40 {A-NPM} [ 0 {} g'inesje 1096 {V-PNM-2P} ][ 0 {} genesje 0 {} ] 0 {} , 0 {} '<oti 3754 {CONJ} >eg`w 1473 {P-1NS} '<agi'os 40 {A-NSM} e>imi 1510 {V-PAI-1S} . 0 {} 
+
+$ 20:1:17 Ka`i 2532 {CONJ} e>i 1487 {COND} pat'era 3962 {N-ASM} >epikale\~isje 1941 {V-PMI-2P} t`on 3588 {T-ASM} >aproswpol'hptws 678 {ADV} kr'inonta 2919 {V-PAP-ASM} kat`a 2596 {PREP} t`o 3588 {T-ASN} <ek'astou 1538 {A-GSM} '>ergon 2041 {N-ASN} , 0 {} >en 1722 {PREP} f'obw| 5401 {N-DSM} t`on 3588 {T-ASM} t\~hs 3588 {T-GSF} paroik'ias 3940 {N-GSF} <um\~wn 4771 {P-2GP} qr'onon 5550 {N-ASM} >anastr'afhte 390 {V-2APM-2P} ; 0 {} 
+
+$ 20:1:18 e>id'otes 1492 {V-RAP-NPM} '<oti 3754 {CONJ} o>u 3756 {PRT-N} fjarto\~is 5349 {A-DPN} , 0 {} >argur'iw| 694 {N-DSN} `>h 2228 {PRT} qrus'iw| 5553 {N-DSN} , 0 {} >elutr'wjhte 3084 {V-API-2P} >ek 1537 {PREP} t\~hs 3588 {T-GSF} mata'ias 3152 {A-GSF} <um\~wn 4771 {P-2GP} >anastrof\~hs 391 {N-GSF} patroparad'otou 3970 {A-GSF} , 0 {} 
+
+$ 20:1:19 >all`a 235 {CONJ} tim'iw| 5093 {A-DSN} a'<imati 129 {N-DSN} <ws 5613 {ADV} >amno\~u 286 {N-GSM} >am'wmou 299 {A-GSM} ka`i 2532 {CONJ} >asp'ilou 784 {A-GSM} qristo\~u 5547 {N-GSM} , 0 {} 
+
+$ 20:1:20 proegnwsm'enou 4267 {V-RPP-GSM} m`en 3303 {PRT} pr`o 4253 {PREP} katabol\~hs 2602 {N-GSF} k'osmou 2889 {N-GSM} , 0 {} fanerwj'entos 5319 {V-APP-GSM} d`e 1161 {CONJ} >ep' 1909 {PREP} >esq'atwn 2078 {A-GPM-S} t\~wn 3588 {T-GPM} qr'onwn 5550 {N-GPM} di' 1223 {PREP} <um\~as 4771 {P-2AP} , 0 {} 
+
+$ 20:1:21 to`us 3588 {T-APM} di' 1223 {PREP} a>uto\~u 846 {P-GSM} piste'uontas 4100 {V-PAP-APM} e>is 1519 {PREP} je'on 2316 {N-ASM} , 0 {} t`on 3588 {T-ASM} >ege'iranta 1453 {V-AAP-ASM} a>ut`on 846 {P-ASM} >ek 1537 {PREP} nekr\~wn 3498 {A-GPM} , 0 {} ka`i 2532 {CONJ} d'oxan 1391 {N-ASF} a>ut\~w| 846 {P-DSM} d'onta 1325 {V-2AAP-ASM} , 0 {} '<wste 5620 {CONJ} t`hn 3588 {T-ASF} p'istin 4102 {N-ASF} <um\~wn 4771 {P-2GP} ka`i 2532 {CONJ} >elp'ida 1680 {N-ASF} e\~>inai 1510 {V-PAN} e>is 1519 {PREP} je'on 2316 {N-ASM} . 0 {} 
+
+$ 20:1:22 T`as 3588 {T-APF} yuq`as 5590 {N-APF} <um\~wn 4771 {P-2GP} <hgnik'otes 48 {V-RAP-NPM} >en 1722 {PREP} t\~h| 3588 {T-DSF} <upako\~h| 5218 {N-DSF} t\~hs 3588 {T-GSF} >alhje'ias 225 {N-GSF} di`a 1223 {PREP} pne'umatos 4151 {N-GSN} e>is 1519 {PREP} filadelf'ian 5360 {N-ASF} >anup'okriton 505 {A-ASF} , 0 {} >ek 1537 {PREP} kajar\~as 2513 {A-GSF} kard'ias 2588 {N-GSF} >all'hlous 240 {C-APM} >agap'hsate 25 {V-AAM-2P} >ekten\~ws 1619 {ADV} ; 0 {} 
+
+$ 20:1:23 >anagegennhm'enoi 313 {V-PPP-NPM} o>uk 3756 {PRT-N} >ek 1537 {PREP} spor\~as 4701 {N-GSF} fjart\~hs 5349 {A-GSF} , 0 {} >all`a 235 {CONJ} >afj'artou 862 {A-GSF} , 0 {} di`a 1223 {PREP} l'ogou 3056 {N-GSM} z\~wntos 2198 {V-PAP-GSM} jeo\~u 2316 {N-GSM} ka`i 2532 {CONJ} m'enontos 3306 {V-PAP-GSM} e>is 1519 {PREP} t`on 3588 {T-ASM} a>i\~wna 165 {N-ASM} . 0 {} 
+
+$ 20:1:24 Di'oti 1360 {CONJ} , 0 {} P\~asa 3956 {A-NSF} s`arx 4561 {N-NSF} <ws 5613 {ADV} q'ortos 5528 {N-NSM} , 0 {} ka`i 2532 {CONJ} p\~asa 3956 {A-NSF} d'oxa 1391 {N-NSF} >anjr'wpou 444 {N-GSM} <ws 5613 {ADV} '>anjos 438 {N-NSN} q'ortou 5528 {N-GSM} . 0 {} >Exhr'anjh 3583 {V-API-3S} <o 3588 {T-NSM} q'ortos 5528 {N-NSM} , 0 {} ka`i 2532 {CONJ} t`o 3588 {T-NSN} '>anjos 438 {N-NSN} a>uto\~u 846 {P-GSM} >ex'epesen 1601 {V-2AAI-3S} ; 0 {} 
+
+$ 20:1:25 t`o 3588 {T-NSN} d`e 1161 {CONJ} <r\~hma 4487 {N-NSN} kur'iou 2962 {N-GSM} m'enei 3306 {V-PAI-3S} e>is 1519 {PREP} t`on 3588 {T-ASM} a>i\~wna 165 {N-ASM} . 0 {} To\~uto 3778 {D-NSN} d'e 1161 {CONJ} >estin 1510 {V-PAI-3S} t`o 3588 {T-NSN} <r\~hma 4487 {N-NSN} t`o 3588 {T-NSN} e>uaggelisj`en 2097 {V-APP-NSN} e>is 1519 {PREP} <um\~as 4771 {P-2AP} . 0 {} 
+
+$ 20:2:1 >Apoj'emenoi 659 {V-2AMP-NPM} o\~>un 3767 {CONJ} p\~asan 3956 {A-ASF} kak'ian 2549 {N-ASF} ka`i 2532 {CONJ} p'anta 3956 {A-ASM} d'olon 1388 {N-ASM} ka`i 2532 {CONJ} <upokr'iseis 5272 {N-APF} ka`i 2532 {CONJ} fj'onous 5355 {N-APM} ka`i 2532 {CONJ} p'asas 3956 {A-APF} katalali'as 2636 {N-APF} , 0 {} 
+
+$ 20:2:2 <ws 5613 {ADV} >artig'ennhta 738 {A-NPN} br'efh 1025 {N-NPN} , 0 {} t`o 3588 {T-ASN} logik`on 3050 {A-ASN} '>adolon 97 {A-ASN} g'ala 1051 {N-ASN} >epipoj'hsate 1971 {V-AAM-2P} , 0 {} '<ina 2443 {CONJ} >en 1722 {PREP} a>ut\~w| 846 {P-DSN} a>uxhj\~hte 837 {V-APS-2P} , 0 {} 
+
+$ 20:2:3 e'>iper 1512 {COND} >ege'usasje 1089 {V-ADI-2P} '<oti 3754 {CONJ} qrhst`os 5543 {A-NSM} <o 3588 {T-NSM} k'urios 2962 {N-NSM} ; 0 {} 
+
+$ 20:2:4 pr`os 4314 {PREP} `<on 3739 {R-ASM} proserq'omenoi 4334 {V-PNP-NPM} , 0 {} l'ijon 3037 {N-ASM} z\~wnta 2198 {V-PAP-ASM} , 0 {} <up`o 5259 {PREP} >anjr'wpwn 444 {N-GPM} m`en 3303 {PRT} >apodedokimasm'enon 593 {V-RPP-ASM} , 0 {} par`a 3844 {PREP} d`e 1161 {CONJ} je\~w| 2316 {N-DSM} >eklekt'on 1588 {A-ASM} , 0 {} '>entimon 1784 {A-ASM} , 0 {} 
+
+$ 20:2:5 ka`i 2532 {CONJ} a>uto`i 846 {P-NPM} <ws 5613 {ADV} l'ijoi 3037 {N-NPM} z\~wntes 2198 {V-PAP-NPM} o>ikodome\~isje 3618 {V-PPI-2P} o\~>ikos 3624 {N-NSM} pneumatik'os 4152 {A-NSM} , 0 {} <ier'ateuma 2406 {N-NSN} '<agion 40 {A-NSN} , 0 {} >anen'egkai 399 {V-AAN} pneumatik`as 4152 {A-APF} jus'ias 2378 {N-APF} e>uprosd'ektous 2144 {A-APF} t\~w| 3588 {T-DSM} je\~w| 2316 {N-DSM} di`a 1223 {PREP} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} . 0 {} 
+
+$ 20:2:6 [ 0 {} Di'oti 1360 {CONJ} ][ 0 {} dio 0 {} kai 0 {} ] 0 {} peri'eqei 4023 {V-PAI-3S} >en 1722 {PREP} t\~h| 3588 {T-DSF} graf\~h| 1124 {N-DSF} , 0 {} >Ido'u 3708 {V-2AMM-2S} , 0 {} t'ijhmi 5087 {V-PAI-1S} >en 1722 {PREP} Si`wn 4622 {N-PRI} l'ijon 3037 {N-ASM} >akrogwnia\~ion 204 {A-ASM} , 0 {} >eklekt'on 1588 {A-ASM} , 0 {} '>entimon 1784 {A-ASM} ; 0 {} ka`i 2532 {CONJ} <o 3588 {T-NSM} piste'uwn 4100 {V-PAP-NSM} >ep' 1909 {PREP} a>ut\~w| 846 {P-DSM} o>u 3756 {PRT-N} m`h 3361 {PRT-N} kataisqunj\~h| 2617 {V-APS-3S} . 0 {} 
+
+$ 20:2:7 <Um\~in 4771 {P-2DP} o\~>un 3767 {CONJ} <h 3588 {T-NSF} tim`h 5092 {N-NSF} to\~is 3588 {T-DPM} piste'uousin 4100 {V-PAP-DPM} ; 0 {} >apeijo\~usin 544 {V-PAP-DPM} d'e 1161 {CONJ} , 0 {} L'ijon 3037 {N-ASM} `<on 3739 {R-ASM} >apedok'imasan 593 {V-AAI-3P} o<i 3588 {T-NPM} o>ikodomo\~untes 3618 {V-PAP-NPM} , 0 {} o\~<utos 3778 {D-NSM} >egen'hjh 1096 {V-AOI-3S} e>is 1519 {PREP} kefal`hn 2776 {N-ASF} gwn'ias 1137 {N-GSF} , 0 {} 
+
+$ 20:2:8 ka'i 2532 {CONJ} , 0 {} L'ijos 3037 {N-NSM} prosk'ommatos 4348 {N-GSN} ka`i 2532 {CONJ} p'etra 4073 {N-NSF} skand'alou 4625 {N-GSN} ; 0 {} o`<i 3739 {R-NPM} prosk'optousin 4350 {V-PAI-3P} t\~w| 3588 {T-DSM} l'ogw| 3056 {N-DSM} >apeijo\~untes 544 {V-PAP-NPM} ; 0 {} e>is 1519 {PREP} `<o 3739 {R-ASN} ka`i 2532 {CONJ} >et'ejhsan 5087 {V-API-3P} . 0 {} 
+
+$ 20:2:9 <Ume\~is 4771 {P-2NP} d`e 1161 {CONJ} g'enos 1085 {N-NSN} >eklekt'on 1588 {A-NSN} , 0 {} bas'ileion 934 {A-NSN} <ier'ateuma 2406 {N-NSN} , 0 {} '>ejnos 1484 {N-NSN} '<agion 40 {A-NSN} , 0 {} la`os 2992 {N-NSM} e>is 1519 {PREP} peripo'ihsin 4047 {N-ASF} , 0 {} '<opws 3704 {ADV} t`as 3588 {T-APF} >aret`as 703 {N-APF} >exagge'ilhte 1804 {V-AAS-2P} to\~u 3588 {T-GSM} >ek 1537 {PREP} sk'otous 4655 {N-GSN} <um\~as 4771 {P-2AP} kal'esantos 2564 {V-AAP-GSM} e>is 1519 {PREP} t`o 3588 {T-ASN} jaumast`on 2298 {A-ASN} a>uto\~u 846 {P-GSM} f\~ws 5457 {N-ASN} ; 0 {} 
+
+$ 20:2:10 o<i 3588 {T-NPM} pot`e 4218 {PRT} o>u 3756 {PRT-N} la'os 2992 {N-NSM} , 0 {} n\~un 3568 {ADV} d`e 1161 {CONJ} la`os 2992 {N-NSM} jeo\~u 2316 {N-GSM} ; 0 {} o<i 3588 {T-NPM} o>uk 3756 {PRT-N} >hlehm'enoi 1653 {V-RPP-NPM} , 0 {} n\~un 3568 {ADV} d`e 1161 {CONJ} >elehj'entes 1653 {V-APP-NPM} . 0 {} 
+
+$ 20:2:11 % 0 {} >Agaphto'i 27 {A-VPM} , 0 {} parakal\~w 3870 {V-PAI-1S} <ws 5613 {ADV} paro'ikous 3941 {A-APM} ka`i 2532 {CONJ} parepid'hmous 3927 {A-APM} , 0 {} >ap'eqesjai 567 {V-PMN} t\~wn 3588 {T-GPF} sarkik\~wn 4559 {A-GPF} >epijumi\~wn 1939 {N-GPF} , 0 {} a'<itines 3748 {R-NPF} strate'uontai 4754 {V-PMI-3P} kat`a 2596 {PREP} t\~hs 3588 {T-GSF} yuq\~hs 5590 {N-GSF} ; 0 {} 
+
+$ 20:2:12 t`hn 3588 {T-ASF} >anastrof`hn 391 {N-ASF} <um\~wn 4771 {P-2GP} [ 0 {} '>eqontes 2192 {V-PAP-NPM} kal`hn 2570 {A-ASF} >en 1722 {PREP} to\~is 3588 {T-DPN} '>ejnesin 1484 {N-DPN} ][ 0 {} en 0 {} tois 0 {} ejnesin 0 {} eqontes 0 {} kalhn 0 {} ] 0 {} , 0 {} '<ina 2443 {CONJ} , 0 {} >en 1722 {PREP} \~<w| 3739 {R-DSN} katalalo\~usin 2635 {V-PAI-3P} <um\~wn 4771 {P-2GP} <ws 5613 {ADV} kakopoi\~wn 2555 {A-GPM} , 0 {} >ek 1537 {PREP} t\~wn 3588 {T-GPN} kal\~wn 2570 {A-GPN} '>ergwn 2041 {N-GPN} , 0 {} >epopte'usantes 2029 {V-AAP-NPM} , 0 {} dox'aswsin 1392 {V-AAS-3P} t`on 3588 {T-ASM} je`on 2316 {N-ASM} >en 1722 {PREP} <hm'era| 2250 {N-DSF} >episkop\~hs 1984 {N-GSF} . 0 {} 
+
+$ 20:2:13 % 0 {} <Upot'aghte 5293 {V-2APM-2P} o\~>un 3767 {CONJ} p'ash| 3956 {A-DSF} >anjrwp'inh| 442 {A-DSF} kt'isei 2937 {N-DSF} di`a 1223 {PREP} t`on 3588 {T-ASM} k'urion 2962 {N-ASM} ; 0 {} e'>ite 1535 {CONJ} basile\~i 935 {N-DSM} , 0 {} <ws 5613 {ADV} <uper'eqonti 5242 {V-PAP-DSM} ; 0 {} 
+
+$ 20:2:14 e'>ite 1535 {CONJ} <hgem'osin 2232 {N-DPM} , 0 {} <ws 5613 {ADV} di' 1223 {PREP} a>uto\~u 846 {P-GSM} pempom'enois 3992 {V-PPP-DPM} e>is 1519 {PREP} [ 0 {} >ekd'ikhsin 1557 {N-ASF} ][ 0 {} ekdikhsin 0 {} men 0 {} ] 0 {} kakopoi\~wn 2555 {A-GPM} , 0 {} '>epainon 1868 {N-ASM} d`e 1161 {CONJ} >agajopoi\~wn 17 {A-GPM} . 0 {} 
+
+$ 20:2:15 '<Oti 3754 {CONJ} o'<utws 3779 {ADV} >est`in 1510 {V-PAI-3S} t`o 3588 {T-NSN} j'elhma 2307 {N-NSN} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} , 0 {} >agajopoio\~untas 15 {V-PAP-APM} fimo\~un 5392 {V-PAN} t`hn 3588 {T-ASF} t\~wn 3588 {T-GPM} >afr'onwn 878 {A-GPM} >anjr'wpwn 444 {N-GPM} >agnws'ian 56 {N-ASF} ; 0 {} 
+
+$ 20:2:16 <ws 5613 {ADV} >ele'ujeroi 1658 {A-NPM} , 0 {} ka`i 2532 {CONJ} m`h 3361 {PRT-N} <ws 5613 {ADV} >epik'alumma 1942 {N-ASN} '>eqontes 2192 {V-PAP-NPM} t\~hs 3588 {T-GSF} kak'ias 2549 {N-GSF} t`hn 3588 {T-ASF} >eleujer'ian 1657 {N-ASF} , 0 {} >all' 235 {CONJ} <ws 5613 {ADV} do\~uloi 1401 {N-NPM} jeo\~u 2316 {N-GSM} . 0 {} 
+
+$ 20:2:17 P'antas 3956 {A-APM} tim'hsate 5091 {V-AAM-2P} . 0 {} T`hn 3588 {T-ASF} >adelf'othta 81 {N-ASF} [ 0 {} >agap'hsate 25 {V-AAM-2P} ][ 0 {} agapate 0 {} ] 0 {} . 0 {} T`on 3588 {T-ASM} je`on 2316 {N-ASM} fobe\~isje 5399 {V-PNM-2P} . 0 {} T`on 3588 {T-ASM} basil'ea 935 {N-ASM} tim\~ate 5091 {V-PAM-2P} . 0 {} 
+
+$ 20:2:18 % 0 {} O<i 3588 {T-NPM} o>ik'etai 3610 {N-NPM} , 0 {} <upotass'omenoi 5293 {V-PPP-NPM} >en 1722 {PREP} pant`i 3956 {A-DSM} f'obw| 5401 {N-DSM} to\~is 3588 {T-DPM} desp'otais 1203 {N-DPM} , 0 {} o>u 3756 {PRT-N} m'onon 3440 {ADV} to\~is 3588 {T-DPM} >agajo\~is 18 {A-DPM} ka`i 2532 {CONJ} >epieik'esin 1933 {A-DPM} , 0 {} >all`a 235 {CONJ} ka`i 2532 {CONJ} to\~is 3588 {T-DPM} skolio\~is 4646 {A-DPM} . 0 {} 
+
+$ 20:2:19 To\~uto 3778 {D-NSN} g`ar 1063 {CONJ} q'aris 5485 {N-NSF} , 0 {} e>i 1487 {COND} di`a 1223 {PREP} sune'idhsin 4893 {N-ASF} jeo\~u 2316 {N-GSM} <upof'erei 5297 {V-PAI-3S} tis 5100 {X-NSM} l'upas 3077 {N-APF} , 0 {} p'asqwn 3958 {V-PAP-NSM} >ad'ikws 95 {ADV} . 0 {} 
+
+$ 20:2:20 Po\~ion 4169 {I-NSN} g`ar 1063 {CONJ} kl'eos 2811 {N-NSN} , 0 {} e>i 1487 {COND} <amart'anontes 264 {V-PAP-NPM} ka`i 2532 {CONJ} kolafiz'omenoi 2852 {V-PPP-NPM} <upomene\~ite 5278 {V-FAI-2P} ? 0 {} >All' 235 {CONJ} e>i 1487 {COND} >agajopoio\~untes 15 {V-PAP-NPM} ka`i 2532 {CONJ} p'asqontes 3958 {V-PAP-NPM} <upomene\~ite 5278 {V-FAI-2P} , 0 {} to\~uto 3778 {D-NSN} q'aris 5485 {N-NSF} par`a 3844 {PREP} je\~w| 2316 {N-DSM} . 0 {} 
+
+$ 20:2:21 E>is 1519 {PREP} to\~uto 3778 {D-ASN} g`ar 1063 {CONJ} >ekl'hjhte 2564 {V-API-2P} , 0 {} '<oti 3754 {CONJ} ka`i 2532 {CONJ} qrist`os 5547 {N-NSM} '>epajen 3958 {V-2AAI-3S} <up`er 5228 {PREP} <hm\~wn 1473 {P-1GP} , 0 {} [ 0 {} <um\~in 4771 {P-2DP} ][ 0 {} hmin 0 {} ] 0 {} <upolimp'anwn 5277 {V-PAP-NSM} <upogramm'on 5261 {N-ASM} , 0 {} '<ina 2443 {CONJ} >epakolouj'hshte 1872 {V-AAS-2P} to\~is 3588 {T-DPN} '>iqnesin 2487 {N-DPN} a>uto\~u 846 {P-GSM} ; 0 {} 
+
+$ 20:2:22 `<os 3739 {R-NSM} <amart'ian 266 {N-ASF} o>uk 3756 {PRT-N} >epo'ihsen 4160 {V-AAI-3S} , 0 {} o>ud`e 3761 {CONJ-N} e<ur'ejh 2147 {V-API-3S} d'olos 1388 {N-NSM} >en 1722 {PREP} t\~w| 3588 {T-DSN} st'omati 4750 {N-DSN} a>uto\~u 846 {P-GSM} ; 0 {} 
+
+$ 20:2:23 `<os 3739 {R-NSM} loidoro'umenos 3058 {V-PPP-NSM} o>uk 3756 {PRT-N} >anteloid'orei 486 {V-IAI-3S} , 0 {} p'asqwn 3958 {V-PAP-NSM} o>uk 3756 {PRT-N} >hpe'ilei 546 {V-IAI-3S} , 0 {} pared'idou 3860 {V-IAI-3S} d`e 1161 {CONJ} t\~w| 3588 {T-DSM} kr'inonti 2919 {V-PAP-DSM} dika'iws 1346 {ADV} ; 0 {} 
+
+$ 20:2:24 `<os 3739 {R-NSM} t`as 3588 {T-APF} <amart'ias 266 {N-APF} <hm\~wn 1473 {P-1GP} a>ut`os 846 {P-NSM} >an'hnegken 399 {V-AAI-3S} >en 1722 {PREP} t\~w| 3588 {T-DSN} s'wmati 4983 {N-DSN} a>uto\~u 846 {P-GSM} >ep`i 1909 {PREP} t`o 3588 {T-ASN} x'ulon 3586 {N-ASN} , 0 {} '<ina 2443 {CONJ} , 0 {} ta\~is 3588 {T-DPF} <amart'iais 266 {N-DPF} >apogen'omenoi 581 {V-2ADP-NPM} , 0 {} t\~h| 3588 {T-DSF} dikaios'unh| 1343 {N-DSF} z'hswmen 2198 {V-AAS-1P} ; 0 {} o\~<u 3739 {R-GSM} t\~w| 3588 {T-DSM} m'wlwpi 3468 {N-DSM} a>uto\~u 846 {P-GSM} >i'ajhte 2390 {V-API-2P} . 0 {} 
+
+$ 20:2:25 \~>Hte 1510 {V-IAI-2P} g`ar 1063 {CONJ} <ws 5613 {ADV} pr'obata 4263 {N-NPN} plan'wmena 4105 {V-PPP-NPN} ; 0 {} >all' 235 {CONJ} >epestr'afhte 1994 {V-2API-2P} n\~un 3568 {ADV} >ep`i 1909 {PREP} t`on 3588 {T-ASM} poim'ena 4166 {N-ASM} ka`i 2532 {CONJ} >ep'iskopon 1985 {N-ASM} t\~wn 3588 {T-GPF} yuq\~wn 5590 {N-GPF} <um\~wn 4771 {P-2GP} . 0 {} 
+
+$ 20:3:1 <Omo'iws 3668 {ADV} , 0 {} a<i 3588 {T-NPF} guna\~ikes 1135 {N-NPF} , 0 {} <upotass'omenai 5293 {V-PPP-NPF} to\~is 3588 {T-DPM} >id'iois 2398 {A-DPM} >andr'asin 435 {N-DPM} , 0 {} '<ina 2443 {CONJ} , 0 {} ka`i 2532 {CONJ} e'>i 1487 {COND} tines 5100 {X-NPM} >apeijo\~usin 544 {V-PAI-3P} t\~w| 3588 {T-DSM} l'ogw| 3056 {N-DSM} , 0 {} di`a 1223 {PREP} t\~hs 3588 {T-GSF} t\~wn 3588 {T-GPF} gunaik\~wn 1135 {N-GPF} >anastrof\~hs 391 {N-GSF} '>aneu 427 {PREP} l'ogou 3056 {N-GSM} [ 0 {} kerdhj'hsontai 2770 {V-FPI-3P} ][ 0 {} kerdhjhswntai 0 {} ] 0 {} , 0 {} 
+
+$ 20:3:2 >epopte'usantes 2029 {V-AAP-NPM} t`hn 3588 {T-ASF} >en 1722 {PREP} f'obw| 5401 {N-DSM} <agn`hn 53 {A-ASF} >anastrof`hn 391 {N-ASF} <um\~wn 4771 {P-2GP} . 0 {} 
+
+$ 20:3:3 \~<Wn 3739 {R-GPF} '>estw 1510 {V-PAM-3S} o>uq 3756 {PRT-N} <o 3588 {T-NSM} '>exwjen 1855 {ADV} >emplok\~hs 1708 {N-GSF} triq\~wn 2359 {N-GPF} , 0 {} ka`i 2532 {CONJ} perij'esews 4025 {N-GSF} qrus'iwn 5553 {N-GPN} , 0 {} `>h 2228 {PRT} >end'usews 1745 {N-GSF} <imat'iwn 2440 {N-GPN} k'osmos 2889 {N-NSM} ; 0 {} 
+
+$ 20:3:4 >all' 235 {CONJ} <o 3588 {T-NSM} krupt`os 2927 {A-NSM} t\~hs 3588 {T-GSF} kard'ias 2588 {N-GSF} '>anjrwpos 444 {N-NSM} , 0 {} >en 1722 {PREP} t\~w| 3588 {T-DSN} >afj'artw| 862 {A-DSN} to\~u 3588 {T-GSN} pra|'eos 4239 {A-GSN} ka`i 2532 {CONJ} <hsuq'iou 2272 {A-GSN} pne'umatos 4151 {N-GSN} , 0 {} '<o 3739 {R-NSN} >estin 1510 {V-PAI-3S} >en'wpion 1799 {ADV} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} polutel'es 4185 {A-NSN} . 0 {} 
+
+$ 20:3:5 O'<utws 3779 {ADV} g'ar 1063 {CONJ} pote 4218 {PRT} ka`i 2532 {CONJ} a<i 3588 {T-NPF} '<agiai 40 {A-NPF} guna\~ikes 1135 {N-NPF} a<i 3588 {T-NPF} >elp'izousai 1679 {V-PAP-NPF} >ep`i 1909 {PREP} [ 0 {} je`on 2316 {N-ASM} ][ 0 {} ton 0 {} jeon 0 {} ] 0 {} >ek'osmoun 2885 {V-IAI-3P} <eaut'as 1438 {F-3APF} , 0 {} <upotass'omenai 5293 {V-PPP-NPF} to\~is 3588 {T-DPM} >id'iois 2398 {A-DPM} >andr'asin 435 {N-DPM} ; 0 {} 
+
+$ 20:3:6 <ws 5613 {ADV} S'arra 4564 {N-NSF} <up'hkousen 5219 {V-AAI-3S} t\~w| 3588 {T-DSM} >Abra'am 11 {N-PRI} , 0 {} k'urion 2962 {N-ASM} a>ut`on 846 {P-ASM} kalo\~usa 2564 {V-PAP-NSF} , 0 {} \~<hs 3739 {R-GSF} >egen'hjhte 1096 {V-AOI-2P} t'ekna 5043 {N-APN} , 0 {} >agajopoio\~usai 15 {V-PAP-NPF} ka`i 2532 {CONJ} m`h 3361 {PRT-N} fobo'umenai 5399 {V-PNP-NPF} mhdem'ian 3367 {A-ASF-N} pt'ohsin 4423 {N-ASF} . 0 {} 
+
+$ 20:3:7 % 0 {} O<i 3588 {T-NPM} '>andres 435 {N-NPM} <omo'iws 3668 {ADV} , 0 {} sunoiko\~untes 4924 {V-PAP-NPM} kat`a 2596 {PREP} gn\~wsin 1108 {N-ASF} , 0 {} <ws 5613 {ADV} >asjenest'erw| 772 {A-DSN-C} ske'uei 4632 {N-DSN} t\~w| 3588 {T-DSN} gunaike'iw| 1134 {A-DSN} >apon'emontes 632 {V-PAP-NPM} tim'hn 5092 {N-ASF} , 0 {} <ws 5613 {ADV} ka`i 2532 {CONJ} sugklhron'omoi 4789 {A-NPM} q'aritos 5485 {N-GSF} zw\~hs 2222 {N-GSF} , 0 {} e>is 1519 {PREP} t`o 3588 {T-ASN} m`h 3361 {PRT-N} [ 0 {} >egk'optesjai 1465 {V-PPN} ][ 0 {} ekkoptesjai 0 {} ] 0 {} t`as 3588 {T-APF} proseuq`as 4335 {N-APF} <um\~wn 4771 {P-2GP} . 0 {} 
+
+$ 20:3:8 % 0 {} T`o 3588 {T-NSN} d`e 1161 {CONJ} t'elos 5056 {N-NSN} , 0 {} p'antes 3956 {A-NPM} <om'ofrones 3675 {A-NPM} , 0 {} sumpaje\~is 4835 {A-NPM} , 0 {} fil'adelfoi 5361 {A-NPM} , 0 {} e'>usplagqnoi 2155 {A-NPM} , 0 {} fil'ofrones 5391 {A-NPM} ; 0 {} 
+
+$ 20:3:9 m`h 3361 {PRT-N} >apodid'ontes 591 {V-PAP-NPM} kak`on 2556 {A-ASN} >ant`i 473 {PREP} kako\~u 2556 {A-GSN} , 0 {} `>h 2228 {PRT} loidor'ian 3059 {N-ASF} >ant`i 473 {PREP} loidor'ias 3059 {N-GSF} ; 0 {} to>unant'ion 5121 {ADV-K} d`e 1161 {CONJ} e>ulogo\~untes 2127 {V-PAP-NPM} , 0 {} e>id'otes 1492 {V-RAP-NPM} '<oti 3754 {CONJ} e>is 1519 {PREP} to\~uto 3778 {D-ASN} >ekl'hjhte 2564 {V-API-2P} , 0 {} '<ina 2443 {CONJ} e>ulog'ian 2129 {N-ASF} klhronom'hshte 2816 {V-AAS-2P} . 0 {} 
+
+$ 20:3:10 <O 3588 {T-NSM} g`ar 1063 {CONJ} j'elwn 2309 {V-PAP-NSM} zw`hn 2222 {N-ASF} >agap\~a|n 25 {V-PAN} , 0 {} ka`i 2532 {CONJ} >ide\~in 3708 {V-2AAN} <hm'eras 2250 {N-APF} >agaj'as 18 {A-APF} , 0 {} paus'atw 3973 {V-AAM-3S} t`hn 3588 {T-ASF} gl\~wssan 1100 {N-ASF} a>uto\~u 846 {P-GSM} >ap`o 575 {PREP} kako\~u 2556 {A-GSN} , 0 {} ka`i 2532 {CONJ} qe'ilh 5491 {N-APN} a>uto\~u 846 {P-GSM} to\~u 3588 {T-GSN} m`h 3361 {PRT-N} lal\~hsai 2980 {V-AAN} d'olon 1388 {N-ASM} ; 0 {} 
+
+$ 20:3:11 >ekklin'atw 1578 {V-AAM-3S} >ap`o 575 {PREP} kako\~u 2556 {A-GSN} , 0 {} ka`i 2532 {CONJ} poihs'atw 4160 {V-AAM-3S} >agaj'on 18 {A-ASN} ; 0 {} zhths'atw 2212 {V-AAM-3S} e>ir'hnhn 1515 {N-ASF} , 0 {} ka`i 2532 {CONJ} diwx'atw 1377 {V-AAM-3S} a>ut'hn 846 {P-ASF} . 0 {} 
+
+$ 20:3:12 '<Oti 3754 {CONJ} [ 0 {} >ofjalmo`i 3788 {N-NPM} ][ 0 {} oi 0 {} ofjalmoi 0 {} ] 0 {} kur'iou 2962 {N-GSM} >ep`i 1909 {PREP} dika'ious 1342 {A-APM} , 0 {} ka`i 2532 {CONJ} \~>wta 3775 {N-NPN} a>uto\~u 846 {P-GSM} e>is 1519 {PREP} d'ehsin 1162 {N-ASF} a>ut\~wn 846 {P-GPM} ; 0 {} pr'oswpon 4383 {N-NSN} d`e 1161 {CONJ} kur'iou 2962 {N-GSM} >ep`i 1909 {PREP} poio\~untas 4160 {V-PAP-APM} kak'a 2556 {A-APN} . 0 {} 
+
+$ 20:3:13 % 0 {} Ka`i 2532 {CONJ} t'is 5101 {I-NSM} <o 3588 {T-NSM} kak'wswn 2559 {V-FAP-NSM} <um\~as 4771 {P-2AP} , 0 {} >e`an 1437 {COND} to\~u 3588 {T-GSM} >agajo\~u 18 {A-GSN} mimhta`i 3402 {N-NPM} g'enhsje 1096 {V-2ADS-2P} ? 0 {} 
+
+$ 20:3:14 >All' 235 {CONJ} e>i 1487 {COND} ka`i 2532 {CONJ} p'asqoite 3958 {V-PAO-2P} di`a 1223 {PREP} dikaios'unhn 1343 {N-ASF} , 0 {} mak'arioi 3107 {A-NPM} ; 0 {} t`on 3588 {T-ASM} d`e 1161 {CONJ} f'obon 5401 {N-ASM} a>ut\~wn 846 {P-GPM} m`h 3361 {PRT-N} fobhj\~hte 5399 {V-AOM-2P} , 0 {} mhd`e 3366 {CONJ-N} taraqj\~hte 5015 {V-APS-2P} ; 0 {} 
+
+$ 20:3:15 k'urion 2962 {N-ASM} d`e 1161 {CONJ} t`on 3588 {T-ASM} je`on 2316 {N-ASM} <agi'asate 37 {V-AAM-2P} >en 1722 {PREP} ta\~is 3588 {T-DPF} kard'iais 2588 {N-DPF} <um\~wn 4771 {P-2GP} ; 0 {} '<etoimoi 2092 {A-NPM} d`e 1161 {CONJ} >ae`i 104 {ADV} pr`os 4314 {PREP} >apolog'ian 627 {N-ASF} pant`i 3956 {A-DSM} t\~w| 3588 {T-DSM} a>ito\~unti 154 {V-PAP-DSM} <um\~as 4771 {P-2AP} l'ogon 3056 {N-ASM} per`i 4012 {PREP} t\~hs 3588 {T-GSF} >en 1722 {PREP} <um\~in 4771 {P-2DP} >elp'idos 1680 {N-GSF} , 0 {} met`a 3326 {PREP} pra|"'uthtos 4240 {N-GSF} ka`i 2532 {CONJ} f'obou 5401 {N-GSM} ; 0 {} 
+
+$ 20:3:16 sune'idhsin 4893 {N-ASF} '>eqontes 2192 {V-PAP-NPM} >agaj'hn 18 {A-ASF} , 0 {} '<ina 2443 {CONJ} , 0 {} >en 1722 {PREP} \~<w| 3739 {R-DSN} [ 0 {} katalalo\~usin 2635 {V-PAI-3P} ][ 0 {} katalalwsin 0 {} ] 0 {} <um\~wn 4771 {P-2GP} <ws 5613 {ADV} kakopoi\~wn 2555 {A-GPM} , 0 {} kataisqunj\~wsin 2617 {V-APS-3P} o<i 3588 {T-NPM} >ephre'azontes 1908 {V-PAP-NPM} <um\~wn 4771 {P-2GP} t`hn 3588 {T-ASF} >agaj`hn 18 {A-ASF} >en 1722 {PREP} qrist\~w| 5547 {N-DSM} >anastrof'hn 391 {N-ASF} . 0 {} 
+
+$ 20:3:17 Kre\~itton 2909 {A-NSN} g`ar 1063 {CONJ} >agajopoio\~untas 15 {V-PAP-APM} , 0 {} e>i 1487 {COND} [ 0 {} j'eloi 2309 {V-PAO-3S} ][ 0 {} jelei 0 {} ] 0 {} t`o 3588 {T-NSN} j'elhma 2307 {N-NSN} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} , 0 {} p'asqein 3958 {V-PAN} , 0 {} `>h 2228 {PRT} kakopoio\~untas 2554 {V-PAP-APM} . 0 {} 
+
+$ 20:3:18 '<Oti 3754 {CONJ} ka`i 2532 {CONJ} qrist`os 5547 {N-NSM} '<apax 530 {ADV} per`i 4012 {PREP} <amarti\~wn 266 {N-GPF} '>epajen 3958 {V-2AAI-3S} , 0 {} d'ikaios 1342 {A-NSM} <up`er 5228 {PREP} >ad'ikwn 94 {A-GPM} , 0 {} '<ina 2443 {CONJ} [ 0 {} <um\~as 4771 {P-2AP} ][ 0 {} hmas 0 {} ] 0 {} prosag'agh| 4317 {V-2AAS-3S} t\~w| 3588 {T-DSM} je\~w| 2316 {N-DSM} , 0 {} janatwje`is 2289 {V-RPP-NSM} m`en 3303 {PRT} sark'i 4561 {N-DSF} , 0 {} zw|opoihje`is 2227 {V-APP-NSM} d`e 1161 {CONJ} [ 0 {} pne'umati 4151 {N-DSN} ][ 0 {} tw 0 {} pneumati 0 {} ] 0 {} , 0 {} 
+
+$ 20:3:19 >en 1722 {PREP} \~<w| 3739 {R-DSN} ka`i 2532 {CONJ} to\~is 3588 {T-DPN} >en 1722 {PREP} fulak\~h| 5438 {N-DSF} pne'umasin 4151 {N-DPN} poreuje`is 4198 {V-AOP-NSM} >ek'hruxen 2784 {V-AAI-3S} , 0 {} 
+
+$ 20:3:20 >apeij'hsas'in 544 {V-AAP-DPM} pote 4218 {PRT} , 0 {} '<ote 3753 {ADV} [ 0 {} >apexed'eqeto 553 {V-INI-3S} ][ 0 {} apax 0 {} exedeqeto 0 {} ] 0 {} <h 3588 {T-NSF} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} makrojum'ia 3115 {N-NSF} >en 1722 {PREP} <hm'erais 2250 {N-DPF} N\~we 3575 {N-PRI} , 0 {} kataskeuazom'enhs 2680 {V-PPP-GSF} kibwto\~u 2787 {N-GSF} , 0 {} e>is 1519 {PREP} `<hn 3739 {R-ASF} >ol'igai 3641 {A-NPF} , 0 {} to\~ut' 3778 {D-NSN} '>estin 1510 {V-PAI-3S} >okt`w 3638 {A-NUI} yuqa'i 5590 {N-NPF} , 0 {} dies'wjhsan 1295 {V-API-3P} di' 1223 {PREP} '<udatos 5204 {N-GSN} ; 0 {} 
+
+$ 20:3:21 `<o 3739 {R-NSN} [ 0 {} >ant'itupon 499 {A-NSN} n\~un 3568 {ADV} ka`i 2532 {CONJ} <hm\~as 1473 {P-1AP} ][ 0 {} kai 0 {} hmas 0 {} antitupon 0 {} nun 0 {} ] 0 {} s'w|zei 4982 {V-PAI-3S} b'aptisma 908 {N-NSN} , 0 {} o>u 3756 {PRT-N} sark`os 4561 {N-GSF} >ap'ojesis 595 {N-NSF} <r'upou 4509 {N-GSM} , 0 {} >all`a 235 {CONJ} suneid'hsews 4893 {N-GSF} >agaj\~hs 18 {A-GSF} >eper'wthma 1906 {N-NSN} e>is 1519 {PREP} je'on 2316 {N-ASM} , 0 {} di' 1223 {PREP} >anast'asews 386 {N-GSF} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} , 0 {} 
+
+$ 20:3:22 '<os 3739 {R-NSM} >estin 1510 {V-PAI-3S} >en 1722 {PREP} dexi\~a| 1188 {A-DSF} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} , 0 {} poreuje`is 4198 {V-AOP-NSM} e>is 1519 {PREP} o>uran'on 3772 {N-ASM} , 0 {} <upotag'entwn 5293 {V-2APP-GPM} a>ut\~w| 846 {P-DSM} >agg'elwn 32 {N-GPM} ka`i 2532 {CONJ} >exousi\~wn 1849 {N-GPF} ka`i 2532 {CONJ} dun'amewn 1411 {N-GPF} . 0 {} 
+
+$ 20:4:1 Qristo\~u 5547 {N-GSM} o\~>un 3767 {CONJ} paj'ontos 3958 {V-2AAP-GSM} <up`er 5228 {PREP} <hm\~wn 1473 {P-1GP} sark'i 4561 {N-DSF} , 0 {} ka`i 2532 {CONJ} <ume\~is 4771 {P-2NP} t`hn 3588 {T-ASF} a>ut`hn 846 {P-ASF} '>ennoian 1771 {N-ASF} <opl'isasje 3695 {V-AMM-2P} ; 0 {} '<oti 3754 {CONJ} <o 3588 {T-NSM} paj`wn 3958 {V-2AAP-NSM} >en 1722 {PREP} sark'i 4561 {N-DSF} , 0 {} p'epautai 3973 {V-RPI-3S} <amart'ias 266 {N-GSF} ; 0 {} 
+
+$ 20:4:2 e>is 1519 {PREP} t`o 3588 {T-ASN} mhk'eti 3371 {ADV-N} >anjr'wpwn 444 {N-GPM} >epijum'iais 1939 {N-DPF} , 0 {} >all`a 235 {CONJ} jel'hmati 2307 {N-DSN} jeo\~u 2316 {N-GSM} t`on 3588 {T-ASM} >ep'iloipon 1954 {A-ASM} >en 1722 {PREP} sark`i 4561 {N-DSF} bi\~wsai 980 {V-AAN} qr'onon 5550 {N-ASM} . 0 {} 
+
+$ 20:4:3 >Arket`os 713 {A-NSM} g`ar 1063 {CONJ} <hm\~in 1473 {P-1DP} <o 3588 {T-NSM} parelhluj`ws 3928 {V-2RAP-NSM} qr'onos 5550 {N-NSM} to\~u 3588 {T-GSM} b'iou 979 {N-GSM} t`o 3588 {T-ASN} j'elhma 2307 {N-ASN} t\~wn 3588 {T-GPN} >ejn\~wn 1484 {N-GPN} katerg'asasjai 2716 {V-ADN} , 0 {} peporeum'enous 4198 {V-RNP-APM} >en 1722 {PREP} >aselge'iais 766 {N-DPF} , 0 {} >epijum'iais 1939 {N-DPF} , 0 {} o>inoflug'iais 3632 {N-DPF} , 0 {} k'wmois 2970 {N-DPM} , 0 {} p'otois 4224 {N-DPM} , 0 {} ka`i 2532 {CONJ} >ajem'itois 111 {A-DPF} e>idwlolatre'iais 1495 {N-DPF} ; 0 {} 
+
+$ 20:4:4 >en 1722 {PREP} \~<w| 3739 {R-DSN} xen'izontai 3579 {V-PPI-3P} , 0 {} m`h 3361 {PRT-N} suntreq'ontwn 4936 {V-PAP-GPM} <um\~wn 4771 {P-2GP} e>is 1519 {PREP} t`hn 3588 {T-ASF} a>ut`hn 846 {P-ASF} t\~hs 3588 {T-GSF} >aswt'ias 810 {N-GSF} >an'aqusin 401 {N-ASF} , 0 {} blasfhmo\~untes 987 {V-PAP-NPM} ; 0 {} 
+
+$ 20:4:5 o`<i 3739 {R-NPM} >apod'wsousin 591 {V-FAI-3P} l'ogon 3056 {N-ASM} t\~w| 3588 {T-DSM} <eto'imws 2093 {ADV} '>eqonti 2192 {V-PAP-DSM} kr\~inai 2919 {V-AAN} z\~wntas 2198 {V-PAP-APM} ka`i 2532 {CONJ} nekro'us 3498 {A-APM} . 0 {} 
+
+$ 20:4:6 E>is 1519 {PREP} to\~uto 3778 {D-ASN} g`ar 1063 {CONJ} ka`i 2532 {CONJ} nekro\~is 3498 {A-DPM} e>uhggel'isjh 2097 {V-API-3S} , 0 {} '<ina 2443 {CONJ} krij\~wsin 2919 {V-APS-3P} m`en 3303 {PRT} kat`a 2596 {PREP} >anjr'wpous 444 {N-APM} sark'i 4561 {N-DSF} , 0 {} z\~wsin 2198 {V-PAS-3P} d`e 1161 {CONJ} kat`a 2596 {PREP} je`on 2316 {N-ASM} pne'umati 4151 {N-DSN} . 0 {} 
+
+$ 20:4:7 % 0 {} P'antwn 3956 {A-GPN} d`e 1161 {CONJ} t`o 3588 {T-NSN} t'elos 5056 {N-NSN} '>hggiken 1448 {V-RAI-3S} ; 0 {} swfron'hsate 4993 {V-AAM-2P} o\~>un 3767 {CONJ} ka`i 2532 {CONJ} n'hyate 3525 {V-AAM-2P} e>is 1519 {PREP} t`as 3588 {T-APF} proseuq'as 4335 {N-APF} ; 0 {} 
+
+$ 20:4:8 pr`o 4253 {PREP} p'antwn 3956 {A-GPM} d`e 1161 {CONJ} t`hn 3588 {T-ASF} e>is 1519 {PREP} <eauto`us 1438 {F-2APM} >ag'aphn 26 {N-ASF} >ekten\~h 1618 {A-ASF} '>eqontes 2192 {V-PAP-NPM} , 0 {} '<oti 3754 {CONJ} >ag'aph 26 {N-NSF} kal'uyei 2572 {V-FAI-3S} pl\~hjos 4128 {N-ASN} <amarti\~wn 266 {N-GPF} ; 0 {} 
+
+$ 20:4:9 fil'oxenoi 5382 {A-NPM} e>is 1519 {PREP} >all'hlous 240 {C-APM} '>aneu 427 {PREP} goggusm\~wn 1112 {N-GPM} ; 0 {} 
+
+$ 20:4:10 '<ekastos 1538 {A-NSM} kaj`ws 2531 {ADV} '>elaben 2983 {V-2AAI-3S} q'arisma 5486 {N-ASN} , 0 {} e>is 1519 {PREP} <eauto`us 1438 {F-3APM} a>ut`o 846 {P-ASN} diakono\~untes 1247 {V-PAP-NPM} , 0 {} <ws 5613 {ADV} kalo`i 2570 {A-NPM} o>ikon'omoi 3623 {N-NPM} poik'ilhs 4164 {A-GSF} q'aritos 5485 {N-GSF} jeo\~u 2316 {N-GSM} ; 0 {} 
+
+$ 20:4:11 e'>i 1487 {COND} tis 5100 {X-NSM} lale\~i 2980 {V-PAI-3S} , 0 {} <ws 5613 {ADV} l'ogia 3051 {N-APN} jeo\~u 2316 {N-GSM} ; 0 {} e'>i 1487 {COND} tis 5100 {X-NSM} diakone\~i 1247 {V-PAI-3S} , 0 {} <ws 5613 {ADV} >ex 1537 {PREP} >isq'uos 2479 {N-GSF} [ 0 {} <ws 5613 {ADV} qorhge\~i 5524 {V-PAI-3S} ][ 0 {} hs 0 {} qorhgei 0 {} ] 0 {} <o 3588 {T-NSM} je'os 2316 {N-NSM} ; 0 {} '<ina 2443 {CONJ} >en 1722 {PREP} p\~asin 3956 {A-DPN} dox'azhtai 1392 {V-PPS-3S} <o 3588 {T-NSM} je`os 2316 {N-NSM} di`a 1223 {PREP} >Ihso\~u 2424 {N-GSM} qristo\~u 5547 {N-GSM} , 0 {} \~<w| 3739 {R-DSM} >est`in 1510 {V-PAI-3S} <h 3588 {T-NSF} d'oxa 1391 {N-NSF} ka`i 2532 {CONJ} t`o 3588 {T-NSN} kr'atos 2904 {N-NSN} e>is 1519 {PREP} to`us 3588 {T-APM} a>i\~wnas 165 {N-APM} t\~wn 3588 {T-GPM} a>i'wnwn 165 {N-GPM} . 0 {} >Am'hn 281 {HEB} . 0 {} 
+
+$ 20:4:12 % 0 {} >Agaphto'i 27 {A-VPM} , 0 {} m`h 3361 {PRT-N} xen'izesje 3579 {V-PPM-2P} t\~h| 3588 {T-DSF} >en 1722 {PREP} <um\~in 4771 {P-2DP} pur'wsei 4451 {N-DSF} pr`os 4314 {PREP} peirasm`on 3986 {N-ASM} <um\~in 4771 {P-2DP} ginom'enh| 1096 {V-PNP-DSF} , 0 {} <ws 5613 {ADV} x'enou 3581 {A-GSN} <um\~in 4771 {P-2DP} sumba'inontos 4819 {V-PAP-GSN} ; 0 {} 
+
+$ 20:4:13 >all`a 235 {CONJ} kaj`o 2526 {ADV} koinwne\~ite 2841 {V-PAI-2P} to\~is 3588 {T-DPN} to\~u 3588 {T-GSM} qristo\~u 5547 {N-GSM} paj'hmasin 3804 {N-DPN} , 0 {} qa'irete 5463 {V-PAM-2P} , 0 {} '<ina 2443 {CONJ} ka`i 2532 {CONJ} >en 1722 {PREP} t\~h| 3588 {T-DSF} >apokal'uyei 602 {N-DSF} t\~hs 3588 {T-GSF} d'oxhs 1391 {N-GSF} a>uto\~u 846 {P-GSM} qar\~hte 5463 {V-2AOS-2P} >agalli'wmenoi 21 {V-PNP-NPM} . 0 {} 
+
+$ 20:4:14 E>i 1487 {COND} >oneid'izesje 3679 {V-PPI-2P} >en 1722 {PREP} >on'omati 3686 {N-DSN} qristo\~u 5547 {N-GSM} , 0 {} mak'arioi 3107 {A-NPM} ; 0 {} '<oti 3754 {CONJ} t`o 3588 {T-NSN} t\~hs 3588 {T-GSF} d'oxhs 1391 {N-GSF} ka`i 2532 {CONJ} t`o 3588 {T-NSN} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} pne\~uma 4151 {N-NSN} >ef' 1909 {PREP} <um\~as 4771 {P-2AP} >anapa'uetai 373 {V-PMI-3S} ; 0 {} kat`a 2596 {PREP} m`en 3303 {PRT} a>uto`us 846 {P-APM} blasfhme\~itai 987 {V-PPI-3S} , 0 {} kat`a 2596 {PREP} d`e 1161 {CONJ} <um\~as 4771 {P-2AP} dox'azetai 1392 {V-PPI-3S} . 0 {} 
+
+$ 20:4:15 M`h 3361 {PRT-N} g'ar 1063 {CONJ} tis 5100 {X-NSM} <um\~wn 4771 {P-2GP} pasq'etw 3958 {V-PAM-3S} <ws 5613 {ADV} fone'us 5406 {N-NSM} , 0 {} `>h 2228 {PRT} kl'epths 2812 {N-NSM} , 0 {} `>h 2228 {PRT} kakopoi'os 2555 {A-NSM} , 0 {} `>h 2228 {PRT} <ws 5613 {ADV} >allotrioep'iskopos 244 {N-NSM} ; 0 {} 
+
+$ 20:4:16 e>i 1487 {COND} d`e 1161 {CONJ} <ws 5613 {ADV} Qristian'os 5546 {N-NSM} , 0 {} m`h 3361 {PRT-N} a>isqun'esjw 153 {V-PPM-3S} , 0 {} doxaz'etw 1392 {V-PAM-3S} d`e 1161 {CONJ} t`on 3588 {T-ASM} je`on 2316 {N-ASM} >en 1722 {PREP} t\~w| 3588 {T-DSN} m'erei 3313 {N-DSN} to'utw| 3778 {D-DSN} . 0 {} 
+
+$ 20:4:17 '<Oti 3754 {CONJ} <o 3588 {T-NSM} kair`os 2540 {N-NSM} to\~u 3588 {T-GSN} '>arxasjai 756 {V-AMN} t`o 3588 {T-ASN} kr'ima 2917 {N-ASN} >ap`o 575 {PREP} to\~u 3588 {T-GSM} o'>ikou 3624 {N-GSM} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} ; 0 {} e>i 1487 {COND} d`e 1161 {CONJ} pr\~wton 4412 {ADV-S} >af' 575 {PREP} <hm\~wn 1473 {P-1GP} , 0 {} t'i 5101 {I-NSN} t`o 3588 {T-NSN} t'elos 5056 {N-NSN} t\~wn 3588 {T-GPM} >apeijo'untwn 544 {V-PAP-GPM} t\~w| 3588 {T-DSN} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} e>uaggel'iw| 2098 {N-DSN} ? 0 {} 
+
+$ 20:4:18 Ka`i 2532 {CONJ} e>i 1487 {COND} <o 3588 {T-NSM} d'ikaios 1342 {A-NSM} m'olis 3433 {ADV} s'w|zetai 4982 {V-PPI-3S} , 0 {} <o 3588 {T-NSM} >aseb`hs 765 {A-NSM} ka`i 2532 {CONJ} <amartwl`os 268 {A-NSM} po\~u 4226 {PRT-I} fane\~itai 5316 {V-FDI-3S} ? 0 {} 
+
+$ 20:4:19 '<Wste 5620 {CONJ} ka`i 2532 {CONJ} o<i 3588 {T-NPM} p'asqontes 3958 {V-PAP-NPM} kat`a 2596 {PREP} t`o 3588 {T-ASN} j'elhma 2307 {N-ASN} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} , 0 {} <ws 5613 {ADV} pist\~w| 4103 {A-DSM} kt'isth| 2939 {N-DSM} paratij'esjwsan 3908 {V-PPM-3P} t`as 3588 {T-APF} yuq`as 5590 {N-APF} [ 0 {} a>ut\~wn 846 {P-GPM} ][ 0 {} eautwn 0 {} ] 0 {} >en 1722 {PREP} >agajopoi"'ia| 16 {N-DSF} . 0 {} 
+
+$ 20:5:1 Presbut'erous 4245 {A-APM-C} to`us 3588 {T-APM} >en 1722 {PREP} <um\~in 4771 {P-2DP} parakal\~w 3870 {V-PAI-1S} <o 3588 {T-NSM} sumpresb'uteros 4850 {N-NSM-C} ka`i 2532 {CONJ} m'artus 3144 {N-NSM} t\~wn 3588 {T-GPN} to\~u 3588 {T-GSM} qristo\~u 5547 {N-GSM} pajhm'atwn 3804 {N-GPN} , 0 {} <o 3588 {T-NSM} ka`i 2532 {CONJ} t\~hs 3588 {T-GSF} mello'ushs 3195 {V-PAP-GSF} >apokal'uptesjai 601 {V-PPN} d'oxhs 1391 {N-GSF} koinwn'os 2844 {N-NSM} ; 0 {} 
+
+$ 20:5:2 poim'anate 4165 {V-AAM-2P} t`o 3588 {T-ASN} >en 1722 {PREP} <um\~in 4771 {P-2DP} po'imnion 4168 {N-ASN} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} , 0 {} >episkopo\~untes 1983 {V-PAP-NPM} m`h 3361 {PRT-N} >anagkast\~ws 317 {ADV} , 0 {} >all' 235 {CONJ} <ekous'iws 1596 {ADV} ; 0 {} mhd`e 3366 {CONJ-N} a>isqrokerd\~ws 147 {ADV} , 0 {} >all`a 235 {CONJ} proj'umws 4290 {ADV} ; 0 {} 
+
+$ 20:5:3 [ 0 {} mhd`e 3366 {CONJ-N} ][ 0 {} mhd 0 {} ] 0 {} <ws 5613 {ADV} katakurie'uontes 2634 {V-PAP-NPM} t\~wn 3588 {T-GPM} kl'hrwn 2819 {N-GPM} , 0 {} >all`a 235 {CONJ} t'upoi 5179 {N-NPM} gin'omenoi 1096 {V-PNP-NPM} to\~u 3588 {T-GSN} poimn'iou 4168 {N-GSN} . 0 {} 
+
+$ 20:5:4 Ka`i 2532 {CONJ} fanerwj'entos 5319 {V-APP-GSM} to\~u 3588 {T-GSM} >arqipo'imenos 750 {N-GSM} , 0 {} komie\~isje 2865 {V-FDI-2P-ATT} t`on 3588 {T-ASM} >amar'antinon 262 {A-ASM} t\~hs 3588 {T-GSF} d'oxhs 1391 {N-GSF} st'efanon 4735 {N-ASM} . 0 {} 
+
+$ 20:5:5 <Omo'iws 3668 {ADV} , 0 {} ne'wteroi 3501 {A-NPM-C} , 0 {} <upot'aghte 5293 {V-2APM-2P} presbut'erois 4245 {A-DPM-C} ; 0 {} p'antes 3956 {A-NPM} d`e 1161 {CONJ} >all'hlois 240 {C-DPM} <upotass'omenoi 5293 {V-PPP-NPM} , 0 {} t`hn 3588 {T-ASF} tapeinofros'unhn 5012 {N-ASF} >egkomb'wsasje 1463 {V-ADM-2P} ; 0 {} '<oti 3754 {CONJ} <o 3588 {T-NSM} je`os 2316 {N-NSM} <uperhf'anois 5244 {A-DPM} >antit'assetai 498 {V-PMI-3S} , 0 {} tapeino\~is 5011 {A-DPM} d`e 1161 {CONJ} d'idwsin 1325 {V-PAI-3S} q'arin 5485 {N-ASF} . 0 {} 
+
+$ 20:5:6 Tapein'wjhte 5013 {V-APM-2P} o\~>un 3767 {CONJ} <up`o 5259 {PREP} t`hn 3588 {T-ASF} kratai`an 2900 {A-ASF} qe\~ira 5495 {N-ASF} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} , 0 {} '<ina 2443 {CONJ} <um\~as 4771 {P-2AP} <uy'wsh| 5312 {V-AAS-3S} >en 1722 {PREP} kair\~w| 2540 {N-DSM} , 0 {} 
+
+$ 20:5:7 p\~asan 3956 {A-ASF} t`hn 3588 {T-ASF} m'erimnan 3308 {N-ASF} <um\~wn 4771 {P-2GP} >epirr'iyantes 1977 {V-AAP-NPM} >ep' 1909 {PREP} a>ut'on 846 {P-ASM} , 0 {} '<oti 3754 {CONJ} a>ut\~w| 846 {P-DSM} m'elei 3199 {V-PAI-3S} per`i 4012 {PREP} <um\~wn 4771 {P-2GP} . 0 {} 
+
+$ 20:5:8 N'hyate 3525 {V-AAM-2P} , 0 {} grhgor'hsate 1127 {V-AAM-2P} ][ 0 {} oti 0 {} o 0 {} ] 0 {} ; 0 {} [ 0 {} <o 3588 {T-NSM} >ant'idikos 476 {N-NSM} <um\~wn 4771 {P-2GP} di'abolos 1228 {A-NSM} , 0 {} <ws 5613 {ADV} l'ewn 3023 {N-NSM} >wru'omenos 5612 {V-PNP-NSM} , 0 {} peripate\~i 4043 {V-PAI-3S} zht\~wn 2212 {V-PAP-NSM} t'ina 5101 {I-ASM} katap'ih| 2666 {V-2AAS-3S} ; 0 {} 
+
+$ 20:5:9 \~<w| 3739 {R-DSM} >ant'isthte 436 {V-2AAM-2P} stereo`i 4731 {A-NPM} t\~h| 3588 {T-DSF} p'istei 4102 {N-DSF} , 0 {} e>id'otes 1492 {V-RAP-NPM} t`a 3588 {T-APN} a>ut`a 846 {P-APN} t\~wn 3588 {T-GPN} pajhm'atwn 3804 {N-GPN} t\~h| 3588 {T-DSF} >en 1722 {PREP} k'osmw| 2889 {N-DSM} <um\~wn 4771 {P-2GP} >adelf'othti 81 {N-DSF} >epitele\~isjai 2005 {V-PPN} . 0 {} 
+
+$ 20:5:10 <O 3588 {T-NSM} d`e 1161 {CONJ} je`os 2316 {N-NSM} p'ashs 3956 {A-GSF} q'aritos 5485 {N-GSF} , 0 {} <o 3588 {T-NSM} [ 0 {} kal'esas 2564 {V-AAP-NSM} <um\~as 4771 {P-2AP} ][ 0 {} kalesas 0 {} hmas 0 {} ] 0 {} e>is 1519 {PREP} t`hn 3588 {T-ASF} a>i'wnion 166 {A-ASF} a>uto\~u 846 {P-GSM} d'oxan 1391 {N-ASF} >en 1722 {PREP} qrist\~w| 5547 {N-DSM} >Ihso\~u 2424 {N-DSM} , 0 {} >ol'igon 3641 {ADV} paj'ontas 3958 {V-2AAP-APM} a>ut`os 846 {P-NSM} katart'isai 2675 {V-AAO-3S} <um\~as 4771 {P-2AP} , 0 {} [ 0 {} sthr'ixei 4741 {V-FAI-3S} , 0 {} sjen'wsei 4599 {V-FAI-3S} , 0 {} jemeli'wsei 2311 {V-FAI-3S} ][ 0 {} sthrixai 0 {} sjenwsai 0 {} jemeliwsai 0 {} ] 0 {} . 0 {} 
+
+$ 20:5:11 A>ut\~w| 846 {P-DSM} <h 3588 {T-NSF} d'oxa 1391 {N-NSF} ka`i 2532 {CONJ} t`o 3588 {T-NSN} kr'atos 2904 {N-NSN} e>is 1519 {PREP} to`us 3588 {T-APM} a>i\~wnas 165 {N-APM} t\~wn 3588 {T-GPM} a>i'wnwn 165 {N-GPM} . 0 {} >Am'hn 281 {HEB} . 0 {} 
+
+$ 20:5:12 % 0 {} Di`a 1223 {PREP} Silouano\~u 4610 {N-GSM} <um\~in 4771 {P-2DP} to\~u 3588 {T-GSM} pisto\~u 4103 {A-GSM} >adelfo\~u 80 {N-GSM} , 0 {} <ws 5613 {ADV} log'izomai 3049 {V-PNI-1S} , 0 {} di' 1223 {PREP} >ol'igwn 3641 {A-GPN} '>egraya 1125 {V-AAI-1S} , 0 {} parakal\~wn 3870 {V-PAP-NSM} ka`i 2532 {CONJ} >epimartur\~wn 1957 {V-PAP-NSM} ta'uthn 3778 {D-ASF} e\~>inai 1510 {V-PAN} >alhj\~h 227 {A-ASF} q'arin 5485 {N-ASF} to\~u 3588 {T-GSM} jeo\~u 2316 {N-GSM} e>is 1519 {PREP} `<hn 3739 {R-ASF} <est'hkate 2476 {V-RAI-2P} . 0 {} 
+
+$ 20:5:13 >Asp'azetai 782 {V-PNI-3S} <um\~as 4771 {P-2AP} <h 3588 {T-NSF} >en 1722 {PREP} Babul\~wni 897 {N-DSF} suneklekt'h 4899 {A-NSF} , 0 {} ka`i 2532 {CONJ} M'arkos 3138 {N-NSM} <o 3588 {T-NSM} u<i'os 5207 {N-NSM} mou 1473 {P-1GS} . 0 {} 
+
+$ 20:5:14 >Asp'asasje 782 {V-ADM-2P} >all'hlous 240 {C-APM} >en 1722 {PREP} fil'hmati 5370 {N-DSN} >ag'aphs 26 {N-GSF} . 0 {} % 0 {} E>ir'hnh 1515 {N-NSF} <um\~in 4771 {P-2DP} p\~asin 3956 {A-DPM} to\~is 3588 {T-DPM} >en 1722 {PREP} qrist\~w| 5547 {N-DSM} >Ihso\~u 2424 {N-DSM} . 0 {} >Am'hn 281 {HEB} 

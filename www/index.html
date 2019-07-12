@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="Context-Type" content="text/html; charset=utf-8" charset="utf-8" />
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta charset="utf-8" name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+    </head>
+    <body style="margin:0;">
+
+
+ 
+<div id="loading_div" style="display:block; text-align:center;">
+	<!--<img src="img/logo1.png">-->
+<svg id="loading_logo_svg" width="226.66667" height="266.66666"><path id="loading_logo_path"
+d="M 71.235964,236.95505 C 69.301953,235.98651 60.414461,217.78921 41.640098,176.35693 L 14.808271,117.14299 18.1081,105.5715 c 1.814906,-6.364328 6.68226,-18.426432 10.816342,-26.804678 5.971861,-12.102741 9.320715,-17.065477 16.296036,-24.149427 4.828737,-4.903939 11.479523,-10.288911 14.779523,-11.966604 6.906211,-3.511064 21.623872,-5.073315 27.732686,-2.943772 3.64735,1.271475 4.372496,0.964364 9.061605,-3.837719 2.974612,-3.046278 8.173218,-6.384405 12.484688,-8.016665 13.76726,-5.212082 35.7135,-1.254456 44.62525,8.047391 2.00301,2.090704 16.62495,31.767142 33.54133,68.074954 29.33986,62.97243 29.93887,64.42979 27.6199,67.19674 -1.30371,1.55554 -2.471,3.02252 -2.594,3.25993 -0.12307,0.2374 -2.2294,-0.62911 -4.68088,-1.92557 -6.76748,-3.57902 -22.32736,-3.3148 -32.5113,0.55204 -10.10597,3.83724 -21.13082,12.00614 -21.71881,16.09262 -0.64736,4.49912 5.98485,17.03944 11.2214,21.21769 3.19585,2.54998 4.5514,4.7236 4.55143,7.29823 4e-5,4.24351 -0.2129,4.31453 -5.20159,1.73477 -7.64452,-3.95313 -16.31431,-16.57829 -18.16732,-26.45571 -0.92135,-4.91118 -0.94627,-4.92723 -6.44465,-4.15192 -21.24358,2.99552 -44.789725,19.30769 -58.186405,40.31005 -3.300001,5.1735 -6.300001,9.3679 -6.666667,9.32088 -0.366667,-0.0471 -1.910484,-0.70838 -3.430704,-1.46968 z m 4.632254,-55.28839 c 13.467771,-27.81757 35.394252,-42.88805 55.859332,-38.39317 l 4.25451,0.93444 -9.78872,-20.4373 C 120.80955,112.53012 110.83138,91.633331 104.01963,77.333331 97.207877,63.033332 90.378035,50.224761 88.842199,48.869841 86.551231,46.848741 84.344105,46.492483 76.551628,46.885985 68.21291,47.307072 66.131653,47.977681 59.501738,52.379697 50.437581,58.39796 41.523529,69.948949 34.527105,84.742279 L 29.446603,95.484562 50.257295,141.74228 C 61.703176,167.18402 71.45813,188 71.934973,188 c 0.476843,0 2.246803,-2.85 3.933245,-6.33334 z m 90.174582,-48.3854 c 7.00562,-2.36232 17.92172,-2.15943 23.11146,0.42955 2.29849,1.14664 4.17908,1.92923 4.17908,1.73907 0,-0.19015 -9.61751,-20.99417 -21.37223,-46.231141 -14.71584,-31.594392 -22.50209,-46.826439 -25,-48.906859 -7.16655,-5.968777 -22.96898,-8.630971 -33.62777,-5.665185 -5.49623,1.529312 -14.666672,8.710175 -14.666672,11.484647 0,1.065459 6.386452,15.271776 14.192122,31.569593 7.80567,16.297819 18.61612,38.859545 24.02323,50.137175 l 9.8311,20.50478 7.01958,-6.63883 c 3.86077,-3.65136 9.40032,-7.44161 12.3101,-8.4228 z"></svg>
+	<br>
+	<span id="loading_title_span">Tetelestai:<br>Biblical Languages App</span>
+	<br>
+	<br>
+	<span id="loading_message_span">Loading...</span>
+	<br>
+	<br>
+	<div id="loading_spinner_div"></div>
+</div>
+
+<div id="menu_div" style="display:none; margin-left:auto; margin-right:auto; z-index:1; padding:5px 5px;">
+	<button id="return_button" style="display:block; margin-right:auto;">Return</button>
+	<br><br>
+</div>
+
+
+<div id="top_div" style="display:none; margin-left:auto; margin-right:auto; z-index:1; text-align:center;">
+	<table width="100%"><tr>
+		<td width="33%"><button id="menu_button" style="display:block; margin-right:auto;">Menu</button></td>
+		<td width="67%">
+			<button id="search_button" style="display:block; float:right;">Search</button>
+			<select id="switch_select" style="display:none; margin-left:auto;">
+				<option id="switch_option_english" value="english">English</option>
+				<option id="switch_option_hebrew" value="hebrew">Hebrew</option>
+				<option id="switch_option_greek" value="greek">Greek</option>
+				<option id="switch_option_latin" value="latin">Latin</option>
+			</select>
+		</td>
+	</tr></table>	
+	<br>
+	<button id="top_prev_button" style="display:inline;">Prev</button>
+	<span id="top_chapter_span"></span>
+	<button id="top_next_button" style="display:inline;">Next</button>
+	<br><br>
+</div>
+
+<div id="main_div" style="z-index:1; text-align:justify; text-justify:inter-word; padding:5px 5px;">
+</div>
+
+<div id="bottom_div" style="display:none; margin-left:auto; margin-right:auto; z-index:1; text-align:center;">	
+	<button id="bottom_prev_button">Prev</button>
+	<span id="bottom_chapter_span"></span>
+	<button id="bottom_next_button">Next</button>
+	<br>
+	<br>
+</div>
+
+<div id="popup_div" style="display:none; z-index:2; position:absolute; left:0px; top:0px; border-style:solid; background-color:white;">
+</div>
+
+
+
+	<!-- must be at the end of the body -->
+	<script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+
+    </body>
+</html>
+
+

@@ -1,0 +1,29 @@
+<?xml version='1.6' encoding='utf-8'?>
+<widget id="io.kjvandgntapp.ver1" version="1.6.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Biblical Languages</name>
+    <description>
+        The KJV English with Hebrew OT, Greek NT, and Latin NT.
+    </description>
+    <author email="stevenchadburrow@gmail.com">
+        Steven Chad Burrow
+    </author>
+    <icon src="www/img/logo1.png" />
+    <content src="index.html" />
+    <preference name="orientation" value="portrait" />
+    <preference name="android-targetSdkVersion" value="26"/>
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="file:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+</widget>
