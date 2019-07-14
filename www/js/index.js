@@ -5270,8 +5270,6 @@ function Print()
 				temp_elem.value += " " + open_current_chapter + ":" + this.getAttribute("data-number") + " - " + this.innerHTML.split("<br><br>")[0];
 				document.body.appendChild(temp_elem);
 
-				//console.log(document.getElementById("temporary_copy_input").value);
-
 				document.getElementById("temporary_copy_input").select();
 				document.execCommand("copy");
 				document.body.removeChild(document.getElementById("temporary_copy_input"));
