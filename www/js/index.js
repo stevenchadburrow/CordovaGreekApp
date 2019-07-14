@@ -5254,7 +5254,7 @@ function Print()
 				document.getElementById("popup_div").style.display = "inline";
 			});
 		}
-
+/*
 		list = document.getElementsByClassName("copy_verse");
 
 		for (var list_loop=0; list_loop<list.length; list_loop++)
@@ -5313,7 +5313,7 @@ function Print()
 				}, 1000);
 			});
 		}
-
+*/
 		if (open_first_load == true)
 		{
 			open_first_load = false;
