@@ -1,5 +1,5 @@
 
-var open_app_version = "1.8";
+var open_app_version = "1.9";
 
 document.location.href = document.location.href.split("#")[0] + "#";
 
@@ -5378,11 +5378,33 @@ function Grab()
 	
 	if (seek_flag == false) return false;	
 
+	var copy_verse_string = open_current_english.join(" ");
+	
+	while (copy_verse_string.indexOf("<i>") != -1)
+	{
+		copy_verse_string = copy_verse_string.replace("<i>", "");
+	}
+
+	while (copy_verse_string.indexOf("</i>") != -1)
+	{
+		copy_verse_string = copy_verse_string.replace("</i>", "");
+	}
+
+	while (copy_verse_string.indexOf("<span style='color:" + open_options_jesus_color + "'>") != -1)
+	{
+		copy_verse_string = copy_verse_string.replace("<span style='color:" + open_options_jesus_color + "'>", "");
+	}
+
+	while (copy_verse_string.indexOf("</span>") != -1)
+	{
+		copy_verse_string = copy_verse_string.replace("</span>", "");
+	}
+
 	var elem = document.createElement("span");
 	elem.id = "v" + open_current_verse;
 	elem.setAttribute("class", "english_verse");
 	elem.setAttribute("data-number", open_current_verse + "");
-	elem.setAttribute("data-copy", open_current_english.join(" "));
+	elem.setAttribute("data-copy", copy_verse_string);
 	elem.style.fontSize = open_options_english_font + "px";
 	elem.style.color = open_options_text_color;
 	elem.innerHTML = "<b>" + open_current_verse + "</b>&nbsp;&nbsp;";
