@@ -5235,9 +5235,35 @@ function Print()
 				document.getElementById("popup_div").style.fontSize = open_options_popup_font + "px";
 				document.getElementById("popup_div").style.color = open_options_text_color;
 			
-				document.getElementById("popup_div").innerHTML = this.getAttribute("data-web") + "<br>";
+				document.getElementById("popup_div").innerHTML = "Select, then Copy<br>";
+
+				var temp_elem = document.createElement("input");
+				temp_elem.id = "popup_copy_input";
+				temp_elem.type = "text";
+				temp_elem.style.height = "20px";
+				temp_elem.style.width = (open_options_popup_width - 10) + "px";
+				if (open_current_mode == "english_ot") temp_elem.value = open_ot_name_listing[open_current_book];
+				else if (open_current_mode == "english_nt") temp_elem.value = open_nt_name_listing[open_current_book];
+				temp_elem.value += " " + open_current_chapter + ":" + this.getAttribute("data-number") + " - " + this.getAttribute("data-copy");
+				document.getElementById("popup_div").appendChild(temp_elem);
+
+				temp_elem = document.createElement("br");
+				document.getElementById("popup_div").appendChild(temp_elem);
+		
+				temp_elem = document.createElement("br");
+				document.getElementById("popup_div").appendChild(temp_elem);
 	
-				var temp_elem = document.createElement("button");
+				temp_elem = document.createElement("button");
+				temp_elem.style.float = "left";
+				temp_elem.innerHTML = "Select";
+				temp_elem.addEventListener("click", function()
+				{
+					document.getElementById("popup_copy_input").select();
+				});
+				document.getElementById("popup_div").appendChild(temp_elem);
+
+				temp_elem = document.createElement("button");
+				temp_elem.style.float = "right";
 				temp_elem.innerHTML = "Close";
 				temp_elem.addEventListener("click", function()
 				{
@@ -5255,7 +5281,7 @@ function Print()
 			});
 		}
 
-		list = document.getElementsByClassName("copy_verse");
+		list = document.getElementsByClassName("full_verse");
 
 		for (var list_loop=0; list_loop<list.length; list_loop++)
 		{
@@ -5276,27 +5302,9 @@ function Print()
 				document.getElementById("popup_div").style.fontSize = open_options_popup_font + "px";
 				document.getElementById("popup_div").style.color = open_options_text_color;
 			
-				document.getElementById("popup_div").innerHTML = "Verse Ready to Copy<br>";
-
-				var temp_elem = document.createElement("input");
-				temp_elem.type = "text";
-				temp_elem.style.height = "20px";
-				temp_elem.style.width = (open_options_popup_width - 10) + "px";
-				if (open_current_mode == "english_ot") temp_elem.value = open_ot_name_listing[open_current_book];
-				else if (open_current_mode == "english_nt") temp_elem.value = open_nt_name_listing[open_current_book];
-				temp_elem.value += " " + open_current_chapter + ":" + this.getAttribute("data-number") + " - " + this.innerHTML.split("<br><br>")[0];
-				document.getElementById("popup_div").appendChild(temp_elem);
-
-				temp_elem.select();
-				//document.execCommand("copy");
-
-				temp_elem = document.createElement("br");
-				document.getElementById("popup_div").appendChild(temp_elem);
-		
-				temp_elem = document.createElement("br");
-				document.getElementById("popup_div").appendChild(temp_elem);
+				document.getElementById("popup_div").innerHTML = this.getAttribute("data-web") + "<br>";
 	
-				temp_elem = document.createElement("button");
+				var temp_elem = document.createElement("button");
 				temp_elem.innerHTML = "Close";
 				temp_elem.addEventListener("click", function()
 				{
@@ -5373,15 +5381,16 @@ function Grab()
 	var elem = document.createElement("span");
 	elem.id = "v" + open_current_verse;
 	elem.setAttribute("class", "english_verse");
-	elem.setAttribute("data-web", "<b>" + open_current_verse + "</b> " + open_current_web.join(" ") + " &nbsp;&nbsp;[WEB]");
+	elem.setAttribute("data-number", open_current_verse + "");
+	elem.setAttribute("data-copy", open_current_english.join(" "));
 	elem.style.fontSize = open_options_english_font + "px";
 	elem.style.color = open_options_text_color;
 	elem.innerHTML = "<b>" + open_current_verse + "</b>&nbsp;&nbsp;";
 	document.getElementById("main_div").appendChild(elem);
 	
 	elem = document.createElement("span");
-	elem.setAttribute("class", "copy_verse");
-	elem.setAttribute("data-number", open_current_verse + "");
+	elem.setAttribute("class", "full_verse");
+	elem.setAttribute("data-web", "<b>" + open_current_verse + "</b> " + open_current_web.join(" ") + " &nbsp;&nbsp;[WEB]");
 	elem.style.fontSize = open_options_english_font + "px";
 	elem.style.color = open_options_text_color;
 	elem.innerHTML = open_current_english.join(" ") + "<br><br>";
