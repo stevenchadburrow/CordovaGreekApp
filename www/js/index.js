@@ -5244,7 +5244,7 @@ function Print()
 				temp_elem.style.width = (open_options_popup_width - 10) + "px";
 				if (open_current_mode == "english_ot") temp_elem.value = open_ot_name_listing[open_current_book];
 				else if (open_current_mode == "english_nt") temp_elem.value = open_nt_name_listing[open_current_book];
-				temp_elem.value += " " + open_current_chapter + ":" + this.getAttribute("data-number") + " - " + this.getAttribute("data-copy");
+				temp_elem.value += " " + open_current_chapter + ":" + this.getAttribute("data-number") + " - " + this.getAttribute("data-copy") + "\n";
 				document.getElementById("popup_div").appendChild(temp_elem);
 
 				temp_elem = document.createElement("br");
