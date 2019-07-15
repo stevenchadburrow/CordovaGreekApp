@@ -1,5 +1,5 @@
 
-var open_app_version = "1.7";
+var open_app_version = "1.8";
 
 document.location.href = document.location.href.split("#")[0] + "#";
 
