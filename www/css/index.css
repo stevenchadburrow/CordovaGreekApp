@@ -41,6 +41,7 @@ input {
 	border: solid 2px dargrey;
 	border-radius: 5px;
 	box-shadow: 0 2px darkgrey;
+	-webkit-user-select: text;
 }
 
 p {
