@@ -10,7 +10,7 @@
     <icon src="www/img/logo1.png" />
     <content src="index.html" />
     <preference name="orientation" value="portrait" />
-    <preference name="android-targetSdkVersion" value="26"/>
+    <preference name="android-targetSdkVersion" value="28"/>
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
