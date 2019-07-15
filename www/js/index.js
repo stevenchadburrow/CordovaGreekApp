@@ -5254,26 +5254,13 @@ function Print()
 				document.getElementById("popup_div").style.display = "inline";
 			});
 		}
-/*
+
 		list = document.getElementsByClassName("copy_verse");
 
 		for (var list_loop=0; list_loop<list.length; list_loop++)
 		{
 			list[list_loop].addEventListener("click", function(event)
 			{
-				var temp_elem = document.createElement("input");
-				temp_elem.type = "text";
-				temp_elem.id = "temporary_copy_input";
-				temp_elem.style.width = "0px";
-				if (open_current_mode == "english_ot") temp_elem.value = open_ot_name_listing[open_current_book];
-				else if (open_current_mode == "english_nt") temp_elem.value = open_nt_name_listing[open_current_book];
-				temp_elem.value += " " + open_current_chapter + ":" + this.getAttribute("data-number") + " - " + this.innerHTML.split("<br><br>")[0];
-				document.body.appendChild(temp_elem);
-
-				document.getElementById("temporary_copy_input").select();
-				document.execCommand("copy");
-				document.body.removeChild(document.getElementById("temporary_copy_input"));
-
 				if (event.pageX > window.innerWidth - open_options_popup_width - 20)
 				{
 					document.getElementById("popup_div").style.left = (window.innerWidth - open_options_popup_width - 20) + "px";
@@ -5289,9 +5276,27 @@ function Print()
 				document.getElementById("popup_div").style.fontSize = open_options_popup_font + "px";
 				document.getElementById("popup_div").style.color = open_options_text_color;
 			
-				document.getElementById("popup_div").innerHTML = "Verse Copied to Clipboard" + "<br>";
+				document.getElementById("popup_div").innerHTML = "Verse Ready to Copy<br>";
+
+				var temp_elem = document.createElement("input");
+				temp_elem.type = "text";
+				temp_elem.style.height = "20px";
+				temp_elem.style.width = (open_options_popup_width - 10) + "px";
+				if (open_current_mode == "english_ot") temp_elem.value = open_ot_name_listing[open_current_book];
+				else if (open_current_mode == "english_nt") temp_elem.value = open_nt_name_listing[open_current_book];
+				temp_elem.value += " " + open_current_chapter + ":" + this.getAttribute("data-number") + " - " + this.innerHTML.split("<br><br>")[0];
+				document.getElementById("popup_div").appendChild(temp_elem);
+
+				temp_elem.select();
+				//document.execCommand("copy");
+
+				temp_elem = document.createElement("br");
+				document.getElementById("popup_div").appendChild(temp_elem);
+		
+				temp_elem = document.createElement("br");
+				document.getElementById("popup_div").appendChild(temp_elem);
 	
-				var temp_elem = document.createElement("button");
+				temp_elem = document.createElement("button");
 				temp_elem.innerHTML = "Close";
 				temp_elem.addEventListener("click", function()
 				{
@@ -5306,14 +5311,9 @@ function Print()
 				document.getElementById("popup_div").appendChild(temp_elem);
 		
 				document.getElementById("popup_div").style.display = "inline";
-
-				setTimeout(function()
-				{
-					document.getElementById("popup_div").getElementsByTagName("button")[0].click();
-				}, 1000);
 			});
 		}
-*/
+
 		if (open_first_load == true)
 		{
 			open_first_load = false;
