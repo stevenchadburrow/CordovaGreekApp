@@ -1,5 +1,5 @@
 
-var open_app_version = "1.12";
+var open_app_version = "1.13";
 
 // this disables the hardware's "back" button
 document.addEventListener("deviceready", function()
@@ -4078,7 +4078,9 @@ function Show()
 		});
 		document.getElementById("popup_div").appendChild(first_elem);
 
-		for (var option_loop=1; option_loop<=open_nt_range_listing[open_current_book]; option_loop++)
+		for (var option_loop=1; option_loop<=(open_current_mode=="english_ot"||open_current_mode=="hebrew"?
+			open_ot_range_listing[open_current_book]:(open_current_mode=="english_nt"||open_current_mode=="greek"||open_current_mode=="latin"?
+			open_nt_range_listing[open_current_book]:0)); option_loop++)
 		{
 			temp_elem = document.createElement("option");
 			temp_elem.value = open_current_mode + " " + open_current_book + " " + option_loop;
@@ -4170,7 +4172,9 @@ function Show()
 		});
 		document.getElementById("popup_div").appendChild(first_elem);
 
-		for (var option_loop=1; option_loop<=open_nt_range_listing[open_current_book]; option_loop++)
+		for (var option_loop=1; option_loop<=(open_current_mode=="english_ot"||open_current_mode=="hebrew"?
+			open_ot_range_listing[open_current_book]:(open_current_mode=="english_nt"||open_current_mode=="greek"||open_current_mode=="latin"?
+			open_nt_range_listing[open_current_book]:0)); option_loop++)
 		{
 			temp_elem = document.createElement("option");
 			temp_elem.value = open_current_mode + " " + open_current_book + " " + option_loop;
@@ -4830,7 +4834,9 @@ function Paint()
 		});
 		document.getElementById("popup_div").appendChild(first_elem);
 
-		for (var option_loop=1; option_loop<=open_nt_range_listing[open_current_book]; option_loop++)
+		for (var option_loop=1; option_loop<=(open_current_mode=="english_ot"||open_current_mode=="hebrew"?
+			open_ot_range_listing[open_current_book]:(open_current_mode=="english_nt"||open_current_mode=="greek"||open_current_mode=="latin"?
+			open_nt_range_listing[open_current_book]:0)); option_loop++)
 		{
 			temp_elem = document.createElement("option");
 			temp_elem.value = open_current_mode + " " + open_current_book + " " + option_loop;
@@ -4922,7 +4928,9 @@ function Paint()
 		});
 		document.getElementById("popup_div").appendChild(first_elem);
 
-		for (var option_loop=1; option_loop<=open_nt_range_listing[open_current_book]; option_loop++)
+		for (var option_loop=1; option_loop<=(open_current_mode=="english_ot"||open_current_mode=="hebrew"?
+			open_ot_range_listing[open_current_book]:(open_current_mode=="english_nt"||open_current_mode=="greek"||open_current_mode=="latin"?
+			open_nt_range_listing[open_current_book]:0)); option_loop++)
 		{
 			temp_elem = document.createElement("option");
 			temp_elem.value = open_current_mode + " " + open_current_book + " " + option_loop;
@@ -5419,7 +5427,9 @@ function Scribe()
 		});
 		document.getElementById("popup_div").appendChild(first_elem);
 
-		for (var option_loop=1; option_loop<=open_nt_range_listing[open_current_book]; option_loop++)
+		for (var option_loop=1; option_loop<=(open_current_mode=="english_ot"||open_current_mode=="hebrew"?
+			open_ot_range_listing[open_current_book]:(open_current_mode=="english_nt"||open_current_mode=="greek"||open_current_mode=="latin"?
+			open_nt_range_listing[open_current_book]:0)); option_loop++)
 		{
 			temp_elem = document.createElement("option");
 			temp_elem.value = open_current_mode + " " + open_current_book + " " + option_loop;
@@ -5511,7 +5521,9 @@ function Scribe()
 		});
 		document.getElementById("popup_div").appendChild(first_elem);
 
-		for (var option_loop=1; option_loop<=open_nt_range_listing[open_current_book]; option_loop++)
+		for (var option_loop=1; option_loop<=(open_current_mode=="english_ot"||open_current_mode=="hebrew"?
+			open_ot_range_listing[open_current_book]:(open_current_mode=="english_nt"||open_current_mode=="greek"||open_current_mode=="latin"?
+			open_nt_range_listing[open_current_book]:0)); option_loop++)
 		{
 			temp_elem = document.createElement("option");
 			temp_elem.value = open_current_mode + " " + open_current_book + " " + option_loop;
@@ -5921,7 +5933,9 @@ function Print()
 		});
 		document.getElementById("popup_div").appendChild(first_elem);
 
-		for (var option_loop=1; option_loop<=open_nt_range_listing[open_current_book]; option_loop++)
+		for (var option_loop=1; option_loop<=(open_current_mode=="english_ot"||open_current_mode=="hebrew"?
+			open_ot_range_listing[open_current_book]:(open_current_mode=="english_nt"||open_current_mode=="greek"||open_current_mode=="latin"?
+			open_nt_range_listing[open_current_book]:0)); option_loop++)
 		{
 			temp_elem = document.createElement("option");
 			temp_elem.value = open_current_mode + " " + open_current_book + " " + option_loop;
@@ -6013,7 +6027,9 @@ function Print()
 		});
 		document.getElementById("popup_div").appendChild(first_elem);
 
-		for (var option_loop=1; option_loop<=open_nt_range_listing[open_current_book]; option_loop++)
+		for (var option_loop=1; option_loop<=(open_current_mode=="english_ot"||open_current_mode=="hebrew"?
+			open_ot_range_listing[open_current_book]:(open_current_mode=="english_nt"||open_current_mode=="greek"||open_current_mode=="latin"?
+			open_nt_range_listing[open_current_book]:0)); option_loop++)
 		{
 			temp_elem = document.createElement("option");
 			temp_elem.value = open_current_mode + " " + open_current_book + " " + option_loop;
