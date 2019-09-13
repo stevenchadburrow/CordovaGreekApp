@@ -1,5 +1,5 @@
 
-var open_app_version = "1.10";
+var open_app_version = "1.12";
 
 // this disables the hardware's "back" button
 document.addEventListener("deviceready", function()
