@@ -4014,7 +4014,9 @@ function Show()
 	localStorage.setItem("myLastBook", open_current_book);
 	localStorage.setItem("myLastChapter", open_current_chapter);
 
+	document.getElementById("copy_mode_a").innerHTML = "Copy Verses";
 	document.getElementById("copy_mode_a").style.display = "none";
+	document.getElementById("copy_mode_div").style.display = "none";
 
 	document.getElementById("main_div").innerHTML = "";
 
@@ -4764,7 +4766,9 @@ function Paint()
 	localStorage.setItem("myLastBook", open_current_book);
 	localStorage.setItem("myLastChapter", open_current_chapter);
 
+	document.getElementById("copy_mode_a").innerHTML = "Copy Verses";
 	document.getElementById("copy_mode_a").style.display = "none";
+	document.getElementById("copy_mode_div").style.display = "none";
 
 	document.getElementById("main_div").innerHTML = "";
 
@@ -5351,7 +5355,9 @@ function Scribe()
 	localStorage.setItem("myLastBook", open_current_book);
 	localStorage.setItem("myLastChapter", open_current_chapter);
 
+	document.getElementById("copy_mode_a").innerHTML = "Copy Verses";
 	document.getElementById("copy_mode_a").style.display = "none";
+	document.getElementById("copy_mode_div").style.display = "none";
 
 	document.getElementById("main_div").innerHTML = "";
 
@@ -5837,7 +5843,9 @@ function Print()
 	localStorage.setItem("myLastBook", open_current_book);
 	localStorage.setItem("myLastChapter", open_current_chapter);
 
+	document.getElementById("copy_mode_a").innerHTML = "Copy Verses";
 	document.getElementById("copy_mode_a").style.display = "inline";
+	document.getElementById("copy_mode_div").style.display = "none";
 	document.getElementById("copy_mode_a").style.fontSize = open_options_english_font + "px";
 	document.getElementById("copy_mode_a").style.color = open_options_text_color;
 	document.getElementById("copy_mode_span").style.fontSize = open_options_english_font + "px";
