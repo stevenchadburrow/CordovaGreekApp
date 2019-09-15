@@ -1,5 +1,5 @@
 
-var open_app_version = "1.13";
+var open_app_version = "1.14";
 
 // this disables the hardware's "back" button
 document.addEventListener("deviceready", function()
@@ -6343,6 +6343,10 @@ function Grab()
 
 function Display()
 {
+	document.getElementById("copy_mode_a").innerHTML = "Copy Verses";
+	document.getElementById("copy_mode_a").style.display = "none";
+	document.getElementById("copy_mode_div").style.display = "none";
+
 	if (open_current_mode == "greek_tools" && open_current_book == 0)
 	{
 		document.getElementById("top_chapter_span").innerHTML = "<b>Greek Search</b>";
