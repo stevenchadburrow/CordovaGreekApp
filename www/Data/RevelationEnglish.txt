@@ -12,7 +12,7 @@ $ 26:1:6 And hath made us kings and priests unto God and his Father; to him [ be
 
 $ 26:1:7 Behold, he cometh with clouds; and every eye shall see him, and they [ also ] which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen. 
 
-$ 26:1:8 \  I am Alpha and Omega, the beginning and the ending, /  saith the Lord, which is, and which was, and which is to come, the Almighty. 
+$ 26:1:8 \  I am Alpha and Omega, the beginning and the ending, /  saith the Lord, \  which is, and which was, and which is to come, the Almighty. /  
 
 $ 26:1:9 I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ. 
 
@@ -555,7 +555,7 @@ $ 26:16:13 And I saw three unclean spirits like frogs [ come ] out of the mouth 
 
 $ 26:16:14 For they are the spirits of devils, working miracles, [ which ] go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty. 
 
-$ 26:16:15 Behold, I come as a thief. Blessed [ is ] he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame. 
+$ 26:16:15 \  Behold, I come as a thief. Blessed [ is ] he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame. / 
 
 $ 26:16:16 And he gathered them together into a place called in the Hebrew tongue Armageddon. 
 
@@ -797,7 +797,7 @@ $ 26:22:5 And there shall be no night there; and they need no candle, neither li
 
 $ 26:22:6 And he said unto me, These sayings [ are ] faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done. 
 
-$ 26:22:7 \  Behold, I come quickly: /  blessed [ is ] he that keepeth the sayings of the prophecy of this book. 
+$ 26:22:7 \  Behold, I come quickly: blessed [ is ] he that keepeth the sayings of the prophecy of this book. / 
 
 $ 26:22:8 And I John saw these things, and heard [ them ].  And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things. 
 

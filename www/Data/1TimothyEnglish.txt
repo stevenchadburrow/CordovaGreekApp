@@ -170,7 +170,7 @@ $ 14:5:16 If any man or woman that believeth have widows, let them relieve them,
 
 $ 14:5:17 Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine. 
 
-$ 14:5:18 For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer [ is ] worthy of his reward. 
+$ 14:5:18 For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, \  The labourer [ is ] worthy of his reward. / 
 
 $ 14:5:19 Against an elder receive not an accusation, but before two or three witnesses. 
 
