@@ -866,4 +866,7 @@ $ 5:16:24 <H 3588 {T-NSF} q'aris 5485 {N-NSF} to\~u 3588 {T-GSM} kur'iou 2962 {N
 
 $ 5:16:25 [ 0 {} - 0 {} ][ 0 {} tw 0 {} de 0 {} dunamenw 0 {} umas 0 {} sthrixai 0 {} kata 0 {} to 0 {} euaggelion 0 {} mou 0 {} kai 0 {} to 0 {} khrugma 0 {} ihsou 0 {} qristou 0 {} kata 0 {} apokaluyin 0 {} musthriou 0 {} qronois 0 {} aiwniois 0 {} sesighmenou 0 {} ] 0 {} 
 
-$ 5:16:26 
+$ 5:16:26 [ 0 {} - 0 {} ][ 0 {} fanerwjentos 0 {} de 0 {} nun 0 {} dia 0 {} te 0 {} grafwn 0 {} profhtikwn 0 {} kat 0 {} epitaghn 0 {} tou 0 {} aiwniou 0 {} jeou 0 {} eis 0 {} upakohn 0 {} pistews 0 {} eis 0 {} panta 0 {} ta 0 {} ejnh 0 {} gnwrisjentos 0 {} ] 0 {}
+
+$ 5:16:27 [ 0 {} - 0 {} ][ 0 {} monw 0 {} sofw 0 {} jew 0 {} dia 0 {} ihsou 0 {} qristou 0 {} h 0 {} doxa 0 {} eis 0 {} tous 0 {} aiwnas 0 {} amhn 0 {} ] 0 {}
+
